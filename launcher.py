@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Windows launcher for the Mewgenics Ukrainian translation patcher.
+Windows launcher for the Mewgenics Ukrainian translation installer.
 Designed to be bundled into a single .exe via PyInstaller.
 """
 
@@ -20,7 +20,7 @@ def get_base_path() -> Path:
 
 
 def run() -> None:
-    from patch_gpak import main
+    from install import main
 
     translations = get_base_path() / "data" / "uk" / "translated"
     main(translations_dir=translations)

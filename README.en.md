@@ -1,6 +1,6 @@
 # Mewgenics — Ukrainian Translation
 
-Unofficial Ukrainian localization for the Steam game [Mewgenics](https://store.steampowered.com/app/1223680/Mewgenics/). Uses LLM-powered translation to convert English game text into Ukrainian and patches it directly into the game.
+Unofficial Ukrainian localization for the Steam game [Mewgenics](https://store.steampowered.com/app/1223680/Mewgenics/). Uses LLM-powered translation to convert English game text into Ukrainian and installs it into the game directory.
 
 [Українська версія](README.md)
 
@@ -11,14 +11,15 @@ Unofficial Ukrainian localization for the Steam game [Mewgenics](https://store.s
 Download the latest build for your platform from [Releases](https://github.com/tarik02/mewgenics-uk/releases), run the executable, and it will automatically:
 
 1. Find your Mewgenics installation via Steam
-2. Back up the original game data (`resources.gpak` -> `resources.gpak.bak`)
-3. Patch Ukrainian translations into the game
+2. Copy translated files into the game directory
 
-Re-run the patcher any time after a game update to re-apply translations.
+Alternatively, download the `mewgenics-uk-data.zip` archive and extract its contents into the game directory manually.
+
+Re-run the installer (or re-extract the archive) any time after a game update to re-apply translations.
 
 ## Caveats & Future Improvements
 
-- The patch does not add a new language — it replaces an existing one (in this case, Spanish with Ukrainian). This means if you want to revert to the original English, you need to restore the backup `resources.gpak.bak`, or verify game files through Steam.
+- If you want to revert to the original game, delete the copied translation files from the game directory or verify game files through Steam.
 - The translation may contain errors or inaccuracies, as it was generated automatically with minimal manual intervention.
 - It would be nice to automate the translation update process after a game patch (steamcmd + scheduled GitHub Actions).
 
@@ -80,13 +81,13 @@ Translation features:
 - Optional custom prompt (`data/<lang>/prompt.txt`) for language-specific rules
 - Game markup preservation (`[img:...]`, `[b]`, `[color...]`, etc.)
 
-**3. Patch** translations back into the game:
+**3. Install** translations into the game:
 
 ```bash
-uv run python patch_gpak.py
+uv run python install.py
 ```
 
-Creates a backup and replaces text files in the game archive with translated versions.
+Copies translated files into the game directory, where they are loaded instead of `resources.gpak` content.
 
 ### Building Executables
 
@@ -94,7 +95,7 @@ Creates a backup and replaces text files in the game archive with translated ver
 uv run --group build python build_exe.py
 ```
 
-Produces a single-file executable in `dist/` that bundles the translated data and patcher.
+Produces a single-file executable in `dist/` that bundles the translated data and installer.
 
 ## Sponsorship
 

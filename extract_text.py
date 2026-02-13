@@ -12,7 +12,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from game import find_original_gpak_path
+from game import GPAK_NAME, find_game_path
 from gpak import Gpak
 
 def main() -> None:
@@ -25,10 +25,11 @@ def main() -> None:
 
     gpak_path: Path | None = args.gpak
     if gpak_path is None:
-        gpak_path = find_original_gpak_path()
-        if gpak_path is None:
+        game_path = find_game_path()
+        if game_path is None:
             print("Error: could not auto-detect game path. Provide --gpak path manually.")
             sys.exit(1)
+        gpak_path = game_path / GPAK_NAME
         print(f"Auto-detected: {gpak_path}")
 
     if not gpak_path.is_file():
