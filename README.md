@@ -4,6 +4,8 @@
 
 [English version](README.en.md)
 
+![Скріншот гри з українським перекладом](.github/media/game-uk.png)
+
 ## Для гравців
 
 Завантажте останню збірку для вашої платформи з [Releases](https://github.com/tarik02/mewgenics-uk/releases), запустіть виконуваний файл, і він автоматично:

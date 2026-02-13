@@ -4,6 +4,8 @@ Unofficial Ukrainian localization for the Steam game [Mewgenics](https://store.s
 
 [Українська версія](README.md)
 
+![Game screenshot with Ukrainian translation](.github/media/game-uk.png)
+
 ## For Players
 
 Download the latest build for your platform from [Releases](https://github.com/tarik02/mewgenics-uk/releases), run the executable, and it will automatically:
