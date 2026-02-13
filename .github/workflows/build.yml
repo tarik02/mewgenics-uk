@@ -42,10 +42,27 @@ jobs:
           name: ${{ matrix.artifact }}
           path: dist/${{ matrix.exe }}
 
+  archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Create translation archive
+        run: cd data/uk/translated && zip -r "$GITHUB_WORKSPACE/mewgenics-uk-data.zip" data swfs
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v6
+        with:
+          name: mewgenics-uk-data
+          path: mewgenics-uk-data.zip
+
   release:
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
 
-    needs: build
+    needs: [build, archive]
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -62,6 +79,7 @@ jobs:
           mv artifacts/mewgenics-uk-windows/mewgenics-uk.exe release-artifacts/mewgenics-uk-windows.exe
           mv artifacts/mewgenics-uk-linux/mewgenics-uk release-artifacts/mewgenics-uk-linux
           mv artifacts/mewgenics-uk-macos/mewgenics-uk release-artifacts/mewgenics-uk-macos
+          mv artifacts/mewgenics-uk-data/mewgenics-uk-data.zip release-artifacts/mewgenics-uk-data.zip
 
       - uses: release-drafter/release-drafter@v6
         id: drafter
@@ -74,6 +92,7 @@ jobs:
             release-artifacts/mewgenics-uk-windows.exe \
             release-artifacts/mewgenics-uk-linux \
             release-artifacts/mewgenics-uk-macos \
+            release-artifacts/mewgenics-uk-data.zip \
             --clobber \
             -R ${{ github.repository }}
         env:

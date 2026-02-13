@@ -86,21 +86,3 @@ def find_game_path() -> Path | None:
             return Path(c)
 
     return None
-
-
-def find_original_gpak_path() -> Path | None:
-    """Find the resources.gpak file."""
-    game_path = find_game_path()
-    if game_path is None:
-        return None
-    bak_path = game_path / (GPAK_NAME + ".bak")
-    if bak_path.is_file():
-        return bak_path
-    return game_path / GPAK_NAME
-
-def find_gpak_path() -> Path | None:
-    """Find the resources.gpak file."""
-    game_path = find_game_path()
-    if game_path is None:
-        return None
-    return game_path / GPAK_NAME
