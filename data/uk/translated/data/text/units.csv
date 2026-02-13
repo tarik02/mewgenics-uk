@@ -938,8 +938,8 @@ ENEMY_CAVEMANCHIEF_NAME,Caveman Chief,,Вождь печерних людей,Ch
 ENEMY_CAVEMANCHIEF_DESC,"Its melee attack inflicts Stun.
 Goes for killing blows against enemies with 10 or fewer HP.
 Buffs its humanoid allies.
-Hates Cats!",,"Атака в ближньому бою завдає приголомшення.
-Намагається добити ворогів із 10 або менше HP.
+Hates Cats!",,"Його атака в ближньому бою спричиняє Приголомшення.
+Прагне добивати ворогів з 10 або менше ОЗ.
 Підсилює своїх гуманоїдних союзників.
 Ненавидить котів!","Son attaque au corps-à-corps inflige Étourdissement.
 Achève les ennemis avec 10&nbsp;PV ou moins, en priorité.
@@ -1098,9 +1098,9 @@ ENEMY_HANGERBOT_CHARMED_NAME,Hängenbot friend,,Hängenbot friend,Hängenbot ami
 ENEMY_DOKTORBOT_NAME,Doktorbot,Doctor Bot,Doktorbot,Doktorbot,Doktorbot,Doktorbot,Doktorbot
 ENEMY_DOKTORBOT_DESC,"Heals its allies and gives them random buffs.
 Spawns Invaders.
-Collects Pickups.",,"Лікує союзників і дає їм випадкові бафи.
+Collects Pickups.",,"Лікує своїх союзників і надає їм випадкові позитивні ефекти.
 Заспавнює Invaders.
-Підбирає предмети.","Soigne ses alliés et leur confère des bonus aléatoires.
+Збирає предмети.","Soigne ses alliés et leur confère des bonus aléatoires.
 Invoque des envahisseurs.
 Ramasse les ressources.","Heilt seine Verbündeten und verleiht ihnen zufällige Stärkungen.
 Lässt Eindringlinge erscheinen.
@@ -1112,13 +1112,13 @@ Pega coletáveis."
 ENEMY_KRUGHEAD_NAME,Krughead,jar head,Krughead,Bierkopf,Krugkopf,Testa in Barattolen,Cabeça de Jarro
 ENEMY_KRUGHEAD_DESC,"Melee attacker. Gives its allies extra turns.
 Immune to Magic and Debuffs.",,"Ближній атакувальник. Надає своїм союзникам додаткові ходи.
-Невразливий до магії та дебафів.","Attaque au corps-à-corps. Confère des tours bonus à ses alliés.
+Імунний до Магії та негативних ефектів.","Attaque au corps-à-corps. Confère des tours bonus à ses alliés.
 Immunité aux dégâts magiques et aux malus.","Nahkämpfer. Verleiht seinen Verbündeten zusätzliche Züge.
 Immun gegen Magie und Schwächungen.","Specialista del corpo a corpo. Fornisce ai suoi alleati turni aggiuntivi.
 Immune alla magia e ai malus.","Agressor corpo-a-corpo. Concede turnos extras a aliados.
 Imune contra magia e enfraquecimentos."
 ENEMY_FETUSJAR_NAME,Fötusjar,fetus jar,Fötusjar,Fötusjar,Fötusglas,Feto in Barattolen,Fötusjar
-ENEMY_FETUSJAR_DESC,Multi-hit melee attacker. Immune to Magic and Debuffs.,,"Ближній атакувальник, що наносить кілька ударів. Невразливий до магії та дебафів.",Attaque multiple au corps-à-corps. Immunité aux dégâts magiques et aux malus.,Nahkämpfer mit Mehrfachtreffer. Immun gegen Magie und Schwächungen.,Specialista degli attacchi corpo a corpo multipli. Immune alla magia e ai malus.,Agressor corpo-a-corpo multigolpes. Imune a magia e enfraquecimentos.
+ENEMY_FETUSJAR_DESC,Multi-hit melee attacker. Immune to Magic and Debuffs.,,Багатоударний ближній атакувальник. Імунний до Магії та негативних ефектів.,Attaque multiple au corps-à-corps. Immunité aux dégâts magiques et aux malus.,Nahkämpfer mit Mehrfachtreffer. Immun gegen Magie und Schwächungen.,Specialista degli attacchi corpo a corpo multipli. Immune alla magia e ai malus.,Agressor corpo-a-corpo multigolpes. Imune a magia e enfraquecimentos.
 ENEMY_FETUSNOJAR_NAME,Der Fötus,"fetus (no jar) [""der fetus"" is a loose pun on Dr Fetus from meat boy]",Der Fötus,Der Fötus,Der Fötus,Der Fötus,Der Fötus
 ENEMY_FETUSNOJAR_DESC,"Multi-hit melee attacker.
 Calls an airstrike when at low health.",,"Ближній атакувальник, що наносить кілька ударів.
@@ -1216,8 +1216,8 @@ ENEMY_THROBSERVANT_NAME,Throbbing Servant,,Throbbing Servant,Servant lancinant,P
 ENEMY_THROBSERVANT_DESC,Ranged attacker that has a chance to destroy equipment and attach a parasite. Spawns Maggots.,,"Дальній атакувальник, який має шанс зруйнувати спорядження та прикріпити паразита. Заспавнить опаришів.",Attaque à distance avec une chance de détruire l'équipement et d'y fixer un parasite. Invoque des asticots.,"Fernkämpfer, der Ausrüstung zerstören und einen Parasit anheften kann. Lässt Maden erscheinen.",Specialista degli attacchi a distanza che ha la possibilità di distruggere l'equipaggiamento e di piazzare un parassita. Genera Larve.,Agressor à distância que possui uma chance de destruir equipamentos e conectar um parasita. Gera vermes.
 ENEMY_FLESHLAD_NAME,Flesh Lad,,Flesh Lad,Boxeur de chair,Fleischkerl,Carnicolo,Carniça
 ENEMY_FLESHLAD_DESC,"Attacks as many times as it can, then uppercuts and inflicts Bruise. Gains an extra attack per turn each time it takes damage.
-Gains Speed at the end of its turn.",,"Атакує стільки разів, скільки може, потім робить аперкот і накладає Ушиб. Кожного разу, коли отримує шкоду, додає ще одну атаку за хід.
-Отримує Швидкість наприкінці свого ходу.","Attaque autant de fois que possible, puis assène un uppercut qui inflige Contusion. Gagne une attaque supplémentaire par tour chaque fois qu'il subit des dégâts.
+Gains Speed at the end of its turn.",,"Атакує стільки разів, скільки може, потім робить апперкот і накладає Синець. Кожного разу, коли отримує шкоду, отримує додаткову атаку за хід.
+Отримує Швидкість у кінці свого ходу.","Attaque autant de fois que possible, puis assène un uppercut qui inflige Contusion. Gagne une attaque supplémentaire par tour chaque fois qu'il subit des dégâts.
 Gagne en vitesse à la fin de son tour.","Greift so oft an, wie er kann, führt einen Kinnhaken aus und verursacht Beulen. Erhält jedes Mal, wenn er Schaden erleidet, einen zusätzlichen Angriff pro Zug.
 Erhält am Ende seines Zuges Geschwindigkeit.","Attacca tante volte quante gli è possibile, poi esegue un montante e infligge Livido. Ottiene un attacco aggiuntivo per turno ogni volta che subisce danno.
 Ottiene Velocità alla fine del suo turno.","Ataca tantas vezes quanto possível, e então lança um upper e aplica contusão. Obtém um ataque adicional por turno a cada vez que sofre dano. Obtém velocidade no final de seu turno."
@@ -1848,8 +1848,8 @@ Reanima corpos mortos.
 Volta à vida através de corpos mortos."
 ENEMY_FRANKLIN_NAME,Franklin,,Franklin,Franklin,Franklin,Franklin,Franklin
 ENEMY_FRANKLIN_DESC,"Spawns Robots and crafts weapons.
-Enters a Mech when at low HP.",,"Заспавнює роботів і виготовляє зброю.
-Заходить у мех при низькому HP.","Invoque des robots et fabrique des armes.
+Enters a Mech when at low HP.",,"Заспавнює роботів і створює зброю.
+Сідає в меха, коли має мало ОЗ.","Invoque des robots et fabrique des armes.
 Grimpe dans une armure mecha quand ses PV sont bas.","Erschafft Roboter und stellt Waffen her.
 Setzt sich bei niedrigen LP in einen Mech.","Genera robot e crea armi.
 Quando ha pochi PS entra in un Mech.","Gera robôs e fabrica armas.
@@ -2576,7 +2576,7 @@ OBJECT_MINIVOLCANO_NAME,Mini Volcano,,Міні-Вулкан,Mini volcan,Minivulk
 OBJECT_MINIVOLCANO_DESC,Spawns lava rocks when attacked.,,"Заспавнює лавові камені, коли на нього нападають.",Fait apparaître des cailloux chauds bouillants quand il est attaqué.,"Lässt Lavasteine erscheinen, wenn er angegriffen wird.",Quando viene attaccato genera rocce di lava.,Gera pedras de lava ao sofrer ataques.
 OBJECT_PUNCHINGBAG_NAME,Punching Bag,,Боксерська груша,Sac de frappe,Sandsack,Sacco da Boxe,Saco de Pancada
 OBJECT_GRENADE_NAME,Grenade,,Граната,Grenade,Granate,Granata,Granada
-OBJECT_GRENADE_DESC,Explodes on its turn or if it's destroyed. Explosion shreds 5 stacks of random buffs off of whatever it hits.,,"Вибухає у свій хід або коли її знищують. Вибух зриває 5 стеків випадкових бафів з будь-кого, по кому він влучає.",Explose durant son tour ou si elle est détruite. L'explosion retire 5&nbsp;cumuls de bonus aléatoires à toutes les cibles touchées.,"Explodiert in ihrem Zug, oder wenn sie zerstört wird. Die Explosion entfernt 5&nbsp;Stapel zufälliger Stärkungen von Einheiten, die sie trifft.","Esplode durante il suo turno o se viene distrutta.
+OBJECT_GRENADE_DESC,Explodes on its turn or if it's destroyed. Explosion shreds 5 stacks of random buffs off of whatever it hits.,,"Вибухає у свій хід або якщо його знищать. Вибух знімає 5 стеків випадкових позитивних ефектів з будь-якої цілі, у яку він влучає.",Explose durant son tour ou si elle est détruite. L'explosion retire 5&nbsp;cumuls de bonus aléatoires à toutes les cibles touchées.,"Explodiert in ihrem Zug, oder wenn sie zerstört wird. Die Explosion entfernt 5&nbsp;Stapel zufälliger Stärkungen von Einheiten, die sie trifft.","Esplode durante il suo turno o se viene distrutta.
 L'esplosione rimuove 5 stack casuali di bonus da qualunque cosa colpisca.",Explode em seu turno ou ao ser destruída. A explosão destrói 5 acumulações de fortalecimentos aleatórios ou qualquer coisa que atinja.
 OBJECT_SLOTMACHINE_NAME,Slot Machine,,Ігровий автомат,Machine à sous,Spielautomat,Slot Machine,Máquina Caça-Níqueis
 OBJECT_SLOTMACHINE_DESC,Attack to play! Explodes when destroyed.,,"Атакуйте, щоб зіграти! Вибухає при знищенні.",Attaquez pour jouer&nbsp;! Explose quand elle est détruite.,"Angreifen, um zu spielen! Explodiert, wenn er zerstört wird.",Attacca per giocare! Esplode quando viene distrutta.,Ataque para jogar! Explode ao ser destruída.
@@ -2654,7 +2654,7 @@ PICKUP_MEDIUMCATNIP_DESC,Gain +4 mana when eaten.,,Надає +4 мани при
 PICKUP_BIGCATNIP_NAME,Big Catnip,,Велика котяча м'ята,Grosse herbe à chat,Große Katzenminze,Erba Gatta Grande,Erva-de-Gato Grande
 PICKUP_BIGCATNIP_DESC,Gain +6 mana when eaten.,,Надає +6 мани при з'їданні.,"Consommée, confère Mana +6.",Erhalte +6&nbsp;Mana.,Ottieni +6 al mana quando la mangi.,Obtenha +6 de mana ao comer.
 PICKUP_ANTIDOTE_NAME,Antidote,,Антидот,Antidote,Gegengift,Antidoto,Antídoto
-PICKUP_ANTIDOTE_DESC,Cleanse all debuffs when eaten.,,Знімає всі дебафи при з'їданні.,Consommé dissipe tous les malus.,Reinige alle Schwächungen.,Elimina tutti i malus quando viene ingerito.,Purifica todos os enfraquecimentos ao comer.
+PICKUP_ANTIDOTE_DESC,Cleanse all debuffs when eaten.,,"Очищає всі негативні ефекти, коли його з'їдають.",Consommé dissipe tous les malus.,Reinige alle Schwächungen.,Elimina tutti i malus quando viene ingerito.,Purifica todos os enfraquecimentos ao comer.
 ,,,,,,,
 //tiles,,,,,,,
 TILE_BRAMBLETILE_NAME,Bramble Tile,,Колюча клітинка,Case de ronces,Dornengestrüpp,Casella di Rovi,Espaço de Espinheiro

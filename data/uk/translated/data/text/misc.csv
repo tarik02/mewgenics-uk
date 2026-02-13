@@ -4,7 +4,7 @@ AREA_NAME_TUTORIAL,The Path,,Шлях,La Route,Der Trampelpfad,Il Sentiero,O Cam
 AREA_NAME_HOUSE,Home,,Дім,La Maison,Dein Haus,Casa,Casa
 AREA_NAME_ALLEY,The Alley,,Провулок,La Ruelle,Die Gasse,Il Vicolo,O Beco
 AREA_NAME_SEWERS,The Sewers,,Каналізація,Les Égouts,Die Kanalisation,Le Fogne,O Esgoto
-AREA_NAME_JUNKYARD,The Junkyard,,Свалка,La Décharge,Der Schrottplatz,La Discarica,O Ferro-Velho
+AREA_NAME_JUNKYARD,The Junkyard,,Звалище,La Décharge,Der Schrottplatz,La Discarica,O Ferro-Velho
 AREA_NAME_CAVES,The Caves,,Печери,Les Grottes,Die Höhlen,Le Caverne,As Cavernas
 AREA_NAME_BONEYARD,The Boneyard,,Кістяний цвинтар,Le Cimetière,Der Friedhof,Il Cimitero,O Cemitério
 AREA_NAME_MEATWORLD,The Throbbing Domain,,Пульсуюче володіння,Le Domaine lancinant,Das Pulsierende Reich,Il Regno Pulsante,O Domínio Pulsante
@@ -168,7 +168,7 @@ WORLDEVENT_LOSE_1_FOOD,{Catname} stored 1 food!,,{Catname} зберіг(ла) 1 
 WORLDEVENT_LOSE_1_FOOD_M,,,,,,,
 WORLDEVENT_LOSE_1_FOOD_F,,,,,,,
 WORLDEVENT_LOSE_1_FOOD_N,,,,,,,
-WORLDEVENT_INJURY_PREVENTED,"{Catname} should have suffered an injury, but was immune!",,"{Catname} мав(ла) б отримати травму, але був(ла) імунний(а)!",{Catname} a évité une blessure grâce à son immunité&nbsp;!,"{Catname} wäre eigentlich verletzt worden, ist aber immun!","{Catname} avrebbe dovuto subire una ferita, ma era immune!","{Catname} deveria ter sofrido um ferimento, mas estava imune!"
+WORLDEVENT_INJURY_PREVENTED,"{Catname} should have suffered an injury, but was immune!",,"{Catname} повинен був зазнати ушкодження, але був невразливим!",{Catname} a évité une blessure grâce à son immunité&nbsp;!,"{Catname} wäre eigentlich verletzt worden, ist aber immun!","{Catname} avrebbe dovuto subire una ferita, ma era immune!","{Catname} deveria ter sofrido um ferimento, mas estava imune!"
 WORLDEVENT_INJURY_PREVENTED_M,,,,,,,
 WORLDEVENT_INJURY_PREVENTED_F,,,,,,,
 WORLDEVENT_INJURY_PREVENTED_N,,,,,,,
@@ -325,7 +325,7 @@ HOUSE_CAT_INFO_RIVAL_M,,,,,,,
 HOUSE_CAT_INFO_RIVAL_F,,,,,,,
 HOUSE_CAT_INFO_RIVAL_N,,,,,,,
 HOUSE_CAT_INFO_AGE,Age {age},,Вік {age},Âge&nbsp;: {age},Alter {age},Età: {age},Idade: {age}
-HOUSE_CAT_INFO_HP,HP:,,ХП:,PV&nbsp;:,LP:,PS:,PV:
+HOUSE_CAT_INFO_HP,HP:,,ОЗ:,PV&nbsp;:,LP:,PS:,PV:
 HOUSE_CAT_INFO_LEVEL,Lv.,,Рів.,Niv.,Lv.,Liv:,Nv.
 HOUSE_CAT_INFO_OLD,old,,старий,ans,alt,vecchio,
 HOUSE_CAT_INFO_STR_NAME,[img:str]Strength,,[img:str]Сила,[img:str]Force,[img:str]Stärke,[img:str]Forza,[img:str]Força
@@ -832,7 +832,7 @@ UNIT_TYPE_WORM,Worm,,Черв'як,Ver,Wurm,Verme,Verme
 UNIT_TYPE_ZOMBIE,Zombie,,Зомбі,Zombie,Zombie,Zombie,Zumbi
 ,,,,,,,
 //cat classes,,,,,,,
-CAT_CLASS_FIGHTER_NAME,Fighter,,Бійець,Pugiliste,Krieger,Guerriero,Lutador
+CAT_CLASS_FIGHTER_NAME,Fighter,,Боєць,Pugiliste,Krieger,Guerriero,Lutador
 CAT_CLASS_FIGHTER_DESC,Punch your way to victory! Fighters are great at doing big strong melee attacks and smashing things to pieces!,,Проламай собі дорогу до перемоги кулаками! Бійці чудово виконують потужні рукопашні атаки й розбивають усе на друзки!,Foncez vers la victoire à coups de poing&nbsp;! Les pugilistes excellent dans les attaques au corps-à-corps surpuissantes et réduisent tout en miettes.,Lass deine Fäuste sprechen! Krieger verfügen über starke Nahkampfangriffe und schlagen gern Dinge zu Brei!,Avanza a suon di pugni! I guerrieri sono bravissimi a sferrare potenti attacchi corpo a corpo e a spaccare tutto!,Abra caminho até a vitória a socos e pontapés! Lutadores são ótimos em realizar poderosos ataques corpo-a-corpo e destruir coisas!
 CAT_CLASS_HUNTER_NAME,Hunter,,Мисливець,Sentinelle,Jäger,Cacciatore,Caçador
 CAT_CLASS_HUNTER_DESC,Shoot things from afar! Hunters are great at hitting things from a distance while staying out of danger themselves!,,"Стріляй здалеку! Мисливці чудово влучають по цілях з відстані, тримаючись подалі від небезпеки!",Attaquez vos adversaires à distance&nbsp;! Les sentinelles excellent dans les attaques à longue portée qui leur permettent de rester loin du danger.,Schieß deine Gegner aus der Ferne ab! Jäger sind ausgezeichnete Fernkämpfer und können selbst außer Reichweite bleiben!,Spara da lontano! I cacciatori sono bravissimi a colpire da lontano restando a distanza di sicurezza!,Dispare coisas de longe! Caçadores são ótimos em acertar alvos de longe enquanto se mantêm fora do perigo!
@@ -846,17 +846,17 @@ CAT_CLASS_THIEF_NAME,Thief,,Злодій,Fourbe,Dieb,Ladro,Ladrão
 CAT_CLASS_THIEF_DESC,"Attack from the shadows! Thiefs are great at evading hits, collecting coins, and striking from behind!",,"Атакуй із тіні! Злодії вміло ухиляються від ударів, збирають монети й завдають ударів із-за спини!","Il attaque depuis les ombres&nbsp;! Les fourbes sont passés maîtres dans l'esquive, le vol et les attaques sournoises.","Greif aus den Schatten an! Diebe weichen am liebsten Treffern aus, sammeln Münzen aus und schlagen von hinten zu!","Attacca dall'ombra! I ladri sono bravissimi a schivare i colpi, raccogliere monete e colpire alle spalle!","Ataque pelas sombras! Ladrões são ótimos em evitar ataques, coletar moedas e atacar por trás!"
 CAT_CLASS_COLORLESS_NAME,Collarless,,Без ошийника,Sans collier,Klassenlos,Senza Collare,Sem coleira
 CAT_CLASS_COLORLESS_DESC,It's a cat!,,Це кіт!,C'est... juste un chat&nbsp;!,Eine normale Katze!,È un gatto!,É um gato!
-CAT_CLASS_MONK_NAME,Monk,,Monk,Moine,Mönch,Monaco,Monge
+CAT_CLASS_MONK_NAME,Monk,,Монах,Moine,Mönch,Monaco,Monge
 CAT_CLASS_MONK_DESC,A versatile combat master! Monks can switch between ranged and melee stances and attack twice per turn!,,Універсальний майстер бою! Монахи можуть переходити між дистанційною й рукопашною стійками й атакувати двічі за хід!,"Nul combattant n'est plus polyvalent&nbsp;! Les moines alternent entre attaques à distance et au corps-à-corps, et peuvent attaquer deux fois par tour.",Ein vielseitiger Kampfkünstler! Mönche können zwischen Fern- und Nahkampfhaltung wechseln und zweimal pro Zug angreifen!,Un maestro del combattimento versatile! I monaci possono passare dalla postura a distanza a quella corpo a corpo e attaccare due volte per turno!,Mestres do combate versátil! Monges podem alternar entre posturas à distância e corpo-a-corpo e atacar duas vezes por turno!
-CAT_CLASS_BUTCHER_NAME,Butcher,,Butcher,Barbare,Schlachter,Macellaio,Açougueiro
+CAT_CLASS_BUTCHER_NAME,Butcher,,М'ясник,Barbare,Schlachter,Macellaio,Açougueiro
 CAT_CLASS_BUTCHER_DESC,Meat Meat Meat Meat Meat! Butchers are great at cleaving chunks of meat off of things and have a hook to pull stuff towards them!,,"М'ясо М'ясо М'ясо М'ясо М'ясо! М'ясники чудово відрубують шматки м'яса з усього підряд і мають гак, щоб підтягувати предмети до себе!",L'expert de la découpe&nbsp;! Les barbares tranchent leurs ennemis en rondelles et usent de leur crochet pour les ramener à portée.,"Fleisch, Fleisch, Fleisch! Schlachter schneiden ganze Stücke von ihren Gegnern ab und haben einen Fleischerhaken im Gepäck, mit dem sie alles Mögliche an sich heranziehen können!",Carne carne carne carne carne! I macellai sono bravissimi a staccare pezzi di carne dalle cose e hanno un uncino per attirarle verso di loro!,"Carne, carne, carne, carne, carne! Açougueiros são ótimos em cortar pedaços de carne das coisas e têm um gancho para puxá-las em sua direção!"
-CAT_CLASS_DRUID_NAME,Druid,,Druid,Druide,Druide,Druido,Druida
+CAT_CLASS_DRUID_NAME,Druid,,Друїд,Druide,Druide,Druido,Druida
 CAT_CLASS_DRUID_DESC,One with nature! Druids are great at summoning animal friends and come with a special Crow counterpart!,,У єдності з природою! Друїди чудово викликають друзів‑тварин і мають особливого ворона-партнера!,Il ne fait qu'un avec la nature&nbsp;! Les druides peuvent appeler leurs amis animaux à la rescousse et disposent d'un corbeau domestiqué.,Er ist eins mit der Natur! Druiden beschwören Tierfreunde und haben einen schlauen Krähenbegleiter!,Un tutt'uno con la natura! I druidi sono bravissimi a evocare amici animali e hanno una controparte speciale: il corvo!,Em união com a natureza! Druidas são ótimos em invocar amigos animais e possuem um companheiro corvo especial!
-CAT_CLASS_TINKERER_NAME,Tinkerer,,Tinkerer,Scientifique,Bastler,Inventore,Artífice
+CAT_CLASS_TINKERER_NAME,Tinkerer,,Винахідник,Scientifique,Bastler,Inventore,Artífice
 CAT_CLASS_TINKERER_DESC,A crafty inventor! Tinkerers are great at crafting temporary weapons and using all sorts of crazy gadgets!,,Хитромудрий винахідник! Винахідники чудово виготовляють тимчасову зброю і користуються усілякими божевільними ґаджетами!,Un inventeur de génie&nbsp;! Les scientifiques conçoivent des armes éphémères et manient pléthore de gadgets farfelus.,Ein erfinderisches Genie! Bastler können behelfsmäßige Waffen herstellen und alle möglichen verrückte Geräte verwenden!,Ha un'incredibile ingegnosità! Gli inventori sono bravissimi a creare armi temporanee e a usare ogni sorta di gadget strampalato!,Invenções engenhosas! Artífices são ótimos em criar armas temporárias e utilizar todo tipo de engenhoca maluca!
-CAT_CLASS_NECROMANCER_NAME,Necromancer,,Necromancer,Occultiste,Totenbeschwörer,Necromante,Necromante
+CAT_CLASS_NECROMANCER_NAME,Necromancer,,Некромант,Occultiste,Totenbeschwörer,Necromante,Necromante
 CAT_CLASS_NECROMANCER_DESC,Rise from the dead! Necromancers are great at playing with corpses and leeching life from enemies!,,Встань із мертвих! Некроманти чудово граються з трупами й відсмоктують життя у ворогів!,Le maître de la nécromancie&nbsp;! Les occultistes manipulent les cadavres et drainent la vitalité de leurs ennemis.,"Erhebe dich von den Toten! Totenbeschwörer lieben es, mit Leichen zu spielen und ihren Gegnern Leben abzusaugen!",Risorgi dai morti! I necromanti sono bravissimi a giocare con i cadaveri e a succhiare la vita dai nemici!,Erga-se dos mortos! Necromantes são ótimos em brincar com cadáveres e drenar vida dos inimigos!
-CAT_CLASS_PSYCHIC_NAME,Psychic,,Psychic,Médium,Medium,Psionico,Psíquico
-CAT_CLASS_PSYCHIC_DESC,Clear your mind! Psychics are great at manipulating things from afar and moving objects with their minds! Psychics also have +5 starting mana.,,Очисти розум! Психіки чудово маніпулюють предметами здалеку й переміщують об'єкти силою думки! У психіків також +5 початкової мани.,Faites le vide dans votre esprit&nbsp;! Les médiums sont capables de déplacer les objets par la pensée et gagnent +5 mana de départ.,Reinige dein Innerstes! Das Medium kann Dinge aus der Ferne manipulieren und allein mit den Gedanken Objekte bewegen! Außerdem verfügt das Medium über +5&nbsp;Anfangsmana.,Libera la tua mente! Gli psionici sono bravissimi a manipolare le cose da lontano e a spostare gli oggetti con la mente! Inoltre hanno anche +5 di mana iniziale.,Esvazie sua mente! Psíquicos são ótimos em manipular as coisas de longe e mover objetos com suas mentes! Psíquicos também possuem +5 de mana inicial.
-CAT_CLASS_JESTER_NAME,Jester,,Jester,Joker,Narr,Giullare,Curinga
+CAT_CLASS_PSYCHIC_NAME,Psychic,,Екстрасенс,Médium,Medium,Psionico,Psíquico
+CAT_CLASS_PSYCHIC_DESC,Clear your mind! Psychics are great at manipulating things from afar and moving objects with their minds! Psychics also have +5 starting mana.,,Очисти розум! Екстрасенси чудово маніпулюють предметами здалеку й переміщують об'єкти силою думки! У екстрасенсів також +5 початкової мани.,Faites le vide dans votre esprit&nbsp;! Les médiums sont capables de déplacer les objets par la pensée et gagnent +5 mana de départ.,Reinige dein Innerstes! Das Medium kann Dinge aus der Ferne manipulieren und allein mit den Gedanken Objekte bewegen! Außerdem verfügt das Medium über +5&nbsp;Anfangsmana.,Libera la tua mente! Gli psionici sono bravissimi a manipolare le cose da lontano e a spostare gli oggetti con la mente! Inoltre hanno anche +5 di mana iniziale.,Esvazie sua mente! Psíquicos são ótimos em manipular as coisas de longe e mover objetos com suas mentes! Psíquicos também possuem +5 de mana inicial.
+CAT_CLASS_JESTER_NAME,Jester,,Блазень,Joker,Narr,Giullare,Curinga
 CAT_CLASS_JESTER_DESC,You can be anything! Jesters have no limits!,,Ти можеш бути ким завгодно! Блазні не мають обмежень!,Devenez qui vous voulez&nbsp;! Les jokers n'ont aucune limite&nbsp;!,Du kannst alles sein! Narren kennen keine Grenzen!,Puoi essere ciò che vuoi! I giullari non hanno limiti!,Seja qualquer coisa! Curingas não têm limites!
