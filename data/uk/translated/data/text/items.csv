@@ -57,7 +57,7 @@ Geht nach Benutzung mit 5%iger Wahrscheinlichkeit kaputt.","Uso: Generi Carne su
 5% di probabilità di rompersi quando viene utilizzato.","Uso: gere carne em um espaço adjacente.
 5% de chance de quebrar após o uso."
 ITEM_BAGOFROCKS_NAME,Bag of Rocks,,Мішок каміння,Sac de pierres,Steintasche,Sacco di Rocce,Saco de Pedras
-ITEM_BAGOFROCKS_DESC,Use: A melee attack that inflicts Bruise.,,"Використати: Атака в ближньому бою, яка накладає Ушиб.",Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Contusion.,"Benutzen: Ein Nahkampfangriff, der Beulen verursacht.",Uso: Un attacco corpo a corpo che infligge Livido.,Uso: um ataque corpo-a-corpo que aplica contusão.
+ITEM_BAGOFROCKS_DESC,Use: A melee attack that inflicts Bruise.,,"Використати: атака в ближньому бою, що накладає Синець.",Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Contusion.,"Benutzen: Ein Nahkampfangriff, der Beulen verursacht.",Uso: Un attacco corpo a corpo che infligge Livido.,Uso: um ataque corpo-a-corpo que aplica contusão.
 ITEM_BAGOFSTUFF_NAME,Bag o' Stuff,,Мішок всякої всячини,Sac mystère,Tasche mit Zeug,Sacco di Roba,Saco de Coisas
 ITEM_BAGOFSTUFF_DESC,"Use: Spawn a random pickup on an adjacent tile.
 5% chance to break when used.",,"Використати: Заспавнити випадковий предмет на сусідній клітинці.
@@ -203,9 +203,9 @@ ITEM_BRICKS_DESC,"Use: A lobbed attack that inflicts Stun.
 ITEM_BUCKETOFACID_NAME,Vial of Acid,,Флакон кислоти,Flacon d'acide,Säureflasche,Fiala di Acido,Frasco de Ácido
 ITEM_BUCKETOFACID_DESC,Use: A melee attack that inflicts random status effects.,,"Використання: Атака в ближньому бою, що накладає випадкові статусні ефекти.",Utilisation&nbsp;: une attaque au corps-à-corps qui inflige des altérations d'état aléatoires.,"Benutzen: Ein Nahkampfangriff, der zufällige Statuseffekte verursacht.",Uso: Un attacco corpo a corpo che infligge effetti di stato casuali.,Uso: um ataque corpo-a-corpo que aplica efeitos de estado aleatórios.
 ITEM_BUCKETOFBLOOD_NAME,Bucket of Blood,,Відро крові,Seau de sang,Eimer mit Blut,Secchio di Sangue,Balde de Sangue
-ITEM_BUCKETOFBLOOD_DESC,"Use: Gain +2 [img:con] and -1 [img:spd], then heal 4 HP.",,"Використання: Отримайте +2 [img:con] і -1 [img:spd], потім відновіть 4 HP.","Utilisation&nbsp;: [img:con] +2&nbsp;et [img:spd] -1, puis vous récupérez 4&nbsp;PV.",Benutzen: Erhalte +2&nbsp;[img:con] und -1&nbsp;[img:spd]. Heile dich anschließend um 4&nbsp;LP.,"Uso: Ottieni +2 alla [img:con] e -1 alla [img:spd], poi recuperi 4 PS.","Uso: obtenha +2 de [img:con] e -1 de [img:spd], e então cure 4 PV."
+ITEM_BUCKETOFBLOOD_DESC,"Use: Gain +2 [img:con] and -1 [img:spd], then heal 4 HP.",,"Використати: Отримайте +2 [img:con] та -1 [img:spd], потім відновіть 4 ОЗ.","Utilisation&nbsp;: [img:con] +2&nbsp;et [img:spd] -1, puis vous récupérez 4&nbsp;PV.",Benutzen: Erhalte +2&nbsp;[img:con] und -1&nbsp;[img:spd]. Heile dich anschließend um 4&nbsp;LP.,"Uso: Ottieni +2 alla [img:con] e -1 alla [img:spd], poi recuperi 4 PS.","Uso: obtenha +2 de [img:con] e -1 de [img:spd], e então cure 4 PV."
 ITEM_BUCKETOFLARD_NAME,Bucket of Lard,,Відро смальцю,Seau de saindoux,Eimer mit Fett,Secchio di Lardo,Balde de Banha
-ITEM_BUCKETOFLARD_DESC,"Use: Gain +2 [img:con] and -1 [img:spd], then heal 4 HP.",,"Використання: Отримайте +2 [img:con] і -1 [img:spd], потім відновіть 4 HP.","Utilisation&nbsp;: [img:con] +2&nbsp;et [img:spd] -1, puis vous récupérez 4&nbsp;PV.",Benutzen: Erhalte +2&nbsp;[img:con] und -1&nbsp;[img:spd]. Heile dich anschließend um 4&nbsp;LP.,"Uso: Ottieni +2 alla [img:con] e -1 alla [img:spd], poi recuperi 4 PS.","Uso: obtenha +2 de [img:con] e -1 de [img:spd], e então cure 4 PV."
+ITEM_BUCKETOFLARD_DESC,"Use: Gain +2 [img:con] and -1 [img:spd], then heal 4 HP.",,"Використати: Отримайте +2 [img:con] та -1 [img:spd], потім відновіть 4 ОЗ.","Utilisation&nbsp;: [img:con] +2&nbsp;et [img:spd] -1, puis vous récupérez 4&nbsp;PV.",Benutzen: Erhalte +2&nbsp;[img:con] und -1&nbsp;[img:spd]. Heile dich anschließend um 4&nbsp;LP.,"Uso: Ottieni +2 alla [img:con] e -1 alla [img:spd], poi recuperi 4 PS.","Uso: obtenha +2 de [img:con] e -1 de [img:spd], e então cure 4 PV."
 ITEM_BUG_NAME,Bug,,Жук,Insecte,Käfer,Insetto,Inseto
 ITEM_BUG_DESC,"Your basic attack is Metronome.
 Use: Cast a random spell.",,"Ваша базова атака — Metronome.
@@ -253,7 +253,7 @@ Abilità Passiva: +2 Spine.","Uso: um ataque corpo-a-corpo multigolpes com 25% d
 [s:.7](Um uso por batalha.)[/s]
 Passivo: +2 de espinhos."
 ITEM_CHEESE_NAME,Cheese,,Сир,Fromage,Käse,Formaggio,Queijo
-ITEM_CHEESE_DESC,Use: Gain +1 [img:con] and heal 2 HP.,,Використання: Отримайте +1 [img:con] та відновіть 2 HP.,Utilisation&nbsp;: [img:con] +1&nbsp;et vous récupérez 2&nbsp;PV.,Benutzen: Erhalte +1&nbsp;[img:con] und heile 2&nbsp;LP.,Uso: Ottieni +1 alla [img:con] e rigeneri 2 PS.,Uso: obtenha +1 de [img:con] e cure 2 PV.
+ITEM_CHEESE_DESC,Use: Gain +1 [img:con] and heal 2 HP.,,Використати: Отримайте +1 [img:con] та відновіть 2 ОЗ.,Utilisation&nbsp;: [img:con] +1&nbsp;et vous récupérez 2&nbsp;PV.,Benutzen: Erhalte +1&nbsp;[img:con] und heile 2&nbsp;LP.,Uso: Ottieni +1 alla [img:con] e rigeneri 2 PS.,Uso: obtenha +1 de [img:con] e cure 2 PV.
 ITEM_CHUMBUCKET_NAME,Chum Bucket,,Відро наживки,Seau d'asticots,Ködereimer,Secchio di Pastura,Balde de Restos
 ITEM_CHUMBUCKET_DESC,Use: A lobbed attack that creates a creep puddle.,,"Використання: кидкова атака, яка створює калюжу слизу.",Utilisation&nbsp;: une attaque en cloche qui génère une flaque de substance visqueuse.,"Benutzen: Ein Angriff, der Hindernisse ignoriert und eine Ekelschleimpfütze erzeugt.",Uso: Un attacco a parabola che crea una pozza di melma.,Uso: um ataque em arco que cria uma poça de gosma.
 ITEM_CREEPYPHOTO_NAME,Creepy Photo,,Моторошне фото,Photo flippante,Gruseliges Foto,Foto Inquietante,Foto Assustadora
@@ -435,7 +435,7 @@ ITEM_HELLHOOK_DESC,Use: Pull a unit toward you.,,Використати: При�
 ITEM_HITLERSPISTOL_NAME,Hitler's Pistol,,Пістолет Гітлера,Flingue d'Hitler,Hitlers Pistole,Pistola di Hitler,Pistola de Hitler
 ITEM_HITLERSPISTOL_DESC,Use: Fire a shot in a straight line.,,Використати: Вистріліть по прямій лінії.,Utilisation&nbsp;: tire en ligne droite.,Benutzen: Schieße in einer geraden Linie.,Uso: Spari un colpo in linea retta.,Uso: realize um disparo em linha reta.
 ITEM_HOLYGRAIL_NAME,Holy Grail,,Святий Грааль,Saint Graal,Der Heilige Gral,Santo Graal,Cálice Sagrado
-ITEM_HOLYGRAIL_DESC,Use: Heal an adjacent unit or yourself for 5 HP.,,Використати: Відновіть 5 HP сусідньому юніту або собі.,Utilisation&nbsp;: rend 5&nbsp;PV à une unité adjacente ou vous-même.,Benutzen: Heile eine benachbarte Einheit oder dich selbst um 5&nbsp;LP.,Uso: Curi te o un'unità adiacente di 5 PS.,Uso: cure uma unidade adjacente ou a si em 5 PV.
+ITEM_HOLYGRAIL_DESC,Use: Heal an adjacent unit or yourself for 5 HP.,,Використати: Відновіть 5 ОЗ у сусіднього юніта або у себе.,Utilisation&nbsp;: rend 5&nbsp;PV à une unité adjacente ou vous-même.,Benutzen: Heile eine benachbarte Einheit oder dich selbst um 5&nbsp;LP.,Uso: Curi te o un'unità adiacente di 5 PS.,Uso: cure uma unidade adjacente ou a si em 5 PV.
 ITEM_ICECUBES_NAME,Ice Cubes,,Крижані кубики,Glaçons,Eiswürfel,Cubetti di Ghiaccio,Cubos de Gelo
 ITEM_ICECUBES_DESC,"Use: A lobbed attack that Freezes units.
 [s:.7](Usable once per battle.)[/s]",,"Використати: Кидкова атака, яка заморожує юнітів.
@@ -469,9 +469,9 @@ ITEM_IRRADIATEDOBJECT_BLEED_DESC,"Use: A melee attack that inflicts Bleed 1.
 [s:.7](Um uso por batalha.)[/s]"
 ITEM_IRRADIATEDOBJECT_BRUISE_DESC,"Use: A melee attack that inflicts Bruise 1.
 {str_aux_item_desc}
-[s:.7](Usable once per battle.)[/s]",,"Використати: Удар у ближньому бою, що накладає Ушиб 1.
+[s:.7](Usable once per battle.)[/s]",,"Використати: Атака в ближньому бою, яка накладає Синець 1.
 {str_aux_item_desc}
-[s:.7](Можна використати один раз за бій.)[/s]","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Contusion +1.
+[s:.7](Можна використати лише один раз за бій.)[/s]","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Contusion +1.
 {str_aux_item_desc}
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Benutzen: Ein Nahkampfangriff, der Beulen&nbsp;1 verursacht.
 {str_aux_item_desc}
@@ -585,11 +585,11 @@ ITEM_IRRADIATEDOBJECT_WEAKNESS_DESC,"Use: A melee attack that inflicts Weakness 
 {str_aux_item_desc}
 [s:.7](Um uso por batalha.)[/s]"
 ITEM_JITTE_NAME,Jitte,,Jitte,Jitte,Jitte,Jitte,Jitte
-ITEM_JITTE_DESC,"Use: A melee attack that deals damage equal to half your [img:str] rounded up, inflicts Weakness 1, and gives you +1 [img:str] and +1 HP on hit.",,"Використання: Ближня атака, яка завдає шкоди, рівної половині ваших [img:str], округлено вгору, накладає Ослаблення 1 та дає вам +1 [img:str] і +1 HP при влучанні.","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige des dégâts égaux à la moitié de votre [img:str], arrondie au supérieur, inflige Vulnérabilité +1&nbsp;et vous confère [img:str] +1&nbsp;et PV +1&nbsp;à chaque coup.","Benutzen: Ein Nahkampfangriff, der Schaden in Höhe der Hälfte deiner [img:str] (aufgerundet) und Schwäche&nbsp;1 verursacht und dir +1&nbsp;[img:str] und +1&nbsp;LP verleiht, wenn er trifft.","Uso: Un attacco corpo a corpo che infligge un danno pari alla metà della tua [img:str] arrotondata per eccesso, Debolezza 1 e, se va a segno, ti fornisce +1 alla [img:str] e +1 PS.","Uso: um ataque corpo-a-corpo que causa dano equivalente à metade da sua [img:str] arredondada para cima, aplica fraqueza 1 e concede +1 de [img:str] e +1 PV ao atingir um alvo."
+ITEM_JITTE_DESC,"Use: A melee attack that deals damage equal to half your [img:str] rounded up, inflicts Weakness 1, and gives you +1 [img:str] and +1 HP on hit.",,"Використати: Атака в ближньому бою, що завдає шкоди, рівної половині вашого [img:str] (округлюється вгору), накладає Слабкість 1 і дає вам +1 [img:str] та +1 ОЗ при влучанні.","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige des dégâts égaux à la moitié de votre [img:str], arrondie au supérieur, inflige Vulnérabilité +1&nbsp;et vous confère [img:str] +1&nbsp;et PV +1&nbsp;à chaque coup.","Benutzen: Ein Nahkampfangriff, der Schaden in Höhe der Hälfte deiner [img:str] (aufgerundet) und Schwäche&nbsp;1 verursacht und dir +1&nbsp;[img:str] und +1&nbsp;LP verleiht, wenn er trifft.","Uso: Un attacco corpo a corpo che infligge un danno pari alla metà della tua [img:str] arrotondata per eccesso, Debolezza 1 e, se va a segno, ti fornisce +1 alla [img:str] e +1 PS.","Uso: um ataque corpo-a-corpo que causa dano equivalente à metade da sua [img:str] arredondada para cima, aplica fraqueza 1 e concede +1 de [img:str] e +1 PV ao atingir um alvo."
 ITEM_JOHNNYSSTOOL_NAME,Johnny's Stool,,Johnny's Stool,Tabouret de Johnny,Johnnys Hocker,Sgabello di Johnny,Banqueta de Johnny
 ITEM_JOHNNYSSTOOL_DESC,"Use: A melee attack with Knockback 2.
-If you end your turn with a unused movement actions, heal 3 HP and gain 3 Charge.",,"Використання: Ближня атака з Відштовхуванням 2.
-Якщо ви закінчите свій хід із невикористаною дією руху, відновіть 3 HP і отримайте 3 заряди.","Utilisation&nbsp;: une attaque au corps-à-corps avec Recul +2.
+If you end your turn with a unused movement actions, heal 3 HP and gain 3 Charge.",,"Використати: Атака в ближньому бою з Відштовхуванням 2.
+Якщо ви закінчуєте свій хід з невикористаною дією переміщення, відновіть 3 ОЗ і отримайте 3 Заряди.","Utilisation&nbsp;: une attaque au corps-à-corps avec Recul +2.
 Si vous terminez votre tour avec des actions de déplacement inutilisées, vous confère 3&nbsp;PV et Charge +3.","Benutzen: Ein Nahkampfangriff mit Rückstoß&nbsp;2.
 Beendest du deinen Zug, ohne deine Bewegungsaktion verwendet zu haben, heilst du dich um 3&nbsp;LP und erhältst 3&nbsp;Ladung.","Uso: Un attacco corpo a corpo con Contraccolpo 2.
 Se termini il tuo turno con un'azione di movimento non utilizzata, recuperi 3 PS e ottieni 3 Carica.","Uso: um ataque corpo-a-corpo com empurrão 2.
@@ -637,9 +637,9 @@ ITEM_MEATBOMB_DESC,Use: Throw a bomb that explodes.,,"Використати: К
 ITEM_MEATCLEAVER_NAME,Meat Cleaver,,Meat Cleaver,Couteau de boucherie,Fleischerbeil,Mannaia da Carne,Cisão Carnívora
 ITEM_MEATCLEAVER_DESC,"Use: A melee attack with Cleave that deals damage equal to half the target's current HP.
 Bosses take 1/6th of their current HP in damage instead.
-[s:.7](Usable once per battle.)[/s]",,"Використати: Ближній удар з Cleave, що завдає шкоди, рівної половині поточного HP цілі.
-Боси отримують замість цього 1/6 від свого поточного HP у вигляді шкоди.
-[s:.7](Можна використати лише раз у бою.)[/s]","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Fendoir ainsi que des dégâts égaux à la moitié des PV actuels de la cible.
+[s:.7](Usable once per battle.)[/s]",,"Використати: Атака в ближньому бою з ефектом Cleave, що завдає шкоди, рівної половині поточного ОЗ цілі.
+Проти босів завдається шкода, рівна 1/6 їх поточного ОЗ.
+[s:.7](Можна використати лише один раз за бій.)[/s]","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Fendoir ainsi que des dégâts égaux à la moitié des PV actuels de la cible.
 Les boss perdent 1/6e de leurs PV actuels.
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Benutzen: Ein Nahkampfangriff, der Schlachtet und Schaden in Höhe der Hälfte der aktuellen LP des Ziels verursacht.
 Bosse erleiden ein Sechstel ihrer aktuellen LP als Schaden.
@@ -888,7 +888,7 @@ ITEM_SHARDOFGLASS_DESC,Use: A melee attack that inflicts Bleed.,,"Викорис
 ITEM_SHARPSTRAW_NAME,Sharp Straw,,Гостра Соломинка,Paille aiguisée,Spitzer Strohhalm,Cannuccia Affilata,Canudo Afiado
 ITEM_SHARPSTRAW_DESC,"Use: A weak melee attack.
 If it kills a unit, heal 10 HP.",,"Використати: Слабка атака в ближньому бою.
-Якщо вона вбиває юніта, відновлює 10 HP.","Utilisation&nbsp;: une attaque au corps-à-corps faible.
+Якщо вона вбиває юніта, відновіть 10 ОЗ.","Utilisation&nbsp;: une attaque au corps-à-corps faible.
 Si cela tue une unité, vous récupérez 10&nbsp;PV.","Benutzen: Ein schwacher Nahkampfangriff.
 Heile dich um 10&nbsp;LP, wenn er eine Einheit tötet.","Uso: Un debole attacco corpo a corpo.
 Se uccide un'unità, rigenera 10 PS.","Uso: um ataque corpo-a-corpo fraco.
@@ -903,7 +903,7 @@ ITEM_SIXPACK_NAME,Six Pack,,Набір із шести,Pack de six,Kühles Blond
 ITEM_SIXPACK_DESC,Use: A lobbed water attack that deals splash damage.,,"Використання: кидкова водяна атака, що завдає шкоди плеском.",Utilisation&nbsp;: une attaque en cloche de type Eau qui inflige des dégâts de zone.,"Benutzen: Ein Wasserangriff, der Hindernisse ignoriert und Flächenschaden verursacht.",Uso: Un attacco d'acqua a parabola che infligge danno ad area.,Uso: um ataque de água em arco que causa dano de propagação.
 ITEM_SLAGMIGHT_NAME,Slag Might,,Шлакова Міць,Stalagmite,Fetter Schläger,Stala Gmite,Estala Gmite
 ITEM_SLAGMIGHT_DESC,"Use: A melee attack with Bruise 1 and Knockback 5.
-[s:.7](Usable once per battle.)[/s]",,"Використання: Ближній удар з Ушиб 1 та Відштовхування 5.
+[s:.7](Usable once per battle.)[/s]",,"Використати: Атака в ближньому бою, що накладає Синець 1 та Відштовхування 5.
 [s:.7](Можна використати лише один раз за бій.)[/s]","Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Contusion +1&nbsp;et Recul +5.
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Benutzen: Ein Nahkampfangriff mit Beulen&nbsp;1 und Rückstoß&nbsp;5.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Un attacco corpo a corpo con Livido 1 e Contraccolpo 5.
@@ -912,7 +912,7 @@ ITEM_SLAGMIGHT_DESC,"Use: A melee attack with Bruise 1 and Knockback 5.
 ITEM_SLINGSHOT_NAME,Slingshot,,Рогатка,Fronde,Schleuder,Fionda,Estilingue
 ITEM_SLINGSHOT_DESC,Use: A ranged attack with a 33% chance to inflict Blind 2.,,"Використання: дистанційна атака, що має 33% шанс накласти Сліпоту 2.",Utilisation&nbsp;: une attaque à distance ayant 33&nbsp;% de chances d'infliger Cécité +2.,"Benutzen: Ein Fernkampfangriff, der mit 33%iger Wahrscheinlichkeit Blindheit&nbsp;2 verursacht.",Uso: Un attacco a distanza con un 33% di probabilità di infliggere Accecamento 2.,Uso: um ataque à distância com 33% de chance de aplicar cegueira 2.
 ITEM_SMALLBOMB_NAME,Small Bomb,,Маленька бомба,Petite bombe,Kleine Bombe,Bomba Piccola,Bomba Pequena
-ITEM_SMALLBOMB_DESC,Use: Throw a bomb that explodes.,,Use: Throw a bomb that explodes.,Utilisation&nbsp;: lance une bombe qui explose.,Benutzen: Wirf eine explodierende Bombe.,Uso: Lanci una bomba che esplode.,Uso: lance uma bomba que explode.
+ITEM_SMALLBOMB_DESC,Use: Throw a bomb that explodes.,,"Використати: Киньте бомбу, яка вибухає.",Utilisation&nbsp;: lance une bombe qui explose.,Benutzen: Wirf eine explodierende Bombe.,Uso: Lanci una bomba che esplode.,Uso: lance uma bomba que explode.
 ITEM_SMALLMETEOR_NAME,Small Meteor,,Малий Метеорит,Petit météore,Kleiner Meteor,Meteorite Piccolo,Meteoro Pequeno
 ITEM_SMALLMETEOR_DESC,"- {str_aux_active_name} -
 {str_aux_active_desc}",,"- {str_aux_active_name} -
@@ -1032,7 +1032,7 @@ ITEM_TINASLARYNX_DESC,"Use: Inflict Fear on all enemies.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: aplique medo em todos os inimigos.
 [s:.7](Um uso por batalha.)[/s]"
 ITEM_TOYGUN_NAME,Toy Gun,,Іграшковий пістолет,Arme factice,Spielzeugpistole,Pistola Giocattolo,Arma de Brinquedo
-ITEM_TOYGUN_DESC,Use: A melee attack with Knockback 10 and Chain Knockback that inflicts Bruise.,,"Використати: атака в ближньому бою з відштовхуванням 10 і ланцюговим відштовхуванням, що накладає Ушиб.",Utilisation&nbsp;: une attaque au corps-à-corps avec Recul +10&nbsp;et Recul en chaîne qui inflige Contusion.,"Benutzen: Ein Nahkampfangriff mit Rückstoß&nbsp;10 und Kettenrückstoß, der Beulen verursacht.",Uso: Un attacco corpo a corpo con Contraccolpo 10 e Contraccolpo a Catena che infligge Livido.,Uso: um ataque corpo-a-corpo com empurrão 10 e empurrão encadeado que aplica contusão.
+ITEM_TOYGUN_DESC,Use: A melee attack with Knockback 10 and Chain Knockback that inflicts Bruise.,,"Використати: Атака в ближньому бою з Відштовхуванням 10 та ланцюговим Відштовхуванням, що накладає Синець.",Utilisation&nbsp;: une attaque au corps-à-corps avec Recul +10&nbsp;et Recul en chaîne qui inflige Contusion.,"Benutzen: Ein Nahkampfangriff mit Rückstoß&nbsp;10 und Kettenrückstoß, der Beulen verursacht.",Uso: Un attacco corpo a corpo con Contraccolpo 10 e Contraccolpo a Catena che infligge Livido.,Uso: um ataque corpo-a-corpo com empurrão 10 e empurrão encadeado que aplica contusão.
 ITEM_TRACTORBEAM_NAME,Tractor Beam,,Тракторний промінь,Rayon tracteur,Traktorstrahl,Raggio Attirante,Raio Trator
 ITEM_TRACTORBEAM_DESC,Use: Pull a unit within 3 tiles all the way towards you. Requires line of sight.,,Використати: Притягніть юніта в межах 3 клітинок повністю до себе. Потребує прямої видимості.,Utilisation&nbsp;: attire vers vous une unité éloignée de jusqu'à 3&nbsp;cases dans votre ligne de mire.,Benutzen: Zieht eine Einheit innerhalb von 3&nbsp;Feldern an dich heran. Muss sich in deiner Sichtlinie befinden.,Uso: Attiri completamente verso di te un'unità entro 3 caselle. Richiede campo visivo.,Uso: puxe até você uma unidade a até 3 espaços de distância e dentro do seu campo de visão.
 ITEM_TRASHCANLID_NAME,Trash Can Lid,,Кришка смітника,Couvercle de poubelle,Mülleimerdeckel,Coperchio del Bidone,Tampa de Lixeira
@@ -1096,9 +1096,9 @@ ITEM_PROBE_DESC,Use: Inflict Charm 3. Can only hit from behind.,,Викорис�
 ITEM_AAABATTERY_NAME,AAA Battery,,Батарейка AAA,Pile AAA,AAA-Batterie,Batteria AAA,Pilha AAA
 ITEM_AAABATTERY_DESC,"Every time you cast 3 spells, gain +3 Charge.",,"Щоразу, коли ви застосуєте 3 заклинання, отримуйте +3 Заряду.","Chaque fois que vous lancez 3&nbsp;sorts, vous gagnez Charge +3.","Erhalte jedes Mal +3&nbsp;Ladung, wenn du 3&nbsp;Zauber wirkst.","Ogni volta che lanci 3 incantesimi, ottieni +3 Carica.","A cada 3 encantamentos que você lançar, obtenha +3 cargas."
 ITEM_ANGELWING_NAME,Angel Wing,,Ангельське крило,Aile angélique,Engelsflügel,Ala d'Angelo,Asa de Anjo
-ITEM_ANGELWING_DESC,"If an attack would down you, instead lower your HP to 1. While at 1 HP, this has no effect.",,"Якщо атака мала б збити вас, натомість зменшіть ваше HP до 1. Поки у вас 1 HP, цей ефект не діє.","Si une attaque est censée vous mettre K.O., vous conservez 1&nbsp;PV. Tant que vous êtes à 1&nbsp;PV, cet effet ne se déclenche pas.","Behalte 1&nbsp;LP, wenn dich ein Angriff in Ohnmacht fallen lassen würde. Hat keine Wirkung, wenn du 1&nbsp;LP hast.","Un attacco in grado di metterti KO porta invece i tuoi PS a 1. Quando hai 1 PS, non ha alcun effetto.","Se um ataque for deixar você inconsciente, fique com 1 PV ao invés disso. Enquanto você possuir 1 PV, este item não possui nenhum efeito."
+ITEM_ANGELWING_DESC,"If an attack would down you, instead lower your HP to 1. While at 1 HP, this has no effect.",,"Якщо атака мала б вивести вас з бою, натомість знижує ваші ОЗ до 1. Коли у вас 1 ОЗ, це не діє.","Si une attaque est censée vous mettre K.O., vous conservez 1&nbsp;PV. Tant que vous êtes à 1&nbsp;PV, cet effet ne se déclenche pas.","Behalte 1&nbsp;LP, wenn dich ein Angriff in Ohnmacht fallen lassen würde. Hat keine Wirkung, wenn du 1&nbsp;LP hast.","Un attacco in grado di metterti KO porta invece i tuoi PS a 1. Quando hai 1 PS, non ha alcun effetto.","Se um ataque for deixar você inconsciente, fique com 1 PV ao invés disso. Enquanto você possuir 1 PV, este item não possui nenhum efeito."
 ITEM_ANKH_NAME,Ankh,,Анкх,Ânkh,Anch,Ankh,Ankh
-ITEM_ANKH_DESC,"While you're downed, you have a 50% chance to revive with 33% HP at the end of each round.",,"Поки ви нокаутовані, у вас є 50% шанс відродитися з 33% HP наприкінці кожного раунду.","K.O., vous avez 50&nbsp;% de chances d'être réanimé avec 33&nbsp;% de PV à la fin de chaque manche.","Während du ohnmächtig bist, besteht am Ende jeder Runde eine 50%ige Wahrscheinlichkeit, dass du mit 33&nbsp;% LP wiederbelebt wirst.","Mentre sei KO, hai un 50% di probabilità di resuscitare con il 33% di PS alla fine di ogni round.","Enquanto está inconsciente, você possui 50% de chance de reviver com 33% de saúde até o final da rodada."
+ITEM_ANKH_DESC,"While you're downed, you have a 50% chance to revive with 33% HP at the end of each round.",,"Коли ви виведені з бою, у вас є 50% шанс відновитися з 33% ОЗ наприкінці кожного раунду.","K.O., vous avez 50&nbsp;% de chances d'être réanimé avec 33&nbsp;% de PV à la fin de chaque manche.","Während du ohnmächtig bist, besteht am Ende jeder Runde eine 50%ige Wahrscheinlichkeit, dass du mit 33&nbsp;% LP wiederbelebt wirst.","Mentre sei KO, hai un 50% di probabilità di resuscitare con il 33% di PS alla fine di ogni round.","Enquanto está inconsciente, você possui 50% de chance de reviver com 33% de saúde até o final da rodada."
 ITEM_BAGOFBAGS_NAME,Bag o' Bags,,Мішок мішків,Sac de sacs,Beutel voller Beutel,Sacco di Sacchi,Saco de Sacolas
 ITEM_BAGOFBAGS_DESC,Use: Throw a trash bag on an adjacent tile.,,Використання: Киньте сміттєвий мішок на суміжну клітинку.,Utilisation&nbsp;: lance un sac poubelle sur une case adjacente.,Benutzen: Wirf einen Müllbeutel auf ein benachbartes Feld.,Uso: Lanci un sacco della spazzatura su una casella adiacente.,Uso: jogue um saco de lixo em um espaço adjacente.
 ITEM_BAGOFSEEDS_NAME,Bag of Seeds,,Мішок насіння,Sac de graines,Beutel mit Samen,Sacco di Semi,Saco de Sementes
@@ -1275,7 +1275,7 @@ ITEM_FISHHOOK_DESC,"If you would knockback a unit, instead deal extra damage to 
 ITEM_FLYLARVA_NAME,Fly Larva,,Личинка мухи,Larve de mouche,Fliegenlarve,Bigattino,Larva de Mosca
 ITEM_FLYLARVA_DESC,Your basic attack inflicts Rot 1.,,Ваша основна атака накладає Гниль 1.,Votre attaque de base inflige Décomposition +1.,Dein Grundangriff verursacht Fäulnis&nbsp;1.,Il tuo attacco base infligge Putrefazione 1.,Seu ataque básico aplica apodrecimento 1.
 ITEM_FORK_NAME,Fork,,Вилка,Fourchette,Gabel,Forchetta,Garfo
-ITEM_FORK_DESC,Heal 5 HP when you kill a unit or destroy a corpse.,,"Відновлює 5 HP, коли ви вбиваєте юніта або руйнуєте труп.",Vous récupérez 5&nbsp;PV quand vous tuez une unité ou détruisez un cadavre.,"Heile dich um 5&nbsp;LP, wenn du eine Einheit tötest oder eine Leiche zerstörst.",Rigeneri 5 PS quando uccidi un'unità o distruggi un cadavere.,Cure 5 PV ao matar uma unidade ou destruir um corpo.
+ITEM_FORK_DESC,Heal 5 HP when you kill a unit or destroy a corpse.,,"Відновлює 5 ОЗ, коли ви вбиваєте юніта або знищуєте труп.",Vous récupérez 5&nbsp;PV quand vous tuez une unité ou détruisez un cadavre.,"Heile dich um 5&nbsp;LP, wenn du eine Einheit tötest oder eine Leiche zerstörst.",Rigeneri 5 PS quando uccidi un'unità o distruggi un cadavere.,Cure 5 PV ao matar uma unidade ou destruir um corpo.
 ITEM_FRIENDSHIPBRACELET_NAME,Friendship Bracelet,,Браслет дружби,Bracelet de l'amitié,Freundschaftsarmband,Braccialetto dell'Amicizia,Pulseira da Amizade
 ITEM_FRIENDSHIPBRACELET_DESC,Use: Permanently charm a non-boss enemy. It joins your party.,,"Використання: Назавжди зачаруйте ворога, що не є босом. Він приєднається до вашої команди.",Utilisation&nbsp;: vous envoûtez de façon permanente un ennemi non-boss. Il rejoint votre équipe.,Benutzen: Verursache dauerhaft Charme bei einem regulären Gegner. Er tritt deiner Gruppe bei.,"Uso: Ammali permanentemente un nemico non boss, che si unisce al tuo gruppo.",Uso: enfeitiçe permanentemente um inimigo que não seja um chefe. Ele passa a fazer parte do seu grupo.
 ITEM_FURNITUREBOX_NAME,Furniture Box,,Коробка з меблями,Boîte à meubles,Umzugskarton,Scatola di Mobili,Caixa de Móvel
@@ -1296,8 +1296,8 @@ Diventa un mobile raro casuale quando torni a casa.","Quebra quando seu [img:shi
 Torna-se um móvel aleatório quando você volta para casa."
 ITEM_GALLONOFWATER_NAME,Gallon of Water,,Галон води,Gallon d'eau,Wasserflasche,Tanica d'Acqua,Galão de Água
 ITEM_GALLONOFWATER_DESC,"Use: Heal +5 HP and gain Heatwave immunity.
-Refills when affected by Water Element effects.",,"Використання: Відновлює +5 HP і дає імунітет до Теплової Хвилі.
-Поповнюється, коли на нього впливають ефекти Водного елементу.","Utilisation&nbsp;: rend 5&nbsp;PV et confère Immunité aux vagues de chaleur.
+Refills when affected by Water Element effects.",,"Використати: Відновіть +5 ОЗ і отримайте імунітет до Heatwave.
+Поповнюється, коли на вас діють ефекти Водного елементу.","Utilisation&nbsp;: rend 5&nbsp;PV et confère Immunité aux vagues de chaleur.
 Se recharge lorsqu'affecté par des effets d'eau.",Benutzen: Heile dich um 5&nbsp;LP und werde immun gegen Hitzewelle.,"Uso: Rigeneri +5 PS e ottieni immunità a Ondata di Calore.
 Si ricarica quando sei sotto l'influenza di effetti dell'elemento acqua.","Uso: cure 5 PV e obtenha imunidade contra ondas de calor.
 É preenchido ao ser afetado por efeitos do elemento água."
@@ -1435,8 +1435,8 @@ ITEM_LUCKYPENNY_NAME,Lucky Penny,,Щаслива Копійка,Sou fétiche,Gl�
 ITEM_LUCKYPENNY_DESC,,,,,,,
 ITEM_LUNCHBOX_NAME,Lunch Box,,Ланчбокс,Boîte à repas,Brotdose,Portapranzo,Lancheira
 ITEM_LUNCHBOX_DESC,"Use: Heal 5 HP.
-Whenever you collect a food pickup, instead of its normal effects, add +1 use to this item.",,"Використати: Відновити 5 HP.
-Кожного разу, коли ви збираєте харчовий предмет, замість його звичайних ефектів додайте +1 використання цьому предмету.","Utilisation&nbsp;: rend 5&nbsp;PV.
+Whenever you collect a food pickup, instead of its normal effects, add +1 use to this item.",,"Використати: Відновіть 5 ОЗ.
+Коли ви збираєте харчовий предмет, замість його звичайних ефектів додайте +1 використання цьому предмету.","Utilisation&nbsp;: rend 5&nbsp;PV.
 Quand vous récupérez de la nourriture, au lieu de ses effets normaux, Utilisation +1.","Benutzen: Heile dich um 5&nbsp;LP.
 Erhalte +1&nbsp;Anwendung für diesen Gegenstand, wenn du einen Essensgegenstand einsammelst, statt seinen regulären Effekt auszulösen.","Uso: Rigeneri 5 PS.
 Ogni volta che prendi un raccoglibile cibo, invece dei suoi normali effetti, aggiungi +1 utilizzo a questo oggetto.","Uso: cure 5 PV.
@@ -1510,7 +1510,7 @@ ITEM_PAWN_DESC,Use: Move 1 tile toward the closest enemy.,,Використат�
 ITEM_PENTAGRAMSIGIL_NAME,Pentagram Sigil,,Пентаграмний Сигіл,Pentagramme,Pentagrammsiegel,Sigillo del Pentagramma,Símbolo de Pentagrama
 ITEM_PENTAGRAMSIGIL_DESC,Use: Take 5 damage and refresh your basic attack and movement actions.,,Використати: Отримайте 5 шкоди і відновіть можливість виконати базову атаку та рух.,Utilisation&nbsp;: vous subissez 5&nbsp;dégâts et vos actions d'attaque de base et de déplacement sont réinitialisées.,Benutzen: Erleide 5&nbsp;Schaden und frische deinen Grundangriff und deine Bewegungsaktion auf.,Uso: Subisci 5 di danno e ricarichi il tuo attacco base e le azioni di movimento.,Uso: sofra 5 de dano e reinicie suas ações de ataque básico e movimento.
 ITEM_PETRIFIEDPINKY_NAME,Petrified Pinky,,Окам'янілий Мізинець,Auriculaire pétrifié,Versteinerter Pinky,Topo Pinky Pietrificato,Mindinho Petrificado
-ITEM_PETRIFIEDPINKY_DESC,"If an attack would down you, instead this breaks and you regain 50% of your max HP.",,"Якщо атака мала б збити вас, натомість цей предмет руйнується, і ви відновлюєте 50% вашого максимального HP.","Si une attaque est censée vous mettre K.O., cet objet se brise et vous récupérez 50&nbsp;% de vos PV max.","Wenn du durch einen Angriff in Ohnmacht fallen würdest, geht stattdessen dieser Gegenstand kaputt und du erhältst 50&nbsp;% deiner LP wieder.","Un attacco, invece di metterti KO, si rompe e ti fa recuperare il 50% dei tuoi PS massimi.","Se um ataque for deixar você inconsciente, este item se quebra e você recupera 50% da sua saúde máxima."
+ITEM_PETRIFIEDPINKY_DESC,"If an attack would down you, instead this breaks and you regain 50% of your max HP.",,"Якщо атака мала б вивести вас з бою, натомість цей предмет ламається і ви відновлюєте 50% вашого максимального ОЗ.","Si une attaque est censée vous mettre K.O., cet objet se brise et vous récupérez 50&nbsp;% de vos PV max.","Wenn du durch einen Angriff in Ohnmacht fallen würdest, geht stattdessen dieser Gegenstand kaputt und du erhältst 50&nbsp;% deiner LP wieder.","Un attacco, invece di metterti KO, si rompe e ti fa recuperare il 50% dei tuoi PS massimi.","Se um ataque for deixar você inconsciente, este item se quebra e você recupera 50% da sua saúde máxima."
 ITEM_PETRIFIEDPOOP_NAME,Petrified Poop,,Окам'яніле гівно,Merde pétrifiée,Versteinertes Häufchen,Cacca Pietrificata,Cocô Petrificado
 ITEM_PETRIFIEDPOOP_DESC,Familiars you spawn gain +2 [img:shield].,,"Супутники, яких ви заспавните, отримують +2 [img:shield].",Les familiers que vous invoquez gagnent [img:shield] +2.,"Begleiter, die du rufst, erhalten +2&nbsp;[img:shield].",I famigli che generi ottengono +2 allo [img:shield].,Familiares gerados por você obtêm +2 de [img:shield].
 ITEM_PRAYERCARD_NAME,Prayer Card,,Карта молитви,Carte de prière,Gebetskarte,Carta della Preghiera,Cartão de Oração
@@ -1519,8 +1519,8 @@ ITEM_PULLTAB_NAME,Pull Tab,,Язичок,Languette,Aufreißlasche,Linguetta,Anel
 ITEM_PULLTAB_DESC,,,,,,,
 ITEM_PURPLEDRINK_NAME,Purple Drink,,Фіолетовий напій,Boisson violacée,Lila Getränk,Bevanda Viola,Bebida Roxa
 ITEM_PURPLEDRINK_DESC,"Use: Heal 2 HP, gain 2 mana and +1 [img:shield].
-[s:.7](Usable once per battle.)[/s]",,"Використати: Вилікуйте 2 HP, отримайте 2 мани та +1 [img:shield].
-[s:.7](Можна використати один раз за бій.)[/s]","Utilisation&nbsp;: PV +2, mana +2, [img:shield] +1.
+[s:.7](Usable once per battle.)[/s]",,"Використати: Відновіть 2 ОЗ, отримайте 2 мани та +1 [img:shield].
+[s:.7](Можна використати лише один раз за бій.)[/s]","Utilisation&nbsp;: PV +2, mana +2, [img:shield] +1.
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Benutzen: Heile dich um 2&nbsp;LP, erhalte 2&nbsp;Mana und +1&nbsp;[img:shield].
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Recuperi 2 PS, ottieni 2 mana e +1 allo [img:shield].
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: cure 2 PV, obtenha 2 de mana e +1 de [img:shield].
@@ -1545,8 +1545,8 @@ ITEM_RAZORBLADE_NAME,Razor Blade,,Бритвене лезо,Lame de rasoir,Rasie
 ITEM_RAZORBLADE_DESC,Use: Take 5 damage and gain +2 [img:str] and +2 [img:dex].,,Використати: Отримайте 5 шкоди і здобудьте +2 [img:str] та +2 [img:dex].,Utilisation&nbsp;: vous subissez 5&nbsp;dégâts et gagnez [img:str] +2&nbsp;ainsi que [img:dex] +2.,Benutzen: Erleide 5&nbsp;Schaden und erhalte +2&nbsp;[img:str] und +2&nbsp;[img:dex].,Uso: Subisci 5 di danno e ottieni +2 alla [img:str] e +2 alla [img:dex].,Uso: sofra 5 de dano e obtenha +2 de [img:str] e +2 de [img:dex].
 ITEM_REDDRINK_NAME,Red Drink,,Червоний напій,Boisson rougeâtre,Rotes Getränk,Bevanda Rossa,Bebida Vermelha
 ITEM_REDDRINK_DESC,"Use: Heal 5 HP.
-[s:.7](Usable once per battle.)[/s]",,"Використати: Вилікуйте 5 HP.
-[s:.7](Можна використати один раз за бій.)[/s]","Utilisation&nbsp;: rend 5&nbsp;PV.
+[s:.7](Usable once per battle.)[/s]",,"Використати: Вилікувати 5 ОЗ.
+[s:.7](Можна використати лише один раз за бій.)[/s]","Utilisation&nbsp;: rend 5&nbsp;PV.
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Benutzen: Heile dich um 5&nbsp;LP.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Recuperi 5 PS.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: cure 5 PV.
@@ -1565,8 +1565,8 @@ ITEM_RUBBERCEMENT_NAME,Rubber Cement,,Резиновий Клей,Colle caoutcho
 ITEM_RUBBERCEMENT_DESC,Your projectiles bounce to another enemy within 2 tiles.,,Ваші снаряди відскакують до іншого ворога в межах 2 клітинок.,Vos projectiles rebondissent sur un autre ennemi situé à moins de 2&nbsp;cases.,Deine Geschosse prallen ab und landen auf einem Gegner innerhalb von 2&nbsp;Feldern.,I tuoi proiettili rimbalzano su un altro nemico entro 2 caselle.,Seus projéteis ricocheteiam para qualquer inimigo dentro de 2 espaços de distância.
 ITEM_SACKOFMEAT_NAME,Sack o' Meat,,Мішок м'яса,Gros paquet de viande,Sack Fleisch,Sacco di Carne,Saco de Carne
 ITEM_SACKOFMEAT_DESC,"Use: Heal 4 HP.
-This gains +1 use each time you destroy a corpse.",,"Використати: Вилікуйте 4 HP.
-Цей предмет отримує +1 використання щоразу, коли ви знищуєте труп.","Utilisation&nbsp;: rend 4&nbsp;PV.
+This gains +1 use each time you destroy a corpse.",,"Використати: Вилікувати 4 ОЗ.
+Це отримує +1 використання щоразу, коли ви знищуєте труп.","Utilisation&nbsp;: rend 4&nbsp;PV.
 Utilisation +1&nbsp;quand vous détruisez un cadavre.","Benutzen: Heile dich um 4&nbsp;LP.
 Dieser Gegenstand erhält +1&nbsp;Anwendungen, wenn du eine Leiche zerstörst.","Uso: Recuperi 4 PS.
 Ottiene +1 utilizzo ogni volta che distruggi un cadavere.","Uso: cure 4 PV.
@@ -1574,7 +1574,7 @@ Este item obtém +1 uso a cada vez que você destrói um corpo."
 ITEM_SACREDHEART_NAME,Sacred Heart,,Священне Серце,Sacré-Cœur,Heiliges Herz,Cuore Sacro,Coração Sagrado
 ITEM_SACREDHEART_DESC,+1 Damage. Emit 2 Sparkles when you use your basic attack.,,"+1 до шкоди. Випускає 2 іскри, коли ви використовуєте базову атаку.",Dégâts +1. Émet 2&nbsp;étincelles quand vous utilisez votre attaque de base.,"+1&nbsp;Schaden. Versprühe 2&nbsp;Funken, wenn du deinen Grundangriff verwendest.",+1 al Danno. Emetti 2 Scintille quando usi il tuo attacco base.,+1 de dano. Emita 2 fagulhas ao utilizar seu ataque básico.
 ITEM_SATANICBIBLE_NAME,Satanic Bible,,Сатанинська Біблія,Bible satanique,Satanische Bibel,Bibbia Satanica,Bíblia Satânica
-ITEM_SATANICBIBLE_DESC,Heal 3 HP and gain +3 Charge each time you damage a party member.,,"Вилікує 3 HP і дає +3 заряди щоразу, коли ви завдаєте шкоди члену партії.",Rend 3&nbsp;PV et confère Charge +3&nbsp;quand vous infligez des dégâts à un membre de l'équipe.,"Heile dich um 3&nbsp;LP und erhalte jedes Mal, wenn du einem Verbündeten Schaden zufügst, +3&nbsp;Ladung.",Recuperi 3 PS e ottieni +3 Carica ogni volta che infliggi danno a un membro del gruppo.,Cure 3 PV e obtenha +3 cargas a cada vez que causar dano a um membro da sua equipe.
+ITEM_SATANICBIBLE_DESC,Heal 3 HP and gain +3 Charge each time you damage a party member.,,"Вилікувати 3 ОЗ і отримувати +3 Заряду щоразу, коли ви завдаєте шкоди члену партії.",Rend 3&nbsp;PV et confère Charge +3&nbsp;quand vous infligez des dégâts à un membre de l'équipe.,"Heile dich um 3&nbsp;LP und erhalte jedes Mal, wenn du einem Verbündeten Schaden zufügst, +3&nbsp;Ladung.",Recuperi 3 PS e ottieni +3 Carica ogni volta che infliggi danno a un membro del gruppo.,Cure 3 PV e obtenha +3 cargas a cada vez que causar dano a um membro da sua equipe.
 ITEM_SCORCHEDEARTH_NAME,Scorched Earth,,Випалена Земля,Terre brûlée,Verbrannte Erde,Terra Bruciata,Terra Arrasada
 ITEM_SCORCHEDEARTH_DESC,Your Earth and Fire Element spells cost -1 mana.,,Вартість ваших заклинань Земного та Вогняного елементів зменшується на 1 ману.,Vos sorts de terre et de feu coûtent -1&nbsp;mana.,Deine Erd- und Feuerzauber kosten -1&nbsp;Mana.,I tuoi incantesimi di elemento terra e fuoco costano -1 mana.,Seus encantamentos do elemento terra e fogo custam -1 de mana.
 ITEM_SCRAPBAG_NAME,Scrap Bag,,Мішок брухту,Sac de ferraille,Schrottbeutel,Sacco di Rottami,Saco de Sucata
@@ -1596,7 +1596,7 @@ Seu ataque básico possui +10% de chance de aplicar medo."
 ITEM_SNAGGLETOOTH_NAME,Snaggle Tooth,,Виступаючий Зуб,Dent de travers,Schiefer Zahn,Dente Sporgente,Dente Afiado
 ITEM_SNAGGLETOOTH_DESC,Your basic attack inflicts Bleed 1.,,Твоя базова атака накладає Кровотечу 1.,Votre attaque de base inflige Saignement +1.,Dein Grundangriff verursacht Blutung&nbsp;1.,Il tuo attacco base infligge Sanguinamento 1.,Seu ataque básico aplica sangramento 1.
 ITEM_SNAKEEYES_NAME,Snake Eyes,,Зміїні Очі,Yeux de serpent,Einer-Pasch,Occhi di Serpente,Olhos de Cobra
-ITEM_SNAKEEYES_DESC,"While you are at exactly 2 HP, you have +222 [img:lck]",,"Коли твої HP точно рівні 2, ти маєш +222 [img:lck]","Tant que vous avez exactement 2&nbsp;PV, vous bénéficiez de [img:lck] +222.","Wenn du genau 2&nbsp;LP hast, hast du +222&nbsp;[img:lck].","Quando sei esattamente a 2 PS, ricevi +222 alla [img:lck]","Enquanto possuir exatamente 2 PV, obtenha +222 de [img:lck]."
+ITEM_SNAKEEYES_DESC,"While you are at exactly 2 HP, you have +222 [img:lck]",,"Поки у вас рівно 2 ОЗ, ви маєте +222 [img:lck]","Tant que vous avez exactement 2&nbsp;PV, vous bénéficiez de [img:lck] +222.","Wenn du genau 2&nbsp;LP hast, hast du +222&nbsp;[img:lck].","Quando sei esattamente a 2 PS, ricevi +222 alla [img:lck]","Enquanto possuir exatamente 2 PV, obtenha +222 de [img:lck]."
 ITEM_SOULJAR_FULL_DESC,"Use: Summon a ghost copy of {aux_cat_name}.
 [s:.7](Usable once per battle.)[/s]",,"Використати: Викликати примарну копію {aux_cat_name}.
 [s:.7](Можна використати один раз за бій.)[/s]","Utilisation&nbsp;: invoque un double spectral de {aux_cat_name}.
@@ -1703,15 +1703,15 @@ ITEM_WAFER_NAME,Wafer,,Вафелька,Pastille,Hostie,Wafer ,Wafer
 ITEM_WAFER_DESC,,,,,,,
 ITEM_WATERBOTTLEFULL_NAME,Water Bottle,,Пляшка з водою,Bouteille d'eau,Wasserflasche,Bottiglia d'Acqua,Garrafa de Água
 ITEM_WATERBOTTLEFULL_DESC,"Use: Heal +5 HP and gain Heatwave immunity.
-Refills when affected by Water Element effects.",,"Використати: Відновлює +5 HP і дає імунітет до хвилі тепла.
-Заповнюється, коли ви під дією ефектів стихії Води.","Utilisation&nbsp;: rend 5&nbsp;PV et confère Immunité aux vagues de chaleur.
+Refills when affected by Water Element effects.",,"Використати: Вилікувати +5 ОЗ і отримати імунітет до Heatwave.
+Відновлюється, коли ви під дією ефектів Водного елементу.","Utilisation&nbsp;: rend 5&nbsp;PV et confère Immunité aux vagues de chaleur.
 Se recharge lorsqu'affecté par des effets d'eau.",Benutzen: Heile dich um 5&nbsp;LP und werde immun gegen Hitzewelle.,"Uso: Recuperi +5 PS e ottieni immunità a Ondata di Calore.
 Si ricarica quando sei sotto l'influenza di effetti dell'elemento acqua.","Uso: cure 5 PV e obtenha imunidade contra ondas de calor.
 Enche-se novamente ao ser afetada por efeitos do elemento água."
 ITEM_WATERBOTTLEHALF_NAME,Water Bottle,,Пляшка з водою,Bouteille d'eau,Wasserflasche,Bottiglia d'Acqua,Garrafa de Água
 ITEM_WATERBOTTLEHALF_DESC,"Use: Heal +5 HP and gain Heatwave immunity.
-Refills when affected by Water Element effects.",,"Використати: Відновлює +5 HP і дає імунітет до хвилі тепла.
-Заповнюється, коли ви під дією ефектів стихії Води.","Utilisation&nbsp;: rend 5&nbsp;PV et confère Immunité aux vagues de chaleur.
+Refills when affected by Water Element effects.",,"Використати: Вилікувати +5 ОЗ і отримати імунітет до Heatwave.
+Відновлюється, коли ви під дією ефектів Водного елементу.","Utilisation&nbsp;: rend 5&nbsp;PV et confère Immunité aux vagues de chaleur.
 Se recharge lorsqu'affecté par des effets d'eau.",Benutzen: Heile dich um 5&nbsp;LP und werde immun gegen Hitzewelle.,"Uso: Recuperi +5 PS e ottieni immunità a Ondata di Calore.
 Si ricarica quando sei sotto l'influenza di effetti dell'elemento acqua.","Uso: cure 5 PV e obtenha imunidade contra ondas de calor.
 Enche-se novamente ao ser afetada por efeitos do elemento água."
@@ -1768,11 +1768,11 @@ Kann auf benachbarte Einheiten angewendet werden.","Uso: Rimuovi tutti i malus.
 Può essere usato sulle unità adiacenti.","Uso: purifique todos os enfraquecimentos.
 Este item pode ser usado em unidades adjacentes."
 ITEM_ASNACK_NAME,A Snack,,Перекус,Casse-croûte,Snack,Uno Spuntino,Lanchinho
-ITEM_ASNACK_DESC,Use: Heal {aux} HP.,,Використати: Вилікувати {aux} HP.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.
+ITEM_ASNACK_DESC,Use: Heal {aux} HP.,,Використати: Вилікувати {aux} ОЗ.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.
 ITEM_BAGOFGRASS_NAME,Bag of Grass,,Мішок трави,Sac d'herbe,Beutel mit Gras,Sacco d'Erba,Saco de Grama
 ITEM_BAGOFGRASS_DESC,Use: Gain {aux} mana.,,Використати: Отримати {aux} мани.,Utilisation&nbsp;: rend {aux} mana.,Benutzen: Erhalte {aux}&nbsp;Mana.,Uso: Ottieni {aux} mana.,Uso: obtenha {aux} de mana.
 ITEM_BIGTOE_NAME,Big Toe,,Великий палець,Gros orteil,Großer Zeh,Alluce,Dedão
-ITEM_BIGTOE_DESC,"Use: Heal 6, gain +1 Health Regen and cleanse your debuffs.",,"Використати: Вилікувати 6 HP, отримати +1 до регенерації здоров'я і зняти свої дебафи.","Utilisation&nbsp;: rend 6&nbsp;PV, Régénération de PV +1, dissipe vos malus.","Benutzen: Heile 6&nbsp;LP, erhalte +1&nbsp;Lebensregeneration und reinige deine Schwächungen.","Uso: Rigeneri 6 PS, ottieni +1 a Rigenerazione Salute e rimuovi i tuoi malus.","Uso: cure 6 PV, obtenha +1 de regeneração de saúde e purifique seus enfraquecimentos."
+ITEM_BIGTOE_DESC,"Use: Heal 6, gain +1 Health Regen and cleanse your debuffs.",,"Використати: Вилікувати 6 ОЗ, отримати +1 відновлення ОЗ і зняти свої негативні ефекти.","Utilisation&nbsp;: rend 6&nbsp;PV, Régénération de PV +1, dissipe vos malus.","Benutzen: Heile 6&nbsp;LP, erhalte +1&nbsp;Lebensregeneration und reinige deine Schwächungen.","Uso: Rigeneri 6 PS, ottieni +1 a Rigenerazione Salute e rimuovi i tuoi malus.","Uso: cure 6 PV, obtenha +1 de regeneração de saúde e purifique seus enfraquecimentos."
 ITEM_BRAINCANDY_NAME,Brain Candy,,Мозкові цукерки,Nootrope,Hirnbonbon,Caramella Cerebrale,Balinha de Cérebro
 ITEM_BRAINCANDY_DESC,Use: Gain +{aux} [img:int] for the rest of the battle.,,Використати: Отримати +{aux} [img:int] до кінця бою.,Utilisation&nbsp;: [img:int] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:int].,Uso: Ottieni +{aux} all'[img:int] per il resto della battaglia.,Uso: obtenha +{aux} de [img:int] pelo resto da batalha.
 ITEM_BULLSEYE_NAME,Bullseye,,Точний удар,Frappe chirurgicale,Bullseye,Centro Perfetto,Alvo
@@ -1780,7 +1780,7 @@ ITEM_BULLSEYE_DESC,Use: All damage you deal until the end of the turn is critica
 ITEM_BUTCHERSEAL_NAME,Butcher Seal,,Печатка М'ясника,Sceau du barbare,Schlachtersiegel,Sigillo del Macellaio,Selo de Açougueiro
 ITEM_BUTCHERSEAL_DESC,Use: Permanently turn into a Butcher.,,Використати: Назавжди перетворитися на М'ясника.,Utilisation&nbsp;: vous change en barbare de façon permanente.,Benutzen: Werde dauerhaft zu einem Schlachter.,Uso: Ti trasformi permanentemente in un Macellaio.,Uso: torne-se um açougueiro permanentemente.
 ITEM_CATFOOD_NAME,Cat Food,,Корм для котів,Bouffe pour chat,Katzenfutter,Cibo per Gatti,Comida de Gato
-ITEM_CATFOOD_DESC,Use: Heal {aux} HP.,,Використати: Вилікувати {aux} HP.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.
+ITEM_CATFOOD_DESC,Use: Heal {aux} HP.,,Використати: Вилікувати {aux} ОЗ.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.
 ITEM_CLERICSEAL_NAME,Cleric Seal,,Печатка Клерика,Sceau du sage,Klerikersiegel,Sigillo del Chierico,Selo de Clérigo
 ITEM_CLERICSEAL_DESC,Use: Permanently turn into a Cleric.,,Використати: Назавжди перетворитися на Клерика.,Utilisation&nbsp;: vous change en sage de façon permanente.,Benutzen: Werde dauerhaft zu einem Kleriker.,Uso: Ti trasformi permanentemente in un Chierico.,Uso: torne-se um clérigo permanentemente.
 ITEM_CLOVER_NAME,Clover,,Конюшина,Trèfle,Kleeblatt,Trifoglio,Trevo
@@ -1798,7 +1798,7 @@ ITEM_ENEMA_DESC,Use: Cleanse all buffs and debuffs.,,Використати: З�
 ITEM_EXPERIMENTX_NAME,Experiment X,,Експеримент X,Expérience X,Experiment X,Esperimento X,Experimento X
 ITEM_EXPERIMENTX_DESC,Use: ???,,Використати: ???,Utilisation&nbsp;:&nbsp;???,Benutzen: ???,Uso: ???,Uso: ???
 ITEM_EYEBALL_NAME,Eyeball,,Очне яблуко,Globe oculaire,Augapfel,Bulbo Oculare,Globo Ocular
-ITEM_EYEBALL_DESC,Use: Heal {aux} HP.,,Використати: Віднови {aux} HP.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.
+ITEM_EYEBALL_DESC,Use: Heal {aux} HP.,,Використати: Вилікувати {aux} ОЗ.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.
 ITEM_FIGHTERSEAL_NAME,Fighter Seal,,Печатка Бійця,Sceau du pugiliste,Kriegersiegel,Sigillo del Guerriero,Selo de Lutador
 ITEM_FIGHTERSEAL_DESC,Use: Permanently turn into a Fighter.,,Використати: Назавжди перетворися в Бійця.,Utilisation&nbsp;: vous change en pugiliste de façon permanente.,Benutzen: Werde dauerhaft zu einem Krieger.,Uso: Ti trasformi permanentemente in un Guerriero.,Uso: torne-se um lutador permanentemente.
 ITEM_FORBIDDENFRUIT_NAME,Forbidden Fruit,,Заборонений Плід,Fruit défendu,Verbotene Frucht,Frutto Proibito,Fruto Proibido
@@ -1905,7 +1905,7 @@ ITEM_SPEEDBALL_NAME,Speedball,,Спідбол,Caféine,Speedball,Anfetamina,Spee
 ITEM_SPEEDBALL_DESC,Use: Gain +{aux} [img:dex] for the rest of the battle.,,Використати: Отримати +{aux} [img:dex] до кінця бою.,Utilisation&nbsp;: [img:dex] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:dex].,Uso: Ottieni +{aux} alla [img:dex] per il resto della battaglia.,Uso: obtenha +{aux} de [img:dex] pelo resto da batalha.
 ITEM_STAR_NAME,Star,,Зірка,Étoile,Stern,Stella,Estrela
 ITEM_STAR_DESC,"Use: Gain Invincibility, +10 Thorns, and Trample until the start of your next turn. Refresh your movement action.",,"Використати: Отримати Невразливість, +10 Шипів та Розтоптання до початку вашого наступного ходу. Оновити дію руху.","Utilisation&nbsp;: vous confère Invincibilité, Épines +10, et Piétinement jusqu'au début de votre prochain tour. Réinitialise votre action de déplacement.","Benutzen: Erhalte bis zum Anfang deines nächsten Zuges Unverwundbarkeit, +10&nbsp;Dornen und Trampel. Frische deine Bewegungsaktion auf.","Uso: Ottieni Invincibilità, +10 Spine e Calpestamento fino all'inizio del tuo prossimo turno. Ricarichi la tua azione di movimento.","Uso: obtenha invencibilidade, +10 de espinhos e atropelamento até o início do próximo turno. Reinicie sua ação de movimento."
-ITEM_STEMCELLS_NAME,Stem Cells,,Стволові клітини,Cellules souches,Stammzellen,Cellule Staminali,Células-Tronco
+ITEM_STEMCELLS_NAME,Stem Cells,,Стовбурові Клітини,Cellules souches,Stammzellen,Cellule Staminali,Células-Tronco
 ITEM_STEMCELLS_DESC,Use: Gain +3 Health Regen until the end of the battle.,,Використати: Отримати +3 до регенерації здоров'я до кінця бою.,Utilisation&nbsp;: Régénération de PV +3&nbsp;jusqu'à la fin du combat.,Benutzen: Erhalte bis zum Ende des Kampfes +3&nbsp;Lebensregeneration.,Uso: Ottieni +3 a Rigenerazione Salute fino alla fine della battaglia.,Uso: obtenha +3 de regeneração de saúde até o final da batalha.
 ITEM_STEVENSCONSUMABLE1_NAME,Steven,,Steven,Steven,Steven,Steven,Steven
 ITEM_STEVENSCONSUMABLE1_DESC,Use: Permanently upgrade a random spell or passive ability.,,Використати: Назавжди покращити випадкове заклинання або пасивну здатність.,Utilisation&nbsp;: améliore un sort ou une compétence passive aléatoire de façon permanente.,Benutzen: Werte einen zufälligen Zauber oder eine Passivfähigkeit dauerhaft auf.,Uso: Potenzi permanentemente un incantesimo o un'abilità passiva casuale.,Uso: aprimore permanentemente um encantamento aleatório ou habilidade passiva.
@@ -1996,7 +1996,7 @@ ARMOR_DUSTDEVILSHORN_DESC,"+1 Thorns. After you use your basic attack, do a dash
 ARMOR_EMOWIG_NAME,Emo Wig,,Емо-перука,Perruque émo,Emoperücke,Parrucca Emo,Peruca Emo
 ARMOR_EMOWIG_DESC,"Adjacent units get All Stats Down 2.
 When you take damage, all units within 2 tiles heal 1 HP and gain a temporary +1 Damage.",,"Сусідні юніти отримують -2 до всіх характеристик.
-Коли ти зазнаєш шкоди, всі юніти в межах 2 клітинок відновлюють 1 HP і тимчасово отримують +1 до шкоди.","Les unités adjacentes subissent Baisse de stats +2.
+Коли ви отримуєте шкоду, всі юніти в межах 2 клітинок відновлюють 1 ОЗ і тимчасово отримують +1 до шкоди.","Les unités adjacentes subissent Baisse de stats +2.
 Quand vous subissez des dégâts, les unités situées dans un rayon de 2&nbsp;cases récupèrent 1&nbsp;PV et obtiennent Dégâts +1&nbsp;temporairement.","Benachbarte Einheiten erleiden einen Malus von 2 auf alle Attribute.
 Wenn du Schaden erleidest, heilen sich alle Einheiten innerhalb von 2 Feldern um 1&nbsp;LP und erhalten vorübergehend +1&nbsp;Schaden.","Le unità adiacenti ottengono Diminuzone delle Statistiche 2.
 Quando subisci danno, tutte le unità entro 2 caselle recuperano 1 PS e ottengono temporaneamente +1 al Danno.","Unidades adjacentes obtêm todos os atributos diminuídos 2.
@@ -2290,7 +2290,7 @@ ARMOR_LEATHERJACKET_DESC,"If you would take exactly 1 damage, take 0 instead.",,
 ARMOR_LIONMANE_NAME,Lion Mane,,Левова грива,Hydne hérisson,Löwenmähne,Criniera di Leone,Juba de Leão
 ARMOR_LIONMANE_DESC,,,,,,,
 ARMOR_LOSTSOUL_NAME,Lost Soul,,Загублена душа,Âme égarée,Verlorene Seele,Anima Perduta,Alma Perdida
-ARMOR_LOSTSOUL_DESC,"The first time you are downed each battle, revive to full HP.",,"Першого разу, коли ви будете виведені з ладу в кожній битві, ви воскреснете з повним HP.","La première fois que vous êtes mis K.O. durant chaque combat, vous êtes réanimé avec tous vos PV.","Das erste Mal, dass du in einem Kampf in Ohnmacht fallen würdest, wirst du stattdessen mit vollen LP wiederbelebt.","La prima volta che vai KO in ogni battaglia, ti rianimi fino a raggiungere il massimo dei PS.","Na primeira vez em que você fica inconsciente em cada batalha, reviva com a saúde completa."
+ARMOR_LOSTSOUL_DESC,"The first time you are downed each battle, revive to full HP.",,"Першого разу, коли ви падаєте в нокаут у кожному бою, відроджуйтесь з повними ОЗ.","La première fois que vous êtes mis K.O. durant chaque combat, vous êtes réanimé avec tous vos PV.","Das erste Mal, dass du in einem Kampf in Ohnmacht fallen würdest, wirst du stattdessen mit vollen LP wiederbelebt.","La prima volta che vai KO in ogni battaglia, ti rianimi fino a raggiungere il massimo dei PS.","Na primeira vez em que você fica inconsciente em cada batalha, reviva com a saúde completa."
 ARMOR_LUCKYTOE_NAME,Lucky Toe,,Щасливий палець,Orteil porte-bonheur,Glückszeh,Dito Fortunato,Dedão da Sorte
 ARMOR_LUCKYTOE_DESC,,,,,,,
 ARMOR_LUCKYTWINE_NAME,Lucky Twine,,Щаслива мотузочка,Fil chanceux,Glücksgarn,Spago Fortunato,Barbante da Sorte
@@ -2364,7 +2364,7 @@ ARMOR_STEVENNECK2_DESC,"While you're downed, receiving any damage revives you.",
 ARMOR_STEVENSFRIEND_NAME,Steven's Friend,,Друг Стівена,Ami de Steven,Stevens Freund,Amico di Steven,Colega de Steven
 ARMOR_STEVENSFRIEND_DESC,"Each time you cast a spell, spawn a Shadow copy of yourself that mimics your basic attack and fades at the end of your turn.",,"Кожного разу, коли ти накладаєш закляття, заспавнюється тіньова копія тебе, яка імітує твою базову атаку і зникає в кінці твого ходу.","Quand vous lancez un sort, invoque un double spectral qui copie votre attaque de base avant de disparaître en fin de tour.","Jedes Mal, wenn du einen Zauber wirkst, rufst du einen Schattenklon, der deinen Grundangriff nachahmt und am Ende des Zuges verschwindet.","Ogni volta che lanci un incantesimo, generi una tua copia ombra che imita il tuo attacco base e svanisce alla fine del tuo turno.","A cada vez que lançar um encantamento, gere uma cópia de si que imita seu ataque básico e desaparece no final do seu turno."
 ARMOR_STEVENSGOBBLER_NAME,Steven's Gobbler,,Пожирач Стівена,Glouton de Steven,Stevens Puter,Deglutitore di Steven,Gogó de Steven
-ARMOR_STEVENSGOBBLER_DESC,Units that contact you get knocked back. Knockback you deal is increased by 10 and inflicts Bruise 1.,,"Юніти, що торкаються вас, відштовхуються. Ваше відштовхування збільшено на 10 і накладає Ушиб 1.",Les unités qui vous touchent subissent Recul +1. Le Recul que vous infligez est multiplié par 10&nbsp;et inflige Contusion +1.,"Einheiten, die dich berühren, werden zurückgestoßen. Dein Rückstoß ist um 10 erhöht und verursacht Beulen&nbsp;1.",Le unità che entrano in contatto con te vengono respinte. Il Contraccolpo che infliggi aumenta di 10 e infligge Livido 1.,Unidades que entram em contato com você são empurradas para trás. Empurrões causados por você são aumentados em 10 e aplicam contusão 1.
+ARMOR_STEVENSGOBBLER_DESC,Units that contact you get knocked back. Knockback you deal is increased by 10 and inflicts Bruise 1.,,"Юніти, які контактують з вами, відштовхуються. Потужність відштовхування, яке ви завдаєте, збільшена на 10 і накладає Синець 1.",Les unités qui vous touchent subissent Recul +1. Le Recul que vous infligez est multiplié par 10&nbsp;et inflige Contusion +1.,"Einheiten, die dich berühren, werden zurückgestoßen. Dein Rückstoß ist um 10 erhöht und verursacht Beulen&nbsp;1.",Le unità che entrano in contatto con te vengono respinte. Il Contraccolpo che infliggi aumenta di 10 e infligge Livido 1.,Unidades que entram em contato com você são empurradas para trás. Empurrões causados por você são aumentados em 10 e aplicam contusão 1.
 ARMOR_STOMACH_NAME,Stomach,,Шлунок,Estomac,Magen,Stomaco,Estômago
 ARMOR_STOMACH_DESC,Consumables you use have double the effect.,,Вжиті вами предмети мають подвійну дію.,Les effets de vos consommables sont doublés.,"Gegenstände, die du benutzt, haben verdoppelte Effekte.",I consumabili che usi hanno il doppio dell'effetto.,Consumíveis que você usa têm seu efeito dobrado.
 ARMOR_STONEORBIT_NAME,Stone Orbit,,Кам'яна Орбіта,Orbite de pierre,Steinorbit,Orbitale di Pietra,Órbita rochosa
@@ -2418,7 +2418,7 @@ ARMOR_BEARTRAPMASK_DESC,+1 Bleed Thorns.,,"+1 до шипів, що виклик
 ARMOR_BLACKBELT_NAME,Black Belt,,Чорний пояс,Ceinture noire,Schwarzer Gürtel,Cintura Nera,Faixa Preta
 ARMOR_BLACKBELT_DESC,25% chance to block attacks and counter attack.,,25% шанс заблокувати атаки й контратакувати.,25&nbsp;% de chances de bloquer les attaques et de contre-attaquer.,"25%ige Wahrscheinlichkeit, Angriffe zu blockieren und sie zu kontern.",25% di probabilità di bloccare gli attacchi e contrattaccare.,25% de chance de bloquear ataques e contra-atacar.
 ARMOR_BLESSEDASHES_NAME,Blessed Ashes,,Благословений Попіл,Cendre bénies,Gesegnete Asche,Ceneri Benedette,Cinzas Abençoadas
-ARMOR_BLESSEDASHES_DESC,Gain +3 [img:shield] once per battle when your HP is 3 or less.,,"Отримуєш +3 [img:shield] один раз за бій, коли твоє HP 3 або менше.",[img:shield] +3&nbsp;une fois par combat quand vos PV sont de 3&nbsp;ou moins.,"Erhalte einmal pro Kampf +3&nbsp;[img:shield], wenn du 3 oder weniger LP hast.",Ottieni +3 allo [img:shield] una volta per battaglia quando i tuoi PS sono pari o inferiori a 3.,Obtenha +3 de [img:shield] uma vez por batalha quando sua saúde atingir 3 ou menos.
+ARMOR_BLESSEDASHES_DESC,Gain +3 [img:shield] once per battle when your HP is 3 or less.,,"Отримуєте +3 [img:shield] один раз за бій, коли ваші ОЗ становлять 3 або менше.",[img:shield] +3&nbsp;une fois par combat quand vos PV sont de 3&nbsp;ou moins.,"Erhalte einmal pro Kampf +3&nbsp;[img:shield], wenn du 3 oder weniger LP hast.",Ottieni +3 allo [img:shield] una volta per battaglia quando i tuoi PS sono pari o inferiori a 3.,Obtenha +3 de [img:shield] uma vez por batalha quando sua saúde atingir 3 ou menos.
 ARMOR_BOZO_NAME,Bozo,,Bozo,Nez rouge,Clownsnase,Buffone,Bozo
 ARMOR_BOZO_DESC,Your basic attack has a +15% chance to inflict Fear.,,Ваша базова атака має +15% шанс спричинити Страх.,Votre attaque de base a +15&nbsp;% de chances d'infliger Peur.,"Dein Grundangriff hat eine +15%ige Wahrscheinlichkeit, Angst zu verursachen.",Il tuo attacco base ha una probabilità del +15% di infliggere Paura.,Seu ataque básico possui +15% de chance de aplicar medo.
 ARMOR_BROWNBELT_NAME,Brown Belt,,Коричневий пояс,Ceinture marron,Brauner Gürtel,Cintura Marrone,Faixa Marrom
@@ -2516,7 +2516,7 @@ Am Anfang jeder Runde hast du 2 zusätzliche Züge.","Follia Permanente.
 Effettui 2 turni aggiuntivi all'inizio di ogni round.","Insanidade permanente.
 Obtenha 2 turnos adicionais no início de cada rodada."
 ARMOR_HOCKEYMASK_NAME,Hockey Mask,,Хокейна маска,Masque de hockey,Hockeymaske,Maschera da Hockey,Máscara de Hóquei
-ARMOR_HOCKEYMASK_DESC,"While downed, you have a 25% chance to revive with 1 HP at the end of the round.",,"Коли ти повалений, у тебе 25% шанс відродитися з 1 HP в кінці раунду.","K.O., vous avez 25&nbsp;% de chances d'être réanimé avec 1&nbsp;PV en fin de manche.","Während du ohnmächtig bist, besteht eine 25%ige Wahrscheinlichkeit, dass du am Ende der Runde mit 1&nbsp;LP wiederbelebt wirst.","Quando sei KO, hai un 25% di probabilità di rianimarti con 1 PS alla fine del round.","Enquanto estiver inconsciente, você possui 25% de chance de reviver com 1 PV no final da rodada."
+ARMOR_HOCKEYMASK_DESC,"While downed, you have a 25% chance to revive with 1 HP at the end of the round.",,"Поки ви в нокауті, у вас є 25% шанс відродитися з 1 ОЗ в кінці раунду.","K.O., vous avez 25&nbsp;% de chances d'être réanimé avec 1&nbsp;PV en fin de manche.","Während du ohnmächtig bist, besteht eine 25%ige Wahrscheinlichkeit, dass du am Ende der Runde mit 1&nbsp;LP wiederbelebt wirst.","Quando sei KO, hai un 25% di probabilità di rianimarti con 1 PS alla fine del round.","Enquanto estiver inconsciente, você possui 25% de chance de reviver com 1 PV no final da rodada."
 ARMOR_HOLYTEARS_NAME,Holy Tears,,Святі Сльози,Larmes saintes,Heilige Tränen,Lacrime Sacre,Lágrimas Sagradas
 ARMOR_HOLYTEARS_DESC,"Allies gain 2 [img:divineshield] when you are downed.
 Your spells cost -1 mana.",,"Союзники отримують 2 [img:divineshield], коли ти повалений.
@@ -2636,7 +2636,7 @@ ARMOR_WHITEBELT_DESC,+1 Brace.,,+1 Блок.,Garde +1.,+1&nbsp;Wappnen.,+1 alla 
 ARMOR_INVADER_NAME,Intruder,,Незваний гість,Intrus,Eindringling,Intruso,Intruso
 ARMOR_INVADER_DESC,Is it your baby?,,Це твоя дитина?,C'est votre bébé&nbsp;?,Ist das dein Baby?,È il tuo bambino?,É o seu bebê?
 ARMOR_CHILDOFTHEGLOWINGONE2_NAME,Child of the Glowing One,,Дитя Сяючого,Enfant de l'Incandescent,Kind des Leuchtenden,Figlio dello Splendente,Prole do Ser Radiante
-ARMOR_CHILDOFTHEGLOWINGONE2_DESC,Gain +1 Damage and heal 1 HP every time you use your basic attack.,,"Отримуєш +1 шкоди і відновлюєш 1 HP щоразу, коли використовуєш базову атаку.",Dégâts +1&nbsp;et vous rend 1&nbsp;PV quand vous utilisez votre attaque de base.,"Erhalte jedes Mal, wenn du deinen Grundangriff benutzt, +1&nbsp;Schaden und heile dich um 1&nbsp;LP.",Ottieni +1 al Danno e rigeneri 1 PS ogni volta che usi il tuo attacco base.,Obtenha +1 de dano e cure 1 PV sempre que utilizar seu ataque básico.
+ARMOR_CHILDOFTHEGLOWINGONE2_DESC,Gain +1 Damage and heal 1 HP every time you use your basic attack.,,"Отримуйте +1 до шкоди і відновлюйте 1 ОЗ щоразу, коли використовуєте базову атаку.",Dégâts +1&nbsp;et vous rend 1&nbsp;PV quand vous utilisez votre attaque de base.,"Erhalte jedes Mal, wenn du deinen Grundangriff benutzt, +1&nbsp;Schaden und heile dich um 1&nbsp;LP.",Ottieni +1 al Danno e rigeneri 1 PS ogni volta che usi il tuo attacco base.,Obtenha +1 de dano e cure 1 PV sempre que utilizar seu ataque básico.
 ,,,,,,,
 //armor sets,,,,,,,
 ARMOR_ADVANCEDHAT_NAME,Advanced Alloy Hat,,Капелюх із вдосконаленого сплаву,Chapeau en alliage avancé,Fortschrittlich legierter Helm,Cappello in Lega Avanzato,Chapéu de Liga Avançada
@@ -2736,11 +2736,11 @@ SETBONUS_BABY_NAME,Baby Set Bonus!,,Бонус за набір кошенят!,B
 SETBONUS_BABY_DESC,Start battle with a baby version of yourself.,,Почніть бій зі своєю дитячою версією.,Vous débutez le combat avec une version bébé de vous-même.,Beginne jeden Kampf mit einer Babyversion deiner selbst.,Inizi la battaglia con una tua versione bebè.,Inicie a batalha com uma versão sua bebê.
 ,,,,,,,
 ARMOR_BARBEDHAT_NAME,Barbed Hat,,Шипований капелюх,Chapeau barbelé,Dornenhelm,Cappello Spinato,Chapéu Farpado
-ARMOR_BARBEDHAT_DESC,"+1 Damage, +1 Thorns, -1 max HP.",,"+1 до шкоди, +1 до шипів, -1 до макс. HP.","Dégâts +1, Épines +1, PV max. -1.","+1&nbsp;Schaden, +1&nbsp;Dornen, -1&nbsp;max LP.","+1 al Danno, +1 Spine, -1 PS massimi.","+1 de dano, +1 de espinhos, -1 de saúde máxima."
+ARMOR_BARBEDHAT_DESC,"+1 Damage, +1 Thorns, -1 max HP.",,"+1 до шкоди, +1 до Шипів, -1 макс. ОЗ.","Dégâts +1, Épines +1, PV max. -1.","+1&nbsp;Schaden, +1&nbsp;Dornen, -1&nbsp;max LP.","+1 al Danno, +1 Spine, -1 PS massimi.","+1 de dano, +1 de espinhos, -1 de saúde máxima."
 ARMOR_BARBEDMASK_NAME,Barbed Mask,,Шипаста маска,Masque barbelé,Dornenmaske,Maschera Spinata,Máscara Farpada
-ARMOR_BARBEDMASK_DESC,"+1 Damage, +1 Thorns, -1 max HP.",,"+1 до шкоди, +1 до шипів, -1 до макс. HP.","Dégâts +1, Épines +1, PV max. -1.","+1&nbsp;Schaden, +1&nbsp;Dornen, -1&nbsp;max LP.","+1 al Danno, +1 Spine, -1 PS massimi.","+1 de dano, +1 de espinhos, -1 de saúde máxima."
+ARMOR_BARBEDMASK_DESC,"+1 Damage, +1 Thorns, -1 max HP.",,"+1 до шкоди, +1 до Шипів, -1 макс. ОЗ.","Dégâts +1, Épines +1, PV max. -1.","+1&nbsp;Schaden, +1&nbsp;Dornen, -1&nbsp;max LP.","+1 al Danno, +1 Spine, -1 PS massimi.","+1 de dano, +1 de espinhos, -1 de saúde máxima."
 ARMOR_BARBEDARMOR_NAME,Barbed Necklace,,Шипастий нашийник,Collier barbelé,Dornenhalsband,Collana Spinata,Colar Farpado
-ARMOR_BARBEDARMOR_DESC,"+1 Damage, +1 Thorns, -1 max HP.",,"+1 до шкоди, +1 до шипів, -1 до макс. HP.","Dégâts +1, Épines +1, PV max. -1.","+1&nbsp;Schaden, +1&nbsp;Dornen, -1&nbsp;max LP.","+1 al Danno, +1 Spine, -1 PS massimi.","+1 de dano, +1 de espinhos, -1 de saúde máxima."
+ARMOR_BARBEDARMOR_DESC,"+1 Damage, +1 Thorns, -1 max HP.",,"+1 до шкоди, +1 до Шипів, -1 макс. ОЗ.","Dégâts +1, Épines +1, PV max. -1.","+1&nbsp;Schaden, +1&nbsp;Dornen, -1&nbsp;max LP.","+1 al Danno, +1 Spine, -1 PS massimi.","+1 de dano, +1 de espinhos, -1 de saúde máxima."
 SETBONUS_BARBED_NAME,Barbed Set Bonus!,,Бонус за набір «Шипований»!,Bonus d'ensemble&nbsp;: barbelés&nbsp;!,Setbonus: Dornen!,Bonus Set: Spinato!,Bônus de Conjunto Farpado!
 SETBONUS_BARBED_DESC,+3 Thorns.,,+3 до шипів.,Épines +3.,+3&nbsp;Dornen.,+3 Spine.,+3 de espinhos.
 ,,,,,,,
@@ -2793,11 +2793,11 @@ SETBONUS_BONE_NAME,Bone Set Bonus!,,Бонус за набір Кісток!,Bon
 SETBONUS_BONE_DESC,Find a random common bone item at the end of each battle.,,Отримуй випадковий звичайний кістяний предмет після кожного бою.,Vous trouvez un objet commun en os aléatoire à la fin de chaque combat.,Finde am Ende jedes Kampfes einen zufälligen gewöhnlichen Knochengegenstand.,Trovi un oggetto d'ossa comune casuale alla fine di ogni battaglia.,Encontre um item de osso comum aleatório no final de cada batalha.
 ,,,,,,,
 ARMOR_BRICKHAT_NAME,Brick Hat,,Цегляний капелюх,Chapeau brique,Ziegelhut,Cappello di Mattoni,Chapéu de Tijolo
-ARMOR_BRICKHAT_DESC,Inflict Bruise 1 on units that contact you.,,"Наносить Ушиб 1 юнітам, що торкаються тебе.",Inflige Contusion +1&nbsp;aux unités qui vous touchent.,"Verursache Beulen&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Livido 1 alle unità che ti toccano.,Aplique contusão 1 em unidades que entrarem em contato com você.
+ARMOR_BRICKHAT_DESC,Inflict Bruise 1 on units that contact you.,,"Наносить Синець 1 юнітам, які торкаються вас.",Inflige Contusion +1&nbsp;aux unités qui vous touchent.,"Verursache Beulen&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Livido 1 alle unità che ti toccano.,Aplique contusão 1 em unidades que entrarem em contato com você.
 ARMOR_BRICKMASK_NAME,Brick Mask,,Цегляна маска,Masque brique,Ziegelmaske,Maschera di Mattoni,Máscara de Tijolo
-ARMOR_BRICKMASK_DESC,Inflict Bruise 1 on units that contact you.,,"Наносить Ушиб 1 юнітам, що торкаються тебе.",Inflige Contusion +1&nbsp;aux unités qui vous touchent.,"Verursache Beulen&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Livido 1 alle unità che ti toccano.,Aplique contusão 1 em unidades que entrarem em contato com você.
+ARMOR_BRICKMASK_DESC,Inflict Bruise 1 on units that contact you.,,"Наносить Синець 1 юнітам, які торкаються вас.",Inflige Contusion +1&nbsp;aux unités qui vous touchent.,"Verursache Beulen&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Livido 1 alle unità che ti toccano.,Aplique contusão 1 em unidades que entrarem em contato com você.
 ARMOR_BRICKNECKLACE_NAME,Brick Necklace,,Цегляне намисто,Collier brique,Ziegelhalsband,Collana di Mattoni,Colar de Tijolo
-ARMOR_BRICKNECKLACE_DESC,Inflict Bruise 1 on units that contact you.,,"Наносить Ушиб 1 юнітам, що торкаються тебе.",Inflige Contusion +1&nbsp;aux unités qui vous touchent.,"Verursache Beulen&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Livido 1 alle unità che ti toccano.,Aplique contusão 1 em unidades que entrarem em contato com você.
+ARMOR_BRICKNECKLACE_DESC,Inflict Bruise 1 on units that contact you.,,"Наносить Синець 1 юнітам, які торкаються вас.",Inflige Contusion +1&nbsp;aux unités qui vous touchent.,"Verursache Beulen&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Livido 1 alle unità che ti toccano.,Aplique contusão 1 em unidades que entrarem em contato com você.
 SETBONUS_BRICK_NAME,Brick Set Bonus!,,Бонус за набір Цегли!,Bonus d'ensemble&nbsp;: brique&nbsp;!,Setbonus: Ziegelrüstung!,Bonus Set: Mattoni!,Bônus de Conjunto de Tijolo!
 SETBONUS_BRICK_DESC,Knockback immunity.,,Імунітет до відштовхування.,Immunité au Recul.,Immun gegen Rückstoß.,Immunità al Contraccolpo.,Imunidade contra empurrões.
 ,,,,,,,
@@ -2818,24 +2818,24 @@ SETBONUS_BUTCHER_DESC,Food and scrap pickups you spawn are bigger.,,"Предм�
 ,,,,,,,
 ARMOR_CACTUSMASK_NAME,Cactus Mask,,Кактусова маска,Masque cactus,Kaktkusmaske,Maschera del Cactus,Máscara de Cacto
 ARMOR_CACTUSMASK_DESC,"+3 Thorns, Brittle.
-Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 Колючки, Крихке.
-Отримуєте +2 [img:con] назавжди і відновлюєте 10 HP, коли він ламається.","Épines +3, Cassant.
+Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 Шипи, крихкий.
+Отримуєте +2 [img:con] назавжди і відновлюєте 10 ОЗ, коли воно ламається.","Épines +3, Cassant.
 [img:con] +2&nbsp;de façon permanente, rend 10&nbsp;PV quand brisé.","+3&nbsp;Dornen, Spröde.
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar."
 ARMOR_CACTUSHAT_NAME,Cactus Hat,,Кактусовий капелюх,Chapeau cactus,Kaktushut,Cappello del Cactus,Chapéu de Cacto
 ARMOR_CACTUSHAT_DESC,"+3 Thorns, Brittle.
-Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 Колючки, Крихке.
-Отримуєте +2 [img:con] назавжди і відновлюєте 10 HP, коли він ламається.","Épines +3, Cassant.
+Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 Шипи, крихкий.
+Отримуєте +2 [img:con] назавжди і відновлюєте 10 ОЗ, коли воно ламається.","Épines +3, Cassant.
 [img:con] +2&nbsp;de façon permanente, rend 10&nbsp;PV quand brisé.","+3&nbsp;Dornen, Spröde.
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar."
 ARMOR_CACTUSNECKLACE_NAME,Cactus Necklace,,Кактусовий нашийник,Collier cactus,Kaktushalskette,Collana del Cactus,Colar de Cacto
 ARMOR_CACTUSNECKLACE_DESC,"+3 Thorns, Brittle.
-Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 Колючки, Крихке.
-Отримуєте +2 [img:con] назавжди і відновлюєте 10 HP, коли він ламається.","Épines +3, Cassant.
+Gain +2 [img:con] permanently and heal 10 HP when this breaks.",,"+3 Шипи, крихкий.
+Отримуєте +2 [img:con] назавжди і відновлюєте 10 ОЗ, коли воно ламається.","Épines +3, Cassant.
 [img:con] +2&nbsp;de façon permanente, rend 10&nbsp;PV quand brisé.","+3&nbsp;Dornen, Spröde.
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
@@ -2931,7 +2931,7 @@ ARMOR_CLERICRELIC_DESC,"+1 Brace.
 ARMOR_CLERICTEARS_NAME,Cleric's Tears,,Сльози клерика,Larmes de sage,Kleriktertränen,Lacrime del Chierico,Lágrimas de Clérigo
 ARMOR_CLERICTEARS_DESC,Gain +1 [img:divineshield] each time an ally is downed.,,"Отримуйте +1 [img:divineshield] щоразу, коли союзника виводять з ладу.",[img:divineshield] +1&nbsp;chaque fois qu'un allié est mis K.O.,"Erhalte jedes Mal, wenn ein Verbündeter in Ohnmacht fällt, +1&nbsp;[img:divineshield].",Ottieni +1 allo [img:divineshield] ogni volta che un alleato è KO.,Obtenha +1 de [img:divineshield] sempre que um aliado ficar inconsciente.
 SETBONUS_CLERIC_NAME,Cleric Set Bonus!,,Бонус набору клерика!,Bonus d'ensemble&nbsp;: sage&nbsp;!,Setbonus: Klerikerroben!,Bonus Set: Chierico!,Bônus de Conjunto de Clérigo!
-SETBONUS_CLERIC_DESC,"If an attack would down you, instead lower your HP to 1. While at 1 HP, this has no effect.",,"Якщо атака мала б повалити вас, замість цього зменшіть ваші HP до 1. Поки у вас 1 HP, це не діє.","Si une attaque est censée vous mettre K.O., vous conservez 1&nbsp;PV. Tant que vous êtes à 1&nbsp;PV, cet effet ne se déclenche pas.","Behalte 1&nbsp;LP, wenn dich ein Angriff in Ohnmacht fallen lassen würde. Hat keine Wirkung, wenn du 1&nbsp;LP hast.","Un attacco che avrebbe dovuto mandarti KO, riduce invece i tuoi PS a 1. Se hai 1 PS, non c'è nessun effetto.","Se um ataque for deixar você inconsciente, permaneça com vida e 1 PV. Isto não possui efeito enquanto você possui 1 PV."
+SETBONUS_CLERIC_DESC,"If an attack would down you, instead lower your HP to 1. While at 1 HP, this has no effect.",,"Якщо атака мала б вивести вас з ладу, замість цього зменшіть ваші ОЗ до 1. Поки у вас 1 ОЗ, цей ефект не діє.","Si une attaque est censée vous mettre K.O., vous conservez 1&nbsp;PV. Tant que vous êtes à 1&nbsp;PV, cet effet ne se déclenche pas.","Behalte 1&nbsp;LP, wenn dich ein Angriff in Ohnmacht fallen lassen würde. Hat keine Wirkung, wenn du 1&nbsp;LP hast.","Un attacco che avrebbe dovuto mandarti KO, riduce invece i tuoi PS a 1. Se hai 1 PS, non c'è nessun effetto.","Se um ataque for deixar você inconsciente, permaneça com vida e 1 PV. Isto não possui efeito enquanto você possui 1 PV."
 ,,,,,,,
 ARMOR_CATEARS_NAME,Normal Ears,,Звичайні вуха,Oreilles ordinaires,Normale Ohren,Orecchie Normali,Orelhas Normais
 ARMOR_CATEARS_DESC,,,,,,,
@@ -2995,7 +2995,7 @@ Trampel. Blutung&nbsp;3.","+3 Spine Insanguinate.
 Calpestamento. Sanguinamento 3.","+3 de espinhos de sangramento.
 Atropelamento. Sangramento 3."
 ARMOR_DEMONICNECKLACE_NAME,Demonic Necklace,,Демонічне Намисто,Collier démoniaque,Dämonische Halskette,Collana Demoniaca,Colar Demoníaco
-ARMOR_DEMONICNECKLACE_DESC,"Bruise 1. When you take damage, gain +2 Damage.",,"Ушиб 1. Коли ви отримуєте шкоду, отримайте +2 до шкоди.",Contusion +1. Dégâts +2&nbsp;quand vous subissez des dégâts.,"Beulen&nbsp;1. Wenn du Schaden erleidest, erhalte +2&nbsp;Schaden.","Livido 1. Quando subisci danno, ottieni +2 al Danno.","Contusão 1. Ao sofrer dano, obtenha +2 de dano."
+ARMOR_DEMONICNECKLACE_DESC,"Bruise 1. When you take damage, gain +2 Damage.",,"Синець 1. Коли ви отримуєте шкоду, отримуйте +2 до шкоди.",Contusion +1. Dégâts +2&nbsp;quand vous subissez des dégâts.,"Beulen&nbsp;1. Wenn du Schaden erleidest, erhalte +2&nbsp;Schaden.","Livido 1. Quando subisci danno, ottieni +2 al Danno.","Contusão 1. Ao sofrer dano, obtenha +2 de dano."
 SETBONUS_DEMONIC_NAME,Demonic Set Bonus!,,Бонус сета Демона!,Bonus d'ensemble&nbsp;: démoniaque&nbsp;!,Setbonus: Dämon!,Bonus Set: Demoniaco!,Bônus de Conjunto Demoníaco!
 SETBONUS_DEMONIC_DESC,"When you get a kill, gain +6 Shield.",,"Коли ви робите вбивство, отримайте +6 до щита.",Bouclier +6&nbsp;quand vous tuez un ennemi.,"Du erhältst +6&nbsp;Schild, wenn du etwas tötest.","Quando uccidi qualcuno, ottieni +6 allo Scudo.","Ao realizar uma baixa, obtenha +6 de escudo."
 ,,,,,,,
@@ -3054,7 +3054,7 @@ Régénération de mana +3&nbsp;quand vous êtes dans l'eau.","+3&nbsp;Wappnen, 
 ARMOR_RINGOFMUSHROOMS_NAME,Ring of Mushrooms,,Кільце грибів,Anneau champi,Pilzring,Anello dei Funghi,Anel de Cogumelos
 ARMOR_RINGOFMUSHROOMS_DESC,All of your area abilities gain +1 area.,,Усі ваші здібності з областю дії отримують +1 до області дії.,Toutes vos compétences bénéficient de Rayon +1.,All deine Flächenfähigkeiten erhalten +1&nbsp;Fläche.,Tutte le tue abilità ad area ottengono +1 di area.,Todas as suas habilidades de área obtêm +1 de área.
 SETBONUS_DRUID_NAME,Druid Set Bonus!,,Бонус набору Друїда!,Bonus d'ensemble&nbsp;: druide&nbsp;!,Setbonus: Druide!,Bonus set: Druido!,Bônus de Conjunto de Druida!
-SETBONUS_DRUID_DESC,Your Familiars gain +4 HP and +1 Damage.,,Ваші фамільяри отримують +4 до HP та +1 до шкоди.,Vos familiers bénéficient de PV +4&nbsp;et Dégâts +1.,Deine Begleiter erhalten +4&nbsp;LP und +1&nbsp;Schaden.,I tuoi famigli ottengono +4 PS e +1 al Danno.,Seus familiares obtêm +4 PV e +1 de dano.
+SETBONUS_DRUID_DESC,Your Familiars gain +4 HP and +1 Damage.,,Ваші супутники отримують +4 ОЗ і +1 до шкоди.,Vos familiers bénéficient de PV +4&nbsp;et Dégâts +1.,Deine Begleiter erhalten +4&nbsp;LP und +1&nbsp;Schaden.,I tuoi famigli ottengono +4 PS e +1 al Danno.,Seus familiares obtêm +4 PV e +1 de dano.
 ,,,,,,,
 ARMOR_DRYBONENECKLACE_NAME,Dry Bone Necklace,,Намисто Сухої Кістки,Collier en os desséchés,Halskette aus trockenen Knochen,Collana delle Ossa Secche,Colar de Osso Seco
 ARMOR_DRYBONENECKLACE_DESC,"+1 Thorns.
@@ -3270,16 +3270,16 @@ ARMOR_HEADGRUB_DESC,"When your [img:shield] is depleted, this transforms into a 
 ARMOR_NECKGRUB_NAME,Neck Grub,,Опариш (шия),Larve cervicale,Halsmade,Baco del Collo,Larva de Pescoço
 ARMOR_NECKGRUB_DESC,"When your [img:shield] is depleted, this transforms into a Maggot familiar.",,"Коли ваш [img:shield] вичерпується, воно перетворюється на фамільяра-опариша.","Quand votre [img:shield] est à 0, se change en asticot de compagnie.","Wenn dein [img:shield] aufgebraucht ist, verwandelt sich dies in eine freundliche Made.","Quando il tuo [img:shield] è esaurito, si trasforma in un famiglio Larva.","Quando seu [img:shield] se esgota, isto se transforma em um familiar verme."
 SETBONUS_GRUB_NAME,Grub Set Bonus!,,Бонус набору опаришів!,Bonus d'ensemble&nbsp;: larve&nbsp;!,Setbonus: Madenrüstung!,Bonus Set: Baco!,Bônus de Conjunto de Larva!
-SETBONUS_GRUB_DESC,Grubs spawned by items gain +5 HP.,,"Опариші, заспавнені предметами, отримують +5 HP.",Les larves générées par les objets gagnent +5&nbsp;PV.,"Maden, die durch Gegenstände erschaffen wurden, erhalten +5&nbsp;LP.",I bachi generati dagli oggetti ottengono +5 PS.,Larvas geradas por itens obtêm +5 PV.
+SETBONUS_GRUB_DESC,Grubs spawned by items gain +5 HP.,,"Личинки, заспавнені предметами, отримують +5 ОЗ.",Les larves générées par les objets gagnent +5&nbsp;PV.,"Maden, die durch Gegenstände erschaffen wurden, erhalten +5&nbsp;LP.",I bachi generati dagli oggetti ottengono +5 PS.,Larvas geradas por itens obtêm +5 PV.
 ,,,,,,,
 ARMOR_GUTSHEART_NAME,Heart,,Серце,Cœur,Herz,Cuore,Coração
-ARMOR_GUTSHEART_DESC,+1 Health Regen.,,+1 відновлення HP.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
+ARMOR_GUTSHEART_DESC,+1 Health Regen.,,+1 Регенерація ОЗ.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
 ARMOR_GUTSLIVER_NAME,Liver,,Печінка,Foie,Leber,Fegato,Fígado
-ARMOR_GUTSLIVER_DESC,+1 Health Regen.,,+1 відновлення HP.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
+ARMOR_GUTSLIVER_DESC,+1 Health Regen.,,+1 Регенерація ОЗ.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
 ARMOR_GUTSINTESTINES_NAME,Intestines,,Кишки,Intestins,Eingeweide,Intestini,Intestinos
-ARMOR_GUTSINTESTINES_DESC,+1 Health Regen.,,+1 відновлення HP.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
+ARMOR_GUTSINTESTINES_DESC,+1 Health Regen.,,+1 Регенерація ОЗ.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
 SETBONUS_GUTS_NAME,Guts Set Bonus!,,Бонус набору внутрішніх органів!,Bonus d'ensemble&nbsp;: entrailles&nbsp;!,Setbonus: Innereien!,Bonus Set: Viscere!,Bônus de Conjunto de Tripas!
-SETBONUS_GUTS_DESC,+1 Health Regen.,,+1 відновлення HP.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
+SETBONUS_GUTS_DESC,+1 Health Regen.,,+1 Регенерація ОЗ.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 a Rigenerazione Salute.,+1 de regeneração de saúde.
 ,,,,,,,
 SETBONUS_HIPPIE_NAME,Hippie Set Bonus!,,Бонус набору хіпі!,Bonus d'ensemble&nbsp;: hippie&nbsp;!,Setbonus: Hippierüstung!,Bonus Set: Hippie!,Bônus de Conjunto Hippie!
 SETBONUS_HIPPIE_DESC,Spawn 5 Catnip pickups at the start of each battle.,,Заспавнити 5 предметів котячої м'яти на початку кожної битви.,Fait apparaître 5&nbsp;herbes à chat au début de chaque combat.,Lasse am Anfang jedes Kampfes 5&nbsp;Katzenminze erscheinen.,Generi 5 raccoglibili Erba Gatta all'inizio di ogni battaglia.,Gere 5 coletáveis de erva-de-gato no início de cada batalha.
@@ -3330,11 +3330,11 @@ ARMOR_HYBRIDHAT_DESC,Start with a bonus move and Bleed 1.,,Починайте з
 ARMOR_HYBRIDMASK_NAME,Hybrid Mask,,Маска гібрида,Masque hybride,Hybridmaske,Maschera Ibrida,Máscara Híbrida
 ARMOR_HYBRIDMASK_DESC,Start with a bonus attack and Poison 1.,,Починайте з бонусної атаки та Отруєння 1.,Vous débutez avec Attaque bonus +1&nbsp;et Poison +1.,Beginne jeden Kampf mit einem Bonusangriff und Gift&nbsp;1.,Inizi con un attacco bonus e Veleno 1.,Inicie com um ataque bônus e veneno 1.
 ARMOR_HYBRIDNECKLACE_NAME,Hybrid Necklace,,Нашийник гібрида,Collier hybride,Hybridhalskette,Collana Ibrida,Colar Híbrido
-ARMOR_HYBRIDNECKLACE_DESC,Start with +5 Charge and Bruise 1.,,Починайте з +5 Заряду та Ушибу 1.,Vous débutez avec Charge +5&nbsp;et Contusion +1.,Beginne jeden Kampf mit +5&nbsp;Ladung und Beulen&nbsp;1.,Inizi con +5 Carica e Livido 1.,Inicie com +5 cargas e contusão 1.
+ARMOR_HYBRIDNECKLACE_DESC,Start with +5 Charge and Bruise 1.,,Починаєте з +5 Заряду та Синець 1.,Vous débutez avec Charge +5&nbsp;et Contusion +1.,Beginne jeden Kampf mit +5&nbsp;Ladung und Beulen&nbsp;1.,Inizi con +5 Carica e Livido 1.,Inicie com +5 cargas e contusão 1.
 SETBONUS_HYBRID_NAME,Hybrid Set Bonus!,,Бонус набору «Гібрид»!,Bonus d'ensemble&nbsp;: hybride&nbsp;!,Setbonus: Hybridrüstung!,Bonus Set: Ibrido!,Bônus de Conjunto Híbrido!
 SETBONUS_HYBRID_DESC,"Bruise 1. Poison 1. Bleed 1.
-The first spell you cast each turn is cast twice.",,"Ушиб 1. Отрута 1. Кровотеча 1.
-Перше заклинання в кожному ході застосовується двічі.","Contusion +1. Poison +1. Saignement +1.
+The first spell you cast each turn is cast twice.",,"Синець 1. Отрута 1. Кровотеча 1.
+Перше заклинання, яке ви застосовуєте кожного ходу, застосовується двічі.","Contusion +1. Poison +1. Saignement +1.
 Le premier sort que vous lancez chaque tour est lancé deux fois.","Beulen&nbsp;1. Gift&nbsp;1. Blutung&nbsp;1.
 Der erste Zauber, den du pro Zug wirkst, wird zweimal gewirkt.","Livido 1. Veleno 1. Sanguinamento 1.
 Il primo incantesimo che lanci ogni turno viene lanciato due volte.","Contusão 1. Veneno 1. Sangramento 1.
@@ -3557,36 +3557,36 @@ ARMOR_MOTHERSMASK_DESC,Spawn a Charmed Tiny Tumor at the start of each battle an
 ARMOR_MOTHERSNECKLACE_NAME,Mother's Necklace,,Нашийник Матері,Collier de maman,Mutters Halskette,Collana della Madre,Colar da Mãe
 ARMOR_MOTHERSNECKLACE_DESC,Spawn a Charmed Tiny Tumor at the start of each battle and whenever you're downed.,,"Заспавнити зачаровану крихітну пухлину на початку кожної битви та щоразу, коли ви повалені.",Invoque une petite tumeur envoûtée au début de chaque combat et quand vous êtes mis K.O.,"Ruf am Anfang jedes Kampfes und immer, wenn du in Ohnmacht fällst, einen freundlichen winzigen Tumor.",Generi un Tumore Minuscolo Ammaliato all'inizio di ogni battaglia e ogni volta che sei KO.,Gere um tumor minúsculo enfeitiçado no início de cada batalha e sempre que ficar inconsciente.
 SETBONUS_MOTHER_NAME,Mother Set Bonus!,,Бонус набору Матері!,Bonus d'ensemble&nbsp;: maman&nbsp;!,Setbonus: Mutters Rüstung!,Bonus Set: Madre!,Bônus de Conjunto da Mãe!
-SETBONUS_MOTHER_DESC,Familiars you spawn gain +2 Damage and +2 HP.,,"Фамільяри, яких ви заспавните, отримують +2 до шкоди та +2 HP.",Les familiers que vous invoquez bénéficient de Dégâts +2&nbsp;et +2&nbsp;PV.,"Begleiter, die du rufst, erhalten +2&nbsp;Schaden und +2&nbsp;LP.",I famigli che generi ottengono +2 al Danno e +2 PS.,Familiares gerados por você obtêm +2 de dano e +2 PV.
+SETBONUS_MOTHER_DESC,Familiars you spawn gain +2 Damage and +2 HP.,,"Супутники, яких ви заспавнили, отримують +2 до шкоди і +2 ОЗ.",Les familiers que vous invoquez bénéficient de Dégâts +2&nbsp;et +2&nbsp;PV.,"Begleiter, die du rufst, erhalten +2&nbsp;Schaden und +2&nbsp;LP.",I famigli che generi ottengono +2 al Danno e +2 PS.,Familiares gerados por você obtêm +2 de dano e +2 PV.
 ,,,,,,,
 ARMOR_FACEWRAP_NAME,Face Wrap,,Пов'язка на обличчя,Bandelettes de visage,Gesichtsverband,Fasciatura per il Viso,Atadura de Rosto
 ARMOR_FACEWRAP_DESC,"+1 Health Regen.
-When downed, revive with 15% HP at the end of the round.",,"+1 до регенерації здоров'я.
-Коли ви повалені, відроджуйтеся з 15% HP в кінці раунду.","Régénération de PV +1.
+When downed, revive with 15% HP at the end of the round.",,"+1 Регенерація ОЗ.
+Коли вас виведено з ладу, ви відроджуєтесь з 15% ОЗ наприкінці раунду.","Régénération de PV +1.
 K.O., vous réanime en fin de manche avec 15&nbsp;% de PV.","+1&nbsp;Lebensregeneration.
 Wenn du ohnmächtig bist, wirst du am Ende der Runde mit 15&nbsp;% LP wiederbelebt.","+1 a Rigenerazione Salute.
 Quando sei KO, ti rianimi con il 15% dei PS alla fine del round.","+1 de regeneração de saúde.
 Ao ficar inconsciente, reviva com 15% de saúde no final da rodada."
 ARMOR_HEADWRAP_NAME,Head Wrap,,Пов'язка на голову,Bandelettes de tête,Kopfverband,Fasciatura per la Testa,Atadura de Cabeça
 ARMOR_HEADWRAP_DESC,"+1 Health Regen.
-When downed, revive with 15% HP at the end of the round.",,"+1 до регенерації здоров'я.
-Коли ви повалені, відроджуйтеся з 15% HP в кінці раунду.","Régénération de PV +1.
+When downed, revive with 15% HP at the end of the round.",,"+1 Регенерація ОЗ.
+Коли вас виведено з ладу, ви відроджуєтесь з 15% ОЗ наприкінці раунду.","Régénération de PV +1.
 K.O., vous réanime en fin de manche avec 15&nbsp;% de PV.","+1&nbsp;Lebensregeneration.
 Wenn du ohnmächtig bist, wirst du am Ende der Runde mit 15&nbsp;% LP wiederbelebt.","+1 a Rigenerazione Salute.
 Quando sei KO, ti rianimi con il 15% dei PS alla fine del round.","+1 de regeneração de saúde.
 Ao ficar inconsciente, reviva com 15% de saúde no final da rodada."
 ARMOR_NECKWRAP_NAME,Neck Wrap,,Пов'язка на шию,Bandelettes de cou,Halsverband,Fasciatura per il Collo,Atadura de Pescoço
 ARMOR_NECKWRAP_DESC,"+1 Health Regen.
-When downed, revive with 15% HP at the end of the round.",,"+1 до регенерації здоров'я.
-Коли ви повалені, відроджуйтеся з 15% HP в кінці раунду.","Régénération de PV +1.
+When downed, revive with 15% HP at the end of the round.",,"+1 Регенерація ОЗ.
+Коли вас виведено з ладу, ви відроджуєтесь з 15% ОЗ наприкінці раунду.","Régénération de PV +1.
 K.O., vous réanime en fin de manche avec 15&nbsp;% de PV.","+1&nbsp;Lebensregeneration.
 Wenn du ohnmächtig bist, wirst du am Ende der Runde mit 15&nbsp;% LP wiederbelebt.","+1 a Rigenerazione Salute.
 Quando sei KO, ti rianimi con il 15% dei PS alla fine del round.","+1 de regeneração de saúde.
 Ao ficar inconsciente, reviva com 15% de saúde no final da rodada."
 SETBONUS_MUMMY_NAME,Mummy Set Bonus!,,Бонус набору Мумії!,Bonus d'ensemble&nbsp;: momie&nbsp;!,Setbonus: Mumie!,Bonus Set: Mummia!,Bônus de Conjunto de Múmia!
 SETBONUS_MUMMY_DESC,"When downed, inflict Rot 1 and Weakness 1 on all enemies.
-When downed, revive with +30% HP at the end of the round.",,"Коли ви повалені, накладіть Гниль 1 та Слабкість 1 на всіх ворогів.
-Коли ви повалені, відроджуйтеся з +30% HP в кінці раунду.","Mort, inflige Décomposition +1&nbsp;et Vulnérabilité +1&nbsp;à tous les ennemis.
+When downed, revive with +30% HP at the end of the round.",,"Якщо вас повалено, накладіть Гниття 1 і Слабкість 1 на всіх ворогів.
+Якщо вас повалено, воскресніть з +30% ОЗ в кінці раунду.","Mort, inflige Décomposition +1&nbsp;et Vulnérabilité +1&nbsp;à tous les ennemis.
 K.O., vous réanime avec +30&nbsp;% de PV en fin de manche.","Wenn du ohnmächtig wirst, verursachst du Fäulnis&nbsp;1 und Schwäche&nbsp;1 bei allen Gegnern.
 Wenn du ohnmächtig bist, wirst du am Ende der Runde mit +30&nbsp;% LP wiederbelebt.","Quando sei KO, infliggi Putrefazione 1 e Debolezza 1 a tutti i nemici.
 Quando sei KO, ti rianimi con +30% dei PS alla fine del round.","Ao ficar inconsciente, aplique apodrecimento 1 e fraqueza 1 em todos os inimigos.
@@ -3595,7 +3595,7 @@ Ao ficar inconsciente, reviva com +30% de saúde no final da rodada."
 ARMOR_SPIDERHAT_NAME,Spider Hat,,Капелюх Павука,Chapeau araignée,Spinnenhut,Cappello Aracnide,Chapéu de Aranha
 ARMOR_SPIDERHAT_DESC,"When you destroy a corpse, spawn 2 Spiderlings.",,"Коли ви знищуєте труп, заспавніть 2 павученят.","Quand vous détruisez un cadavre, 2&nbsp;jeunes araignées sont invoquées.","Wenn du eine Leiche zerstörst, rufst du 2&nbsp;Spinnenlinge.","Quando distruggi un cadavere, generi 2 Ragnetti.","Ao destruir um corpo, gere 2 aranhinhas."
 ARMOR_DEATHMASK_NAME,Death Mask,,Маска Смерті,Masque mortuaire,Todesmaske,Maschera della Morte,Máscara da Morte
-ARMOR_DEATHMASK_DESC,"Get downed at the start of each battle, then revive at the end of the first round with full HP and +2 [img:shield].",,"На початку кожної битви ви виводитесь з ладу, а в кінці першого раунду відроджуєтесь з повним HP і +2 [img:shield].",Vous êtes mis K.O. au début de chaque combat puis êtes réanimé en fin de première manche avec tous vos PV et [img:shield] +2.,Am Anfang jedes Kampfes fällst du in Ohnmacht. Am Ende der ersten Runde wirst du mit vollen LP und +2&nbsp;[img:shield] wiederbelebt.,"Vai KO all'inizio di ogni battaglia, poi ti rianimi alla fine del primo round con tutti i PS e +2 allo [img:shield].","Fique inconsciente no início de cada batalha, e então reviva no final da primeira rodada com saúde completa e +2 de [img:shield]."
+ARMOR_DEATHMASK_DESC,"Get downed at the start of each battle, then revive at the end of the first round with full HP and +2 [img:shield].",,"Виводиться з бою на початку кожної битви, потім воскресає в кінці першого раунду з повними ОЗ і +2 [img:shield].",Vous êtes mis K.O. au début de chaque combat puis êtes réanimé en fin de première manche avec tous vos PV et [img:shield] +2.,Am Anfang jedes Kampfes fällst du in Ohnmacht. Am Ende der ersten Runde wirst du mit vollen LP und +2&nbsp;[img:shield] wiederbelebt.,"Vai KO all'inizio di ogni battaglia, poi ti rianimi alla fine del primo round con tutti i PS e +2 allo [img:shield].","Fique inconsciente no início de cada batalha, e então reviva no final da primeira rodada com saúde completa e +2 de [img:shield]."
 ARMOR_LEECHNECKLACE_NAME,Leech Necklace,,Намисто Вампіра,Collier sangsue,Blutegelhalskette,Collana della Sanguisuga,Colar de Sanguessuga
 ARMOR_LEECHNECKLACE_DESC,Your spells inflict Leech 1 against enemies.,,Ваші заклинання накладають Вампіризм 1 на ворогів.,Vos sorts infligent Sangsue +1&nbsp;à vos ennemis.,Deine Zauber verursachen bei Gegnern Blutegel&nbsp;1.,I tuoi incantesimi infliggono Sanguisuga 1 ai nemici.,Seus encantamentos aplicam sanguessuga 1 em inimigos.
 SETBONUS_NECROMANCER_NAME,Necromancer Set Bonus!,,Бонус сету Некроманта!,Bonus d'ensemble&nbsp;: occultiste&nbsp;!,Setbonus: Totenbeschwörer!,Bonus Set: Necromante!,Bônus de Conjunto de Necromante!
@@ -4074,7 +4074,7 @@ ARMOR_VEINYHAT_DESC,"When you damage a Bleeding unit, gain +1 [img:spd].",,"Ко
 ARMOR_VEINYMASK_NAME,Veiny Mask,,Маска зі жилами,Masque veineux,Adrige Maske,Maschera Venosa,Máscara Veiuda
 ARMOR_VEINYMASK_DESC,"When you damage a Bleeding unit, gain +1 [img:str].",,"Коли ви завдаєте шкоди юніту з кровотечею, отримуйте +1 [img:str].",[img:str] +1&nbsp;quand vous infligez des dégâts à une unité avec Saignement.,"Du erhältst +1&nbsp;[img:str], wenn du einer blutenden Einheit Schaden zufügst.","Quando infliggi danno a un'unità con Sanguinamento, ottieni +1 alla [img:str].","Ao causar dano a uma unidade com sangramento, obtenha +1 de [img:str]."
 ARMOR_VEINYARMOR_NAME,Veiny Necklace,,Нашийник зі жилами,Collier veineux,Adrige Halskette,Collana Venosa,Colar Veiudo
-ARMOR_VEINYARMOR_DESC,"When you damage a Bleeding unit, heal 3 HP.",,"Коли ви завдаєте шкоди юніту з кровотечею, відновлюйте 3 HP.",Vous rend 3&nbsp;PV quand vous infligez des dégâts à une unité avec Saignement.,"Du heilst dich um 3&nbsp;LP, wenn du einer blutenden Einheit Schaden zufügst.","Quando infliggi danno a un'unità con Sanguinamento, recuperi 3 PS.","Ao causar dano a uma unidade com sangramento, cure 3 PV."
+ARMOR_VEINYARMOR_DESC,"When you damage a Bleeding unit, heal 3 HP.",,"Коли ви завдаєте шкоди юніту з Кровотечею, відновіть 3 ОЗ.",Vous rend 3&nbsp;PV quand vous infligez des dégâts à une unité avec Saignement.,"Du heilst dich um 3&nbsp;LP, wenn du einer blutenden Einheit Schaden zufügst.","Quando infliggi danno a un'unità con Sanguinamento, recuperi 3 PS.","Ao causar dano a uma unidade com sangramento, cure 3 PV."
 SETBONUS_VEINY_NAME,Veiny Set Bonus!,,Бонус набору зі жилами!,Bonus d'ensemble&nbsp;: veineux&nbsp;!,Setbonus: Adrige Rüstung!,Bonus Set: Venoso!,Bônus de Conjunto Veiudo!
 SETBONUS_VEINY_DESC,"Your basic attack inflicts Bleed. Whenever you inflict Bleed, trigger Bleed damage immediately.",,"Ваша базова атака накладає кровотечу. Кожного разу, коли ви накладаєте кровотечу, її шкода завдається негайно.","Votre attaque de base inflige Saignement. Quand vous infligez Saignement, les dégâts dus à Saignement sont subis immédiatement.","Dein Grundangriff verursacht Blutung. Immer, wenn du eine Blutung verursachst, wird Blutungsschaden sofort ausgelöst.","Il tuo attacco base infligge Sanguinamento. Ogni volta che infliggi Sanguinamento, attivi immediatamente il danno da Sanguinamento.","Seus ataques básicos aplicam sangramento. Sempre que aplicar sangramento, ative o dano de sangramento imediatamente."
 ,,,,,,,
@@ -4229,8 +4229,8 @@ ARMOR_SOULSUCKER_NAME,Soul Sucker,,Пожирач Душ,Suceur d'âmes,Seelensa
 ARMOR_SOULSUCKER_DESC,Restore 2 mana when you kill an enemy.,,"Відновити 2 мани, коли ви вбиваєте ворога.",Mana +2&nbsp;quand vous tuez un ennemi.,"Stelle 2&nbsp;Mana wieder her, wenn du einen Gegner tötest.",Recuperi 2 mana quando uccidi un nemico.,Restaure 2 de mana ao matar um inimigo.
 ARMOR_THETICK_NAME,The Tick,,Кліщ,La Tique,Die Zecke,La Zecca,Carrapato
 ARMOR_THETICK_DESC,"Inflict All Stats Down on bosses and minibosses at the start of each battle.
-Heal +12 HP at the end of each battle.",,"Накласти статус All Stats Down на босів і мінібосів на початку кожної битви.
-Відновити +12 HP наприкінці кожної битви.","Inflige Baisse de stats aux boss et miniboss au début de chaque combat.
+Heal +12 HP at the end of each battle.",,"Накладіть Зниження всіх характеристик на босів і мінібосів на початку кожної битви.
+Відновіть +12 ОЗ в кінці кожної битви.","Inflige Baisse de stats aux boss et miniboss au début de chaque combat.
 Rend +12&nbsp;PV à la fin de chaque combat.","Verursache am Anfang des Kampfes bei Bossen und Minibossen einen Malus auf alle Attribute.
 Heile dich am Ende jedes Kampfes um +12&nbsp;LP.","Infliggi Diminuzione delle Statistiche a boss e miniboss all'inizio di ogni battaglia.
 Rigeneri +12 PS alla fine di ogni battaglia.","Aplique todos os atributos diminuídos em chefes e mini chefes no início de cada batalha.
@@ -4252,7 +4252,7 @@ SETBONUS_AMOEBA_DESC,Permanent Madness.,,Постійне Божевілля.,Fo
 PARASITE_BOTFLYLARVA_NAME,Botfly Larva,,Botfly Larva,Larve de taon,Dasselfliegenlarve,Larva di Tafano,Larva de Mosca-Varejeira
 PARASITE_BOTFLYLARVA_DESC,Spawns 2 Pooter familiars when you're downed.,,"Заспавнює 2 фамільярів Pooter, коли ви повалені.","Quand vous êtes mis K.O., 2&nbsp;mouches cracheuses sont invoquées.","Ruft 2&nbsp;Pupserbegleiter, wenn du in Ohnmacht fällst.",Genera 2 famigli Puzzone quando sei KO.,Gere 2 familiares pooters ao ficar inconsciente.
 PARASITE_BRAINMAGGOT_NAME,Brain Maggot,,Brain Maggot,Asticot de cerveau,Hirnmade,Verme del Cervello,Verme de Cérebro
-PARASITE_BRAINMAGGOT_DESC,Revive with 50% HP 2 rounds after you are downed.,,"Відроджує з 50% HP через 2 ходи після того, як ви повалені.","2&nbsp;manches après avoir été mis K.O., vous réanime avec 50&nbsp;% de vos PV.","Du wirst 2&nbsp;Runden, nachdem du in Ohnmacht fällst, mit 50&nbsp;%&nbsp;LP wiederbelebt.",Ti rianimi con il 50% di PS 2 round dopo il tuo KO.,Reviva com 50% de saúde 2 rodadas após ficar inconsciente.
+PARASITE_BRAINMAGGOT_DESC,Revive with 50% HP 2 rounds after you are downed.,,Воскресніть з 50% ОЗ через 2 раунди після вашого повалення.,"2&nbsp;manches après avoir été mis K.O., vous réanime avec 50&nbsp;% de vos PV.","Du wirst 2&nbsp;Runden, nachdem du in Ohnmacht fällst, mit 50&nbsp;%&nbsp;LP wiederbelebt.",Ti rianimi con il 50% di PS 2 round dopo il tuo KO.,Reviva com 50% de saúde 2 rodadas após ficar inconsciente.
 PARASITE_HEARTWORM_NAME,Heartworm,,Heartworm,Ver cardiaque,Herzwurm,Filarioidea,Dirofilariose
 PARASITE_HEARTWORM_DESC,"When downed, your body is destroyed.",,"Коли ви повалені, ваше тіло знищується.","K.O., votre corps est détruit.","Wenn du in Ohnmacht fällst, wird dein Körper zerstört.","Quando sei KO, il tuo corpo viene distrutto.","Ao ficar inconsciente, seu corpo é destruído."
 PARASITE_PINWORM_NAME,Pinworm,,Pinworm,Oxyure,Madenwurm,Ossiuro,Oxiúros
@@ -4332,7 +4332,7 @@ Dein Grundangriff verursacht Gift.","Le unità adiacenti si allontanano da te al
 Il tuo attacco base infligge Veleno.","Unidades adjacentes se afastam de você no final de seus turnos.
 Seu ataque básico aplica veneno."
 ITEM_SLAGTIGHT_NAME,Slag Tight,,Щільний шлак,Stalactite,Fetter Stamm,Stala Gtite,Estala Ctite
-ITEM_SLAGTIGHT_DESC,Brace 1. Your basic attack inflicts Bruise 1.,,Укріплення 1. Ваша базова атака накладає Ушиб 1.,Garde +1. Votre attaque de base inflige Contusion +1.,Wappnen&nbsp;1. Dein Grundangriff verursacht Beulen&nbsp;1.,Guardia 1. Il tuo attacco base infligge Livido 1.,Preparação 1. Seu ataque básico aplica contusão 1.
+ITEM_SLAGTIGHT_DESC,Brace 1. Your basic attack inflicts Bruise 1.,,Brace 1. Ваша базова атака накладає Синець 1.,Garde +1. Votre attaque de base inflige Contusion +1.,Wappnen&nbsp;1. Dein Grundangriff verursacht Beulen&nbsp;1.,Guardia 1. Il tuo attacco base infligge Livido 1.,Preparação 1. Seu ataque básico aplica contusão 1.
 ITEM_SPLINTERS_NAME,Splinters,,Осколки,Échardes,Splitter,Schegge,Lascas
 ITEM_SPLINTERS_DESC,,,,,,,
 ITEM_VIBRATINGMETEORITE_NAME,Vibrating Meteorite,,Вібруючий Метеорит,Météorite vibrante,Vibrierender Meteorit,Meteorite Vibrante,Meteorito Vibrante

@@ -4,7 +4,7 @@ AREA_NAME_TUTORIAL,The Path,,Шлях,La Route,Der Trampelpfad,Il Sentiero,O Cam
 AREA_NAME_HOUSE,Home,,Дім,La Maison,Dein Haus,Casa,Casa
 AREA_NAME_ALLEY,The Alley,,Провулок,La Ruelle,Die Gasse,Il Vicolo,O Beco
 AREA_NAME_SEWERS,The Sewers,,Каналізація,Les Égouts,Die Kanalisation,Le Fogne,O Esgoto
-AREA_NAME_JUNKYARD,The Junkyard,,Свалка,La Décharge,Der Schrottplatz,La Discarica,O Ferro-Velho
+AREA_NAME_JUNKYARD,The Junkyard,,Звалище,La Décharge,Der Schrottplatz,La Discarica,O Ferro-Velho
 AREA_NAME_CAVES,The Caves,,Печери,Les Grottes,Die Höhlen,Le Caverne,As Cavernas
 AREA_NAME_BONEYARD,The Boneyard,,Кістяний цвинтар,Le Cimetière,Der Friedhof,Il Cimitero,O Cemitério
 AREA_NAME_MEATWORLD,The Throbbing Domain,,Пульсуюче володіння,Le Domaine lancinant,Das Pulsierende Reich,Il Regno Pulsante,O Domínio Pulsante
@@ -325,7 +325,7 @@ HOUSE_CAT_INFO_RIVAL_M,,,,,,,
 HOUSE_CAT_INFO_RIVAL_F,,,,,,,
 HOUSE_CAT_INFO_RIVAL_N,,,,,,,
 HOUSE_CAT_INFO_AGE,Age {age},,Вік {age},Âge&nbsp;: {age},Alter {age},Età: {age},Idade: {age}
-HOUSE_CAT_INFO_HP,HP:,,ХП:,PV&nbsp;:,LP:,PS:,PV:
+HOUSE_CAT_INFO_HP,HP:,,ОЗ:,PV&nbsp;:,LP:,PS:,PV:
 HOUSE_CAT_INFO_LEVEL,Lv.,,Рів.,Niv.,Lv.,Liv:,Nv.
 HOUSE_CAT_INFO_OLD,old,,старий,ans,alt,vecchio,
 HOUSE_CAT_INFO_STR_NAME,[img:str]Strength,,[img:str]Сила,[img:str]Force,[img:str]Stärke,[img:str]Forza,[img:str]Força

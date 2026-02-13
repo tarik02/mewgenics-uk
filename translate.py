@@ -306,8 +306,6 @@ def translate_file(client, model, system_prompt, filename, progress, lang, targe
             continue
         if key in file_tr:
             translations[key] = file_tr[key]
-        elif key in prev_en and prev_en[key] == en_text and key in existing_tr and existing_tr[key]:
-            translations[key] = existing_tr[key]
         else:
             to_keys.append(key)
             to_texts.append(en_text)

@@ -10943,9 +10943,9 @@ Wie wäre es mit einem [a:shake]Geschäft?![/a]“[/i]","[i]Avvicinati, piccolo 
 Vorresti stringere un [a:shake]patto?![/a][/i]","[i]Chegue mais perto, pequeno felino...
 
 Gostaria de fazer um [a:shake]acordo?![/a][/i]"
-EVENT_BAHPHOMET_HEALTH_ANSW,All cats lose 10hp,,Усі коти втрачають 10 hp,Tous les chats perdent 10&nbsp;PV,Alle Katzen verlieren 10&nbsp;LP,Tutti i gatti perdono 10 PS,Todos os gatos perdem 10 PV
-EVENT_BAHPHOMET_SACRIFICE_ANSW,Sacrifice yourself,,Пожертвувати собою,Se sacrifier,Sich als Opfer anbieten,Sacrificati,Sacrificar-se
-EVENT_BAHPHOMET_LEAVE_ANSW,Leave,,Покинути,Partir,"Nein, danke",Vattene,Sair
+EVENT_BAHPHOMET_HEALTH_ANSW,All cats lose 10hp,,Усі коти втрачають 10 ОЗ,Tous les chats perdent 10&nbsp;PV,Alle Katzen verlieren 10&nbsp;LP,Tutti i gatti perdono 10 PS,Todos os gatos perdem 10 PV
+EVENT_BAHPHOMET_SACRIFICE_ANSW,Sacrifice yourself,,Пожертвуй собою,Se sacrifier,Sich als Opfer anbieten,Sacrificati,Sacrificar-se
+EVENT_BAHPHOMET_LEAVE_ANSW,Leave,,Вийти,Partir,"Nein, danke",Vattene,Sair
 EVENT_BAPHOMET_REW1,"[i]""Well done. Have this small trinket...""[/i]
 
 The strange beast looks down at {catname} and laughs.
@@ -13046,9 +13046,9 @@ Ela segura uma grande tigela nas mãos e pede um sacrifício!"
 EVENT_DEMONICIDOL_QUES_M,,,,,,,
 EVENT_DEMONICIDOL_QUES_F,,,,,,,
 EVENT_DEMONICIDOL_QUES_N,,,,,,,
-EVENT_DEMONICIDOL_1DAMAGE_ANSW,Donate blood (1hp),,Пожертвувати кров (1hp),Donner du sang (1&nbsp;PV),Blut spenden (1 LP),Dona del sangue (1 PS),Doar sangue (1 PV)
-EVENT_DEMONICIDOL_HALFDAMAGE_ANSW,Donate blood (1/2 hp),,Пожертвувати кров (1/2 hp),Donner du sang (1/2 des PV),Blut spenden (50&nbsp;% LP),Dona del sangue (1/2 PS),Doar sangue (50% da saúde)
-EVENT_DEMONICIDOL_FULLDAMAGE_ANSW,Donate blood (all but 1 hp),,"Пожертвувати кров (все, крім 1 hp)",Donner du sang (Tout sauf 1&nbsp;PV),Blut spenden (alle bis auf 1 LP),Dona del sangue (tutto tranne 1 PS),Doar sangue (Toda a saúde exceto 1 PV)
+EVENT_DEMONICIDOL_1DAMAGE_ANSW,Donate blood (1hp),,Пожертвувати кров (1 ОЗ),Donner du sang (1&nbsp;PV),Blut spenden (1 LP),Dona del sangue (1 PS),Doar sangue (1 PV)
+EVENT_DEMONICIDOL_HALFDAMAGE_ANSW,Donate blood (1/2 hp),,Пожертвувати кров (1/2 ОЗ),Donner du sang (1/2 des PV),Blut spenden (50&nbsp;% LP),Dona del sangue (1/2 PS),Doar sangue (50% da saúde)
+EVENT_DEMONICIDOL_FULLDAMAGE_ANSW,Donate blood (all but 1 hp),,"Пожертвувати кров (усю, крім 1 ОЗ)",Donner du sang (Tout sauf 1&nbsp;PV),Blut spenden (alle bis auf 1 LP),Dona del sangue (tutto tranne 1 PS),Doar sangue (Toda a saúde exceto 1 PV)
 EVENT_DEMONICIDOL_REW1,"{catname} scratches {his} paw and releases some blood into the bowl...
 ",,{catname} подряпує {his} лапу й випускає трохи крові в чашу...,{catname} griffe sa patte et laisse tomber du sang dans le bol...,"{catname} piekst sich in die Tatze und lässt ein wenig Blut in die Schüssel&nbsp;…
 ",{catname} si graffia la zampa e fa colare un po' di sangue nella ciotola...,{catname} arranha a pata e deixa cair um pouco de sangue na tigela...
@@ -13560,9 +13560,9 @@ EVENT_BROKENCANISTER_REW5_F,,,,,,,
 EVENT_BROKENCANISTER_REW5_N,,,,,,,
 EVENT_BROKENCANISTER_REW5_N	,"{catname} laps up some of the thick liquid. It tastes strange, but good.
 
-{catname} feel their body mutate!",,"{catname} злизуė трохи густоï рiдини. Вона маė дивний, але приėмний смак.
+{catname} feel their body mutate!",,"{catname} злизує трохи густої рідини. Смак дивний, але приємний.
 
-{catname} вiдчувають, як ïхнė тiло мутуė!",,"{catname} schleckt die dickflüssige Masse auf. Sie schmeckt etwas komisch, aber nicht schlecht.
+{catname} відчуває, як його тіло мутує!",,"{catname} schleckt die dickflüssige Masse auf. Sie schmeckt etwas komisch, aber nicht schlecht.
 
 Der Körper von {catname} mutiert!","{catname} lecca un po' del denso liquido. Ha un sapore strano, ma buono.
 
@@ -16910,9 +16910,9 @@ EVENT_COMPUTERCONSOLE_REW5_F,,,,,,,
 EVENT_COMPUTERCONSOLE_REW5_N,,,,,,,
 EVENT_COMPUTERCONSOLE_REW5_N		,"{catname} smashes the computer and it shuts off.
 
-They try to reboot it but the console is dead.",,"{catname} розбиваė комп'ютер, i вiн вимикаėться.
+They try to reboot it but the console is dead.",,"{catname} розбиває комп'ютер, і він вимикається.
 
-Вони намагаються перезавантажити його, але консоль мертва.",,"{catname} schlägt auf den Computer ein und er geht aus.
+{catname} намагається його перезавантажити, але консоль мертва.",,"{catname} schlägt auf den Computer ein und er geht aus.
 
 {catname} versucht ihn neu zu starten, doch die Konsole reagiert nicht.","{catname} colpisce il computer, che si spegne.
 
@@ -19246,7 +19246,7 @@ EVENT_INTIMIDATION_ANSW,Intimidation,,Залякування,L'intimidation,Eins
 EVENT_SURPRISE_ANSW,Surprise,,Сюрприз,La surprise,Anschleichen,Sorpresa,Surpresa
 EVENT_PROTECTION_ANSW,Protection,,Захист,La protection,Verteidigung,Protezione,Proteção
 EVENT_DAMAGE_ANSW,Damage,,Шкода,Les dégâts,Angriff,Danno,Dano
-EVENT_SMASH_ANSW,Smash,,Сокрушення,Cogner,Zerschlagen,Spacca,Esmagar
+EVENT_SMASH_ANSW,Smash,,Розгром,Cogner,Zerschlagen,Spacca,Esmagar
 EVENT_OPEN_ANSW,Open,,Відкрити,Ouvrir,Öffnen,Apri,Abrir
 EVENT_PICK_ANSW,Pick,,Вибрати,Choisir,Knacken,Raccogli,Escolher
 EVENT_DRINK_ANSW,Drink,,Випити,Boire,Trinken,Bevi,Beber
