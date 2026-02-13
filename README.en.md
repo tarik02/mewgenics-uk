@@ -16,6 +16,19 @@ Download the latest build for your platform from [Releases](https://github.com/t
 
 Re-run the patcher any time after a game update to re-apply translations.
 
+## Caveats & Future Improvements
+
+- The patch does not add a new language — it replaces an existing one (in this case, Spanish with Ukrainian). This means if you want to revert to the original English, you need to restore the backup `resources.gpak.bak`, or verify game files through Steam.
+- The translation may contain errors or inaccuracies, as it was generated automatically with minimal manual intervention.
+- It would be nice to automate the translation update process after a game patch (steamcmd + scheduled GitHub Actions).
+
+## Additional Changes
+
+### data/uk/translated/swfs/unicodefont.swf
+
+The file was edited using [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler).
+The only change — characters "іїєІЇЄ" from the "Noto Sans Regular" font were added to the "Noto Sans CJK TC Regular" font.
+
 ## For Developers
 
 ### Requirements

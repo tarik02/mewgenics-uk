@@ -1,8 +1,8 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br
-PRONOUN_HE_LOWER,he,replaces {he} in other strings,вiн,il,er,lui,ele
-PRONOUN_HE_UPPER,He,replaces {He} in other strings,Вiн,Il,Er,Lui,Ele
-PRONOUN_HE_S_LOWER,he's,replaces {he's} in other strings,вiн ê,,er ist,lui è,ele está
-PRONOUN_HE_S_UPPER,He's,replaces {He's} in other strings,Вiн ê,,Er ist,Lui è,Ele está
+PRONOUN_HE_LOWER,he,replaces {he} in other strings,він,il,er,lui,ele
+PRONOUN_HE_UPPER,He,replaces {He} in other strings,Він,Il,Er,Lui,Ele
+PRONOUN_HE_S_LOWER,he's,replaces {he's} in other strings,він є,,er ist,lui è,ele está
+PRONOUN_HE_S_UPPER,He's,replaces {He's} in other strings,Він є,,Er ist,Lui è,Ele está
 PRONOUN_HIS_LOWER,his,replaces {his} in other strings,його,,sein,suo,dele
 PRONOUN_HIS_UPPER,His,replaces {His} in other strings,Його,,Sein,Suo,Dele
 PRONOUN_HIM_LOWER,him,replaces {him} in other strings,його,lui,ihn,lui,a ele
@@ -12,28 +12,28 @@ PRONOUN_HIMSELF_UPPER,Himself,replaces {Himself} in other strings,Сам,,Er sel
 ,,,,,,,
 PRONOUN_SHE_LOWER,she,replaces {he} in other strings,вона,elle,sie,lei,ela
 PRONOUN_SHE_UPPER,She,replaces {He} in other strings,Вона,Elle,Sie,Lei,Ela
-PRONOUN_SHE_S_LOWER,she's,replaces {he's} in other strings,вона ê,,sie ist,lei è,ela está
-PRONOUN_SHE_S_UPPER,She's,replaces {He's} in other strings,Вона ê,,Sie ist,Lei è,Ela está
-PRONOUN_HER_POSSESSIVE_LOWER,her,replaces {his} in other strings,ïï,,ihr,suo,dela
-PRONOUN_HER_POSSESSIVE_UPPER,Her,replaces {His} in other strings,Ïï,,Ihr,suo,Dela
-PRONOUN_HER_LOWER,her,replaces {him} in other strings,ïï,elle,sie,lei,dela
-PRONOUN_HER_UPPER,Her,replaces {Him} in other strings,Ïï,Elle,Sie,lei,Dela
+PRONOUN_SHE_S_LOWER,she's,replaces {he's} in other strings,вона є,,sie ist,lei è,ela está
+PRONOUN_SHE_S_UPPER,She's,replaces {He's} in other strings,Вона є,,Sie ist,Lei è,Ela está
+PRONOUN_HER_POSSESSIVE_LOWER,her,replaces {his} in other strings,її,,ihr,suo,dela
+PRONOUN_HER_POSSESSIVE_UPPER,Her,replaces {His} in other strings,Її,,Ihr,suo,Dela
+PRONOUN_HER_LOWER,her,replaces {him} in other strings,її,elle,sie,lei,dela
+PRONOUN_HER_UPPER,Her,replaces {Him} in other strings,Її,Elle,Sie,lei,Dela
 PRONOUN_HERSELF_LOWER,herself,replaces {himself} in other strings,сама,,sie selbst,se stessa,si mesma
 PRONOUN_HERSELF_UPPER,Herself,replaces {Himself} in other strings,Сама,,Sie selbst,Se stessa,Si mesma
 ,,,,,,,
 PRONOUN_THEY_LOWER,they,replaces {he} in other strings,вони,iel,er,loro,eles
 PRONOUN_THEY_UPPER,They,replaces {He} in other strings,Вони,Iel,Er,Loro,Eles
-PRONOUN_THEYRE_LOWER,they're,replaces {he's} in other strings,вони ê,,er ist,loro sono,eles estão
-PRONOUN_THEYRE_UPPER,They're,replaces {He's} in other strings,Вони ê,,Er ist,Loro sono,Eles estão
-PRONOUN_THEIR_LOWER,their,replaces {his} in other strings,ïхнiй,,sein,loro,deles
-PRONOUN_THEIR_UPPER,Their,replaces {His} in other strings,Ïхнiй,,Sein,loro,Deles
-PRONOUN_THEM_LOWER,them,replaces {him} in other strings,ïх,ellui,ihn,loro,a eles
-PRONOUN_THEM_UPPER,Them,replaces {Him} in other strings,Ïх,Ellui,Ihn,loro,A eles
+PRONOUN_THEYRE_LOWER,they're,replaces {he's} in other strings,вони є,,er ist,loro sono,eles estão
+PRONOUN_THEYRE_UPPER,They're,replaces {He's} in other strings,Вони є,,Er ist,Loro sono,Eles estão
+PRONOUN_THEIR_LOWER,their,replaces {his} in other strings,їхній,,sein,loro,deles
+PRONOUN_THEIR_UPPER,Their,replaces {His} in other strings,Їхній,,Sein,loro,Deles
+PRONOUN_THEM_LOWER,them,replaces {him} in other strings,їх,ellui,ihn,loro,a eles
+PRONOUN_THEM_UPPER,Them,replaces {Him} in other strings,Їх,Ellui,Ihn,loro,A eles
 PRONOUN_THEMSELF_LOWER,themself,replaces {himself} in other strings,себе,,er selbst,loro stessi,eles mesmos
 PRONOUN_THEMSELF_UPPER,Themself,replaces {Himself} in other strings,Себе,,Er selbst,Loro stessi,Eles mesmos
 ,,,,,,,
-CATNAME_UNKNOWN_NAME,Unknown,replaces {Catname} in other strings if there was no cat specified (usually an error message),Невiдомий,Inconnu,Unbekannt,Sconosciuto,Desconhecido
-CATNAME_UNKNOWN_NAME_POSSESSIVE,Unknown's,replaces {Catname's} in other strings if there was no cat specified (usually an error message),Невiдомого,d'Inconnu,Unbekannts,Sconosciuto,de desconhecido
+CATNAME_UNKNOWN_NAME,Unknown,replaces {Catname} in other strings if there was no cat specified (usually an error message),Невідомий,Inconnu,Unbekannt,Sconosciuto,Desconhecido
+CATNAME_UNKNOWN_NAME_POSSESSIVE,Unknown's,replaces {Catname's} in other strings if there was no cat specified (usually an error message),Невідомого,d'Inconnu,Unbekannts,Sconosciuto,de desconhecido
 ,,,,,,,
 CATNAME_POSSESSIVE_FORMAT,{Catname}'s,"(adds an 's onto catname in english, can do whatever in other languages)",{Catname}'s,,{Catname}s,{Catname},de {Catname}
 CATNAME_POSSESSIVE_FORMAT_M,,,,,,,
