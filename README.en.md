@@ -28,7 +28,7 @@ Re-run the installer (or re-extract the archive) any time after a game update to
 ### data/uk/translated/swfs/unicodefont.swf
 
 The file was edited using [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler).
-The only change — characters "іїєІЇЄ" from the "Noto Sans Regular" font were added to the "Noto Sans CJK TC Regular" font.
+The only change — characters "іїєґІЇЄҐ" from the "Noto Sans Regular" font were added to the "Noto Sans CJK TC Regular" font.
 
 ## For Developers
 

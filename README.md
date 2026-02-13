@@ -28,7 +28,7 @@
 ### data/uk/translated/swfs/unicodefont.swf
 
 Файл було відредаговано за допомогою [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler).
-Єдина зміна - в шрифт "Noto Sans CJK TC Regular" було додано символи "іїєІЇЄ" з шрифту "Noto Sans Regular".
+Єдина зміна - в шрифт "Noto Sans CJK TC Regular" було додано символи "іїєґІЇЄҐ" з шрифту "Noto Sans Regular".
 
 ## Для розробників
 
