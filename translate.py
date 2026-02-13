@@ -252,10 +252,7 @@ def write_translated_csv(out_dir, filename, header, rows, key_idx, en_idx, targe
         while len(new_row) < len(out_header):
             new_row.append('')
         if key_idx < len(row) and row[key_idx] in translations:
-            new_row[target_idx] = translations[row[key_idx]]\
-                    .replace('і', 'i').replace('І', 'I')\
-                    .replace('ї', 'ï').replace('Ї', 'Ï')\
-                    .replace('є', 'ê').replace('Є', 'Ê')
+            new_row[target_idx] = translations[row[key_idx]]
         writer.writerow(new_row)
     with open(outpath, 'w', encoding='utf-8-sig', newline='') as f:
         f.write(output.getvalue())
