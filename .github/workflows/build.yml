@@ -58,9 +58,10 @@ jobs:
 
       - name: Prepare release files
         run: |
-          mv artifacts/mewgenics-uk-windows/mewgenics-uk.exe artifacts/mewgenics-uk-windows.exe
-          mv artifacts/mewgenics-uk-linux/mewgenics-uk artifacts/mewgenics-uk-linux
-          mv artifacts/mewgenics-uk-macos/mewgenics-uk artifacts/mewgenics-uk-macos
+          mkdir release-artifacts
+          mv artifacts/mewgenics-uk-windows/mewgenics-uk.exe release-artifacts/mewgenics-uk-windows.exe
+          mv artifacts/mewgenics-uk-linux/mewgenics-uk release-artifacts/mewgenics-uk-linux
+          mv artifacts/mewgenics-uk-macos/mewgenics-uk release-artifacts/mewgenics-uk-macos
 
       - uses: release-drafter/release-drafter@v6
         env:
@@ -70,9 +71,9 @@ jobs:
         run: |
           tag=$(gh release list --limit 1 --json tagName --jq '.[0].tagName')
           gh release upload "$tag" \
-            artifacts/mewgenics-uk-windows.exe \
-            artifacts/mewgenics-uk-linux \
-            artifacts/mewgenics-uk-macos \
+            release-artifacts/mewgenics-uk-windows.exe \
+            release-artifacts/mewgenics-uk-linux \
+            release-artifacts/mewgenics-uk-macos \
             --clobber
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
