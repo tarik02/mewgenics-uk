@@ -17,3 +17,7 @@ Reverse Damage,Повернення шкоди
 Down,Повалення
 injure,ушкодження
 down yourself,притворитись мертвим
+buff,позитивний ефект
+debuff,негативний ефект
+figher,боєц
+immune,невразливий

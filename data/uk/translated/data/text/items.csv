@@ -24,8 +24,8 @@ ITEM_ANARCHISTCOOKBOOK_NAME,Anarchist Cookbook,,Книга Анархіста,B.
 ITEM_ANARCHISTCOOKBOOK_DESC,Use: Summon 3-5 grenades that explode at the end of the round or when destroyed.,,"Використати: Викликати 3-5 гранат, які вибухають в кінці раунду або коли їх знищують.",Utilisation&nbsp;: fait apparaître 3&nbsp;à 5&nbsp;grenades qui explosent en fin de manche ou en étant détruites.,"Benutzen: Lasse 3&nbsp;– 5 Granaten erscheinen, die am Ende der Runde, oder wenn sie zerstört werden, explodieren.",Uso: Evochi 3-5 granate che esplodono alla fine del round o quando vengono distrutte.,Uso: invoque 3-5 granadas que explodem no final da rodada ou ao serem destruídas.
 ITEM_ANOINTINGOIL_NAME,Anointing Oil,,Миропомазувальна Олія,Huile d'onction,Salböl,Olio da Unzione,Óleo de Unção
 ITEM_ANOINTINGOIL_DESC,"Use: Cleanse debuffs from an adjacent unit or yourself.
-[s:.7](Usable once per battle.)[/s]",,"Використати: Знімає дебафи з суміжного юніта або з себе.
-[s:.7](Можна використати лише один раз за бій.)[/s]","Utilisation&nbsp;: dissipe les malus d'une unité adjacente ou de vous-même.
+[s:.7](Usable once per battle.)[/s]",,"Використати: Зняти негативні ефекти з сусіднього юніта або себе.
+[s:.7](Можна використати лише раз за бій.)[/s]","Utilisation&nbsp;: dissipe les malus d'une unité adjacente ou de vous-même.
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Benutzen: Reinige deine Schwächungen oder die einer benachbarten Einheit.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Rimuovi i malus da te o da un'unità adiacente.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: purifique enfraquecimentos de si ou de uma unidade adjacente.
@@ -98,8 +98,8 @@ ITEM_BENTSPOON_NAME,Bent Spoon,,Зігнута ложка,Cuillère tordue,Verbo
 ITEM_BENTSPOON_DESC,Use: Pull any unit 1 tile toward you and deal 1 damage to it.,,Використати: Потягніть будь-який юніт на 1 клітинку до вас і завдайте йому 1 шкоди.,Utilisation&nbsp;: tire n'importe quelle unité d'une case vers vous et lui infligez 1&nbsp;dégât.,Benutzen: Ziehe eine beliebige Einheit 1&nbsp;Feld an dich heran und füge ihr 1&nbsp;Schaden zu.,Uso: Tiri un'unità qualsiasi di 1 casella verso di te e le infliggi 1 danno.,Uso: puxe qualquer unidade 1 espaço na sua direção e cause 1 de dano a ela.
 ITEM_BIBLE_NAME,The Bible,,Біблія,La Sainte Bible,Die Bibel,La Bibbia,Bíblia
 ITEM_BIBLE_DESC,"Use: Cleanse one stack of a random debuff from a unit at melee range. 
-Passive: Your heals heal for 1 extra.",,"Використати: Зняти один стек випадкового дебаффа з юніта в межах ближнього бою.
-Пасивне: Ваші зцілення лікують на 1 більше.","Utilisation&nbsp;: dissipe le cumul d'un malus aléatoire d'une unité au corps-à-corps.
+Passive: Your heals heal for 1 extra.",,"Використати: Зняти один стек випадкового негативного ефекту з юніта в ближньому бою.
+Пасивно: ваші зцілення відновлюють на 1 ОЗ більше.","Utilisation&nbsp;: dissipe le cumul d'un malus aléatoire d'une unité au corps-à-corps.
 Passif&nbsp;: vos soins guérissent 1&nbsp;fois de plus.","Benutzen: Reinige einen Stapel einer zufälligen Schwächung bei einer Einheit in Nahkampfreichweite.
 Passiveffekt: Deine Heilungen heilen 1&nbsp;LP mehr.","Uso: Rimuovi uno stack di un malus casuale da un'unità a una distanza corpo a corpo.
 Abilità Passiva: Le tue cure rigenerano 1 PS in più.","Uso: purifique uma acumulação de um enfraquecimento aleatório de uma unidade dentro do alcance corpo-a-corpo.
@@ -127,7 +127,7 @@ ITEM_BLACKMUSHROOM_DESC,"Use: A ranged attack that inflicts Weakness 2.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: um ataque à distância que aplica fraqueza 2.
 [s:.7](Um uso por batalha.)[/s]"
 ITEM_BLESSEDANOINTINGOIL_NAME,Blessed Anointing Oil,,Освячена помазувальна олія,Huile d'onction bénie,Gesegnetes Salböl,Olio da Unzione Benedetto,Óleo de Unção Abençoado
-ITEM_BLESSEDANOINTINGOIL_DESC,Use: Cleanse debuffs and heal an adjacent unit or yourself.,,Використання: Очищує від дебафів і лікує сусідній юніт або себе.,Utilisation&nbsp;: dissipe les malus et régénère les PV d'une unité adjacente ou de vous-même.,Benutzen: Reinige Schwächungen und heile dich oder eine benachbarte Einheit.,Uso: Rimuove i malus e cura te o un'unità adiacente.,Uso: purifique enfraquecimentos e cure a si ou uma unidade adjacente.
+ITEM_BLESSEDANOINTINGOIL_DESC,Use: Cleanse debuffs and heal an adjacent unit or yourself.,,Використати: Зняти негативні ефекти та вилікувати сусіднього юніта або себе.,Utilisation&nbsp;: dissipe les malus et régénère les PV d'une unité adjacente ou de vous-même.,Benutzen: Reinige Schwächungen und heile dich oder eine benachbarte Einheit.,Uso: Rimuove i malus e cura te o un'unità adiacente.,Uso: purifique enfraquecimentos e cure a si ou uma unidade adjacente.
 ITEM_BLOODBUCKET_NAME,Blood Bucket,,Відро крові,Seau de sang,Bluteimer,Secchio di Sangue,Balde de Sangue
 ITEM_BLOODBUCKET_DESC,Use: A lobbed attack that creates a creep puddle.,,"Використання: Кидкова атака, яка створює калюжу слизу.",Utilisation&nbsp;: une attaque en cloche qui génère une flaque de substance visqueuse.,"Benutzen: Ein Angriff, der Hindernisse ignoriert und eine gruselige Pfütze erschafft.",Uso: Un attacco a parabola che crea una pozza di melma.,Uso: um ataque em arco que cria uma poça de gosma.
 ITEM_BLOODYBAGOFGLASS_NAME,Bloody Bag of Glass,,Кривавий мішок зі скла,Sac de verre ensanglanté,Blutige Scherbentasche,Sacco di Vetro Insanguinato,Saco de Vidro Ensanguentado
@@ -417,7 +417,7 @@ Gere uma moeda em um espaço aleatório no final de cada turno."
 ITEM_GRAPPLINGHOOK_NAME,Grappling Hook,,Гак,Grappin,Enterhaken,Rampino,Gancho de Escalada
 ITEM_GRAPPLINGHOOK_DESC,Use: Pull yourself toward a unit or object.,,Використання: Притягніть себе до юніта або об'єкта.,Utilisation&nbsp;: vous attire vers une unité ou un objet.,Benutzen: Zieh dich selbst an eine Einheit oder ein Objekt heran.,Uso: Ti tiri verso un'unità o un oggetto.,Uso: puxe-se na direção de um objeto ou unidade.
 ITEM_GRENADE_NAME,Grenade,,Граната,Grenade,Granate,Granata,Granada
-ITEM_GRENADE_DESC,Use: Throw a grenade that explodes and shreds 5 stacks of random buffs off of whatever it hits.,,"Використання: Киньте гранату, яка вибухає та зриває 5 стеків випадкових бафів з того, куди вона влучила.",Utilisation&nbsp;: lance une grenade qui explose et retire 5&nbsp;cumuls de bonus aléatoires à la cible touchée.,"Benutzen: Wirf eine Granate, die explodiert und 5&nbsp;zufällige Stärkungen von Einheiten entfernt, die sie trifft.",Uso: Lanci una granata che esplode e distrugge 5 stack di bonus casuali da ciò che colpisce.,Uso: lance uma granada que explode e destrói 5 acumulações de fortalecimentos aleatórios do que quer que atinja.
+ITEM_GRENADE_DESC,Use: Throw a grenade that explodes and shreds 5 stacks of random buffs off of whatever it hits.,,"Використати: Кинути гранату, що вибухає і знімає 5 стеків випадкових позитивних ефектів з того, у що потрапить.",Utilisation&nbsp;: lance une grenade qui explose et retire 5&nbsp;cumuls de bonus aléatoires à la cible touchée.,"Benutzen: Wirf eine Granate, die explodiert und 5&nbsp;zufällige Stärkungen von Einheiten entfernt, die sie trifft.",Uso: Lanci una granata che esplode e distrugge 5 stack di bonus casuali da ciò che colpisce.,Uso: lance uma granada que explode e destrói 5 acumulações de fortalecimentos aleatórios do que quer que atinja.
 ITEM_GRIPTRAINER_NAME,Grip Trainer,,Тренажер Хвату,Renforce‑poigne,Fingertrainer,Rinforzante per la Presa,Treinador de Pegada
 ITEM_GRIPTRAINER_DESC,Use: Gain +1 [img:str].,,Використати: Отримайте +1 [img:str].,Utilisation&nbsp;: [img:str] +1.,Benutzen: Erhalte +1&nbsp;[img:str].,Uso: Ottieni +1 alla [img:str].,Uso: obtenha +1 de [img:str].
 ITEM_HARPYSCLAW_NAME,Harpy's Claw,,Кіготь Гарпії,Griffe de harpie,Harpyienklaue,Artiglio dell'Arpia,Garra de Harpia
@@ -1105,8 +1105,8 @@ ITEM_BAGOFSEEDS_NAME,Bag of Seeds,,Мішок насіння,Sac de graines,Beut
 ITEM_BAGOFSEEDS_DESC,"Use: Spawn grass, flowers, or brambles on an adjacent tile.",,"Використання: Заспавнити траву, квіти або колючі зарості на суміжній клітинці.","Utilisation&nbsp;: fait apparaître de l'herbe, des fleurs ou des ronces sur une case adjacente.","Benutzen: Lasse Gras, Blumen oder Dornengestrüpp auf einem benachbarten Feld erscheinen.","Uso: Generi erba, fiori o rovi su una casella adiacente.","Uso: gere grama, flores ou espinheiros em um espaço adjacente."
 ITEM_BALLOFBANDAGES_NAME,Ball of Bandages,,Клубок бинтів,Boule de pansements,Beutel mit Bandagen,Palla di Bende,Bola de Bandagens
 ITEM_BALLOFBANDAGES_DESC,"Cleanse one stack of a random debuff at the end of each turn.
-+1 Health Regen.",,"Очищає один стек випадкового дебафа в кінці кожного ходу.
-+1 відновлення здоров'я.","Dissipe un cumul de malus aléatoire à la fin de chaque tour.
++1 Health Regen.",,"Наприкінці кожного ходу знімає один стек випадкового негативного ефекту.
++1 відновлення ОЗ.","Dissipe un cumul de malus aléatoire à la fin de chaque tour.
 Régénération de PV +1.","Reinige am Ende jedes Zuges einen Stapel einer zufälligen Schwächung.
 +1&nbsp;Lebensregeneration.","Rimuovi uno stack di un malus casuale alla fine di ogni turno.
 +1 a Rigenerazione Salute.","Purifique uma acumulação de um enfraquecimento aleatório no final de cada turno.
@@ -1349,8 +1349,8 @@ ITEM_HEXAGRAMSIGIL_NAME,Hexagram Sigil,,Печатка Гексаграми,Hexa
 ITEM_HEXAGRAMSIGIL_DESC,"+3 Magic Damage.
 You are immune to buffs and debuffs.
 When you die, you don't leave a corpse.",,"+3 до магічної шкоди.
-Ви імунні до бафів та дебафів.
-Коли ви вмираєте, ви не лишаєте тіла.","Dégâts magiques +3.
+Ви невразливі до позитивних та негативних ефектів.
+Коли Ви вмираєте, Ви не лишаєте трупа.","Dégâts magiques +3.
 Les bonus et malus ne vous affectent pas.
 Quand vous mourrez, vous ne laissez pas de cadavre.","+3&nbsp;magischer Schaden.
 Du bist immun gegen Stärkungen und Schwächungen.
@@ -1761,8 +1761,8 @@ ITEM_SKULLOFGLORG_DESC,Your spells cost -1 mana for each parasite you have equip
 //consumables,,,,,,,
 ITEM_ANTIDOTE_NAME,Antidote,,Антидот,Antidote,Gegengift,Antidoto,Antídoto
 ITEM_ANTIDOTE_DESC,"Use: Cleanse all debuffs.
-This can be used on adjacent units.",,"Використати: Зняти всі дебафи.
-Можна використовувати на сусідніх юнітах.","Utilisation&nbsp;: dissipe tous les malus.
+This can be used on adjacent units.",,"Використати: Зняти всі негативні ефекти.
+Можна застосувати до сусідніх юнітів.","Utilisation&nbsp;: dissipe tous les malus.
 Utilisable sur les unités adjacentes.","Benutzen: Reinige alle Schwächungen.
 Kann auf benachbarte Einheiten angewendet werden.","Uso: Rimuovi tutti i malus.
 Può essere usato sulle unità adiacenti.","Uso: purifique todos os enfraquecimentos.
@@ -1794,7 +1794,7 @@ ITEM_DISCOBISCUIT_DESC,Use: Gain +{aux} [img:cha] for the rest of the battle and
 ITEM_DRUIDSEAL_NAME,Druid Seal,,Печатка Друїда,Sceau du druide,Druidensiegel,Sigillo del Druido,Selo de Druida
 ITEM_DRUIDSEAL_DESC,Use: Permanently turn into a Druid.,,Використати: Назавжди перетворися в Друїда.,Utilisation&nbsp;: vous change en druide de façon permanente.,Benutzen: Werde dauerhaft zu einem Druiden.,Uso: Ti trasformi permanentemente in un Druido.,Uso: torne-se um druida permanentemente.
 ITEM_ENEMA_NAME,Enema,,Клізма,Lavement,Einlauf,Clistere,Enema
-ITEM_ENEMA_DESC,Use: Cleanse all buffs and debuffs.,,Використати: Зніми всі бафи та дебафи.,Utilisation&nbsp;: dissipe tous les bonus et malus.,Benutzen: Reinige alle Stärkungen und Schwächungen.,Uso: Rimuovi tutti i bonus e i malus.,Uso: purifique todos os fortalecimentos ou enfraquecimentos.
+ITEM_ENEMA_DESC,Use: Cleanse all buffs and debuffs.,,Використати: Зняти всі позитивні та негативні ефекти.,Utilisation&nbsp;: dissipe tous les bonus et malus.,Benutzen: Reinige alle Stärkungen und Schwächungen.,Uso: Rimuovi tutti i bonus e i malus.,Uso: purifique todos os fortalecimentos ou enfraquecimentos.
 ITEM_EXPERIMENTX_NAME,Experiment X,,Експеримент X,Expérience X,Experiment X,Esperimento X,Experimento X
 ITEM_EXPERIMENTX_DESC,Use: ???,,Використати: ???,Utilisation&nbsp;:&nbsp;???,Benutzen: ???,Uso: ???,Uso: ???
 ITEM_EYEBALL_NAME,Eyeball,,Очне яблуко,Globe oculaire,Augapfel,Bulbo Oculare,Globo Ocular
@@ -2187,8 +2187,8 @@ ARMOR_BOXINGCHARM_NAME,Boxing Charm,,Боксерський Талісман,Por
 ARMOR_BOXINGCHARM_DESC,Start with +1 bonus attack.,,Починай з +1 до бонусної атаки.,Vous débutez avec Attaque bonus +1.,Beginne jeden Kampf mit +1&nbsp;Bonusangriff.,Inizi con +1 attacco bonus.,Inicie com +1 ataque bônus.
 ARMOR_BRAMBLES_NAME,Brambles,,Тернина,Ronces,Dornengestrüpp,Rovi,Espinheiros
 ARMOR_BRAMBLES_DESC,"+1 Thorns. Spawn brambles in adjacent tiles when you end your turn.
-You are immune to tile effects.",,"+1 до шипів. Заспавнюєш колючі кущі в суміжних клітинках, коли завершуєш свій хід.
-Ти імунний до ефектів клітинок.","Épines +1. Fait apparaître des ronces sur des cases adjacentes à la fin de votre tour.
+You are immune to tile effects.",,"+1 до шипів. Заспавнює колючі кущі у суміжних клітинках, коли Ви завершуєте свій хід.
+Ви невразливі до ефектів клітинок.","Épines +1. Fait apparaître des ronces sur des cases adjacentes à la fin de votre tour.
 Immunité aux effets de case.","+1&nbsp;Dornen. Erschaffe Dornengestrüpp auf benachbarten Feldern, wenn du deinen Zug beendest.
 Du bist immun gegen Feldeffekte.","+1 Spine. Generi rovi nelle caselle adiacenti quando termini il turno.
 Sei immune agli effetti delle caselle.","+1 de espinhos. Gere espinheiros em espaços adjacentes ao finalizar seu turno.
@@ -3746,7 +3746,7 @@ SETBONUS_PROWLER_NAME,Prowler Set Bonus!,,Бонус набору Шастуна
 SETBONUS_PROWLER_DESC,Backstabs are always critical.,,Удари в спину завжди критичні.,Les attaques sournoises sont toujours critiques.,"Greifst du von hinten an, triffst du immer kritisch.",I colpi alle spalle sono sempre critici.,Punhaladas são sempre críticos.
 ,,,,,,,
 ARMOR_TINFOILHAT_NAME,Tinfoil Hat,,Капелюх із фольги,Chapeau en papier d'alu,Aluhut,Cappello di Stagnola,Chapéu de Papel Alumínio
-ARMOR_TINFOILHAT_DESC,"You are immune to Charm, Madness, Fear and Confusion.",,"Ви імунні до Зачарування, Божевілля, Страху та Сплутаності.","Immunité à l'Envoûtement, la Folie, la Peur et la Confusion.","Du bist immun gegen Charme, Wahnsinn, Angst und Verwirrung.","Sei immune a Fascino, Follia, Paura e Confusione.","Você é imune contra feitiço, insanidade, medo e confusão."
+ARMOR_TINFOILHAT_DESC,"You are immune to Charm, Madness, Fear and Confusion.",,"Ви невразливі до зачарування, божевілля, страху та сплутаності.","Immunité à l'Envoûtement, la Folie, la Peur et la Confusion.","Du bist immun gegen Charme, Wahnsinn, Angst und Verwirrung.","Sei immune a Fascino, Follia, Paura e Confusione.","Você é imune contra feitiço, insanidade, medo e confusão."
 ARMOR_MYSTICEYE_NAME,Mystic Eye,,Містичне Око,Œil mystique,Mystisches Auge,Occhio Mistico,Olho Místico
 ARMOR_MYSTICEYE_DESC,+25% chance to reflect projectiles. Your tile-targeted spells have +2 range.,,"+25% шанс відбивати снаряди. Ваші заклинання, що націлені на клітинки, мають +2 до дальності.",Chances de renvoyer les projectiles +25&nbsp;%. Vos sorts ciblant une case gagnent Portée +2.,"+25&nbsp;% Wahrscheinlichkeit, Geschosse zu reflektieren. Deine Zauber, die auf ein Einzelfeld zielen, haben +2&nbsp;Reichweite.",+25% di probabilità di riflettere i proiettili. Gli incantesimi che prendono di mira le caselle hanno +2 al raggio d'azione.,+25% de chance de refletir projéteis. Seus encantamentos voltados para espaços possuem +2 de alcance.
 ARMOR_DIVINERSCLOTH_NAME,Diviner's Cloth,,Тканина Провидця,Étoffe de devin,Wahrsagerrobe,Tessuto del Divinatore,Pano de Vidente
@@ -4472,9 +4472,9 @@ Transforma-se após 20 absorções.
 ITEM_BLACKSHARD_GLOWING_NAME,Glowing Black Shard,,Сяючий чорний уламок,Sombréclat scintillant,Glühender Schwarzer Splitter,Frammento Nero Luminescente,Fragmento Negro Brilhante
 ITEM_BLACKSHARD_GLOWING_DESC,"Stab it into The Coven! 
 Use: Deal 5 damage with Lifesteal, inflict Burn 5, and purge all buffs. Instantly kills The Coven.
-[s:.7](Usable once per battle.)[/s]",,"Вколи це в The Coven! 
-Використати: Завдає 5 шкоди з вампіризмом, накладає Опік 5 та знімає всі бафи. Миттєво вбиває The Coven.
-[s:.7](Можна використати один раз за бій.)[/s]","Balance ça dans l'Amalgamation&nbsp;!
+[s:.7](Usable once per battle.)[/s]",,"Всади це в The Coven! 
+Використати: Завдає 5 шкоди з поглинанням життя, накладає Опік 5 і знімає всі позитивні ефекти. Миттєво вбиває The Coven.
+[s:.7](Можна використати лише раз за бій.)[/s]","Balance ça dans l'Amalgamation&nbsp;!
 Utilisation&nbsp;: inflige 5&nbsp;dégâts avec Vol de vie, applique Brûlure +5, et dissipe tous les bonus. Tue instantanément la Congrégation.
 [s:.7](Utilisable 1&nbsp;fois par combat.)[/s]","Stich den Zirkel mit ihm ab!
 Benutzen: Verursache 5&nbsp;Schaden mit Lebensabsaugung, Verbrennung&nbsp;5 und reinige alle Stärkungen. Tötet den Zirkel sofort.

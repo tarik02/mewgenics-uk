@@ -1098,9 +1098,9 @@ ENEMY_HANGERBOT_CHARMED_NAME,Hängenbot friend,,Hängenbot friend,Hängenbot ami
 ENEMY_DOKTORBOT_NAME,Doktorbot,Doctor Bot,Doktorbot,Doktorbot,Doktorbot,Doktorbot,Doktorbot
 ENEMY_DOKTORBOT_DESC,"Heals its allies and gives them random buffs.
 Spawns Invaders.
-Collects Pickups.",,"Лікує союзників і дає їм випадкові бафи.
+Collects Pickups.",,"Лікує своїх союзників і надає їм випадкові позитивні ефекти.
 Заспавнює Invaders.
-Підбирає предмети.","Soigne ses alliés et leur confère des bonus aléatoires.
+Збирає предмети.","Soigne ses alliés et leur confère des bonus aléatoires.
 Invoque des envahisseurs.
 Ramasse les ressources.","Heilt seine Verbündeten und verleiht ihnen zufällige Stärkungen.
 Lässt Eindringlinge erscheinen.
@@ -1112,13 +1112,13 @@ Pega coletáveis."
 ENEMY_KRUGHEAD_NAME,Krughead,jar head,Krughead,Bierkopf,Krugkopf,Testa in Barattolen,Cabeça de Jarro
 ENEMY_KRUGHEAD_DESC,"Melee attacker. Gives its allies extra turns.
 Immune to Magic and Debuffs.",,"Ближній атакувальник. Надає своїм союзникам додаткові ходи.
-Невразливий до магії та дебафів.","Attaque au corps-à-corps. Confère des tours bonus à ses alliés.
+Імунний до Магії та негативних ефектів.","Attaque au corps-à-corps. Confère des tours bonus à ses alliés.
 Immunité aux dégâts magiques et aux malus.","Nahkämpfer. Verleiht seinen Verbündeten zusätzliche Züge.
 Immun gegen Magie und Schwächungen.","Specialista del corpo a corpo. Fornisce ai suoi alleati turni aggiuntivi.
 Immune alla magia e ai malus.","Agressor corpo-a-corpo. Concede turnos extras a aliados.
 Imune contra magia e enfraquecimentos."
 ENEMY_FETUSJAR_NAME,Fötusjar,fetus jar,Fötusjar,Fötusjar,Fötusglas,Feto in Barattolen,Fötusjar
-ENEMY_FETUSJAR_DESC,Multi-hit melee attacker. Immune to Magic and Debuffs.,,"Ближній атакувальник, що наносить кілька ударів. Невразливий до магії та дебафів.",Attaque multiple au corps-à-corps. Immunité aux dégâts magiques et aux malus.,Nahkämpfer mit Mehrfachtreffer. Immun gegen Magie und Schwächungen.,Specialista degli attacchi corpo a corpo multipli. Immune alla magia e ai malus.,Agressor corpo-a-corpo multigolpes. Imune a magia e enfraquecimentos.
+ENEMY_FETUSJAR_DESC,Multi-hit melee attacker. Immune to Magic and Debuffs.,,Багатоударний ближній атакувальник. Імунний до Магії та негативних ефектів.,Attaque multiple au corps-à-corps. Immunité aux dégâts magiques et aux malus.,Nahkämpfer mit Mehrfachtreffer. Immun gegen Magie und Schwächungen.,Specialista degli attacchi corpo a corpo multipli. Immune alla magia e ai malus.,Agressor corpo-a-corpo multigolpes. Imune a magia e enfraquecimentos.
 ENEMY_FETUSNOJAR_NAME,Der Fötus,"fetus (no jar) [""der fetus"" is a loose pun on Dr Fetus from meat boy]",Der Fötus,Der Fötus,Der Fötus,Der Fötus,Der Fötus
 ENEMY_FETUSNOJAR_DESC,"Multi-hit melee attacker.
 Calls an airstrike when at low health.",,"Ближній атакувальник, що наносить кілька ударів.
@@ -2576,7 +2576,7 @@ OBJECT_MINIVOLCANO_NAME,Mini Volcano,,Міні-Вулкан,Mini volcan,Minivulk
 OBJECT_MINIVOLCANO_DESC,Spawns lava rocks when attacked.,,"Заспавнює лавові камені, коли на нього нападають.",Fait apparaître des cailloux chauds bouillants quand il est attaqué.,"Lässt Lavasteine erscheinen, wenn er angegriffen wird.",Quando viene attaccato genera rocce di lava.,Gera pedras de lava ao sofrer ataques.
 OBJECT_PUNCHINGBAG_NAME,Punching Bag,,Боксерська груша,Sac de frappe,Sandsack,Sacco da Boxe,Saco de Pancada
 OBJECT_GRENADE_NAME,Grenade,,Граната,Grenade,Granate,Granata,Granada
-OBJECT_GRENADE_DESC,Explodes on its turn or if it's destroyed. Explosion shreds 5 stacks of random buffs off of whatever it hits.,,"Вибухає у свій хід або коли її знищують. Вибух зриває 5 стеків випадкових бафів з будь-кого, по кому він влучає.",Explose durant son tour ou si elle est détruite. L'explosion retire 5&nbsp;cumuls de bonus aléatoires à toutes les cibles touchées.,"Explodiert in ihrem Zug, oder wenn sie zerstört wird. Die Explosion entfernt 5&nbsp;Stapel zufälliger Stärkungen von Einheiten, die sie trifft.","Esplode durante il suo turno o se viene distrutta.
+OBJECT_GRENADE_DESC,Explodes on its turn or if it's destroyed. Explosion shreds 5 stacks of random buffs off of whatever it hits.,,"Вибухає у свій хід або якщо його знищать. Вибух знімає 5 стеків випадкових позитивних ефектів з будь-якої цілі, у яку він влучає.",Explose durant son tour ou si elle est détruite. L'explosion retire 5&nbsp;cumuls de bonus aléatoires à toutes les cibles touchées.,"Explodiert in ihrem Zug, oder wenn sie zerstört wird. Die Explosion entfernt 5&nbsp;Stapel zufälliger Stärkungen von Einheiten, die sie trifft.","Esplode durante il suo turno o se viene distrutta.
 L'esplosione rimuove 5 stack casuali di bonus da qualunque cosa colpisca.",Explode em seu turno ou ao ser destruída. A explosão destrói 5 acumulações de fortalecimentos aleatórios ou qualquer coisa que atinja.
 OBJECT_SLOTMACHINE_NAME,Slot Machine,,Ігровий автомат,Machine à sous,Spielautomat,Slot Machine,Máquina Caça-Níqueis
 OBJECT_SLOTMACHINE_DESC,Attack to play! Explodes when destroyed.,,"Атакуйте, щоб зіграти! Вибухає при знищенні.",Attaquez pour jouer&nbsp;! Explose quand elle est détruite.,"Angreifen, um zu spielen! Explodiert, wenn er zerstört wird.",Attacca per giocare! Esplode quando viene distrutta.,Ataque para jogar! Explode ao ser destruída.
@@ -2654,7 +2654,7 @@ PICKUP_MEDIUMCATNIP_DESC,Gain +4 mana when eaten.,,Надає +4 мани при
 PICKUP_BIGCATNIP_NAME,Big Catnip,,Велика котяча м'ята,Grosse herbe à chat,Große Katzenminze,Erba Gatta Grande,Erva-de-Gato Grande
 PICKUP_BIGCATNIP_DESC,Gain +6 mana when eaten.,,Надає +6 мани при з'їданні.,"Consommée, confère Mana +6.",Erhalte +6&nbsp;Mana.,Ottieni +6 al mana quando la mangi.,Obtenha +6 de mana ao comer.
 PICKUP_ANTIDOTE_NAME,Antidote,,Антидот,Antidote,Gegengift,Antidoto,Antídoto
-PICKUP_ANTIDOTE_DESC,Cleanse all debuffs when eaten.,,Знімає всі дебафи при з'їданні.,Consommé dissipe tous les malus.,Reinige alle Schwächungen.,Elimina tutti i malus quando viene ingerito.,Purifica todos os enfraquecimentos ao comer.
+PICKUP_ANTIDOTE_DESC,Cleanse all debuffs when eaten.,,"Очищає всі негативні ефекти, коли його з'їдають.",Consommé dissipe tous les malus.,Reinige alle Schwächungen.,Elimina tutti i malus quando viene ingerito.,Purifica todos os enfraquecimentos ao comer.
 ,,,,,,,
 //tiles,,,,,,,
 TILE_BRAMBLETILE_NAME,Bramble Tile,,Колюча клітинка,Case de ronces,Dornengestrüpp,Casella di Rovi,Espaço de Espinheiro
