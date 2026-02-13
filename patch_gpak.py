@@ -25,8 +25,8 @@ def collect_replacements(translations_dir: Path) -> dict[str, Path]:
     for file in translations_dir.rglob("*"):
         if not file.is_file():
             continue
-        rel = file.relative_to(translations_dir)
-        replacements[str(rel)] = file
+        rel = str(file.relative_to(translations_dir)).replace("\\", "/")
+        replacements[rel] = file
     return replacements
 
 
