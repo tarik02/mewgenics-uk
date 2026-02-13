@@ -1,0 +1,78 @@
+name: Build executables
+
+on:
+  push:
+    branches:
+      - '*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        include:
+          - os: windows-latest
+            artifact: mewgenics-uk-windows
+            exe: mewgenics-uk.exe
+          - os: ubuntu-latest
+            artifact: mewgenics-uk-linux
+            exe: mewgenics-uk
+          - os: macos-latest
+            artifact: mewgenics-uk-macos
+            exe: mewgenics-uk
+
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - uses: astral-sh/setup-uv@v7
+
+      - name: Set up Python
+        run: uv sync
+
+      - name: Build executable
+        run: uv run --group build python build_exe.py
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v6
+        with:
+          name: ${{ matrix.artifact }}
+          path: dist/${{ matrix.exe }}
+
+  release:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/download-artifact@v7
+        with:
+          path: artifacts
+
+      - name: Prepare release files
+        run: |
+          mv artifacts/mewgenics-uk-windows/mewgenics-uk.exe artifacts/mewgenics-uk-windows.exe
+          mv artifacts/mewgenics-uk-linux/mewgenics-uk artifacts/mewgenics-uk-linux
+          mv artifacts/mewgenics-uk-macos/mewgenics-uk artifacts/mewgenics-uk-macos
+
+      - uses: release-drafter/release-drafter@v6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload release assets
+        run: |
+          tag=$(gh release list --limit 1 --json tagName --jq '.[0].tagName')
+          gh release upload "$tag" \
+            artifacts/mewgenics-uk-windows.exe \
+            artifacts/mewgenics-uk-linux \
+            artifacts/mewgenics-uk-macos \
+            --clobber
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
